@@ -1,0 +1,3889 @@
+{
+  "animeData": [
+    {
+      "id": 1868,
+      "series_id": 2446,
+      "year": 1990,
+      "season": "spring",
+      "title": "ふしぎの海のナディア"
+    },
+    {
+      "id": 1247,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "楽しいムーミン一家"
+    },
+    {
+      "id": 257,
+      "series_id": 1011,
+      "year": 1990,
+      "season": "spring",
+      "title": "NG騎士ラムネ&40"
+    },
+    {
+      "id": 55,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "アイドル天使ようこそようこ"
+    },
+    {
+      "id": 2095,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "魔法のエンジェル スイートミント"
+    },
+    {
+      "id": 2227,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "もーれつア太郎（1990年）"
+    },
+    {
+      "id": 3916,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "ガタピシ"
+    },
+    {
+      "id": 11727,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "オバタリアン"
+    },
+    {
+      "id": 11857,
+      "series_id": null,
+      "year": 1990,
+      "season": "spring",
+      "title": "スパイラルゾーン"
+    },
+    {
+      "id": 2391,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "ルパン三世 ヘミングウェイ・ペーパーの謎"
+    },
+    {
+      "id": 2024,
+      "series_id": 1380,
+      "year": 1990,
+      "season": "summer",
+      "title": "まじかる☆タルるートくん"
+    },
+    {
+      "id": 2445,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "ロビンフッドの大冒険"
+    },
+    {
+      "id": 6733,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "それいけ！アンパンマン みなみの海をすくえ！"
+    },
+    {
+      "id": 7893,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "藤子不二雄Ⓐの夢魔子"
+    },
+    {
+      "id": 3894,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "魔法少女レインボーブライト"
+    },
+    {
+      "id": 10008,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "ガジェット警部"
+    },
+    {
+      "id": 10007,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "カラス天狗カブト"
+    },
+    {
+      "id": 11648,
+      "series_id": null,
+      "year": 1990,
+      "season": "summer",
+      "title": "コボちゃんスペシャル 秋がいっぱい!!"
+    },
+    {
+      "id": 8562,
+      "series_id": 96,
+      "year": 1990,
+      "season": "autumn",
+      "title": "ドラゴンボールZ たったひとりの最終決戦〜フリーザに挑んだZ戦士 孫悟空の父〜"
+    },
+    {
+      "id": 2158,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "三つ目がとおる"
+    },
+    {
+      "id": 381,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "からくり剣豪伝ムサシロード"
+    },
+    {
+      "id": 2431,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "RPG伝説ヘポイ"
+    },
+    {
+      "id": 1796,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "ピグマリオ"
+    },
+    {
+      "id": 9771,
+      "series_id": 2189,
+      "year": 1990,
+      "season": "autumn",
+      "title": "きかんしゃトーマス 第1シーズン"
+    },
+    {
+      "id": 7168,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "八百八町表裏 化粧師"
+    },
+    {
+      "id": 280,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "江戸っ子ボーイ がってん太助"
+    },
+    {
+      "id": 10010,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "三丁目の夕日"
+    },
+    {
+      "id": 10009,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "PEACH COMMAND 新桃太郎伝説"
+    },
+    {
+      "id": 10011,
+      "series_id": null,
+      "year": 1990,
+      "season": "autumn",
+      "title": "らくごアニメ 滝田ゆう落語劇場"
+    },
+    {
+      "id": 1263,
+      "series_id": 2567,
+      "year": 1990,
+      "season": "winter",
+      "title": "ちびまる子ちゃん"
+    },
+    {
+      "id": 2127,
+      "series_id": 2014,
+      "year": 1990,
+      "season": "winter",
+      "title": "魔神英雄伝ワタル2"
+    },
+    {
+      "id": 1958,
+      "series_id": 551,
+      "year": 1990,
+      "season": "winter",
+      "title": "平成天才バカボン"
+    },
+    {
+      "id": 656,
+      "series_id": null,
+      "year": 1990,
+      "season": "winter",
+      "title": "雲のように風のように"
+    },
+    {
+      "id": 2480,
+      "series_id": null,
+      "year": 1990,
+      "season": "winter",
+      "title": "私のあしながおじさん"
+    },
+    {
+      "id": 503,
+      "series_id": null,
+      "year": 1990,
+      "season": "winter",
+      "title": "キャッ党忍伝てやんでえ"
+    },
+    {
+      "id": 2285,
+      "series_id": 313,
+      "year": 1990,
+      "season": "winter",
+      "title": "勇者エクスカイザー"
+    },
+    {
+      "id": 1316,
+      "series_id": null,
+      "year": 1990,
+      "season": "winter",
+      "title": "つる姫じゃ〜っ!"
+    },
+    {
+      "id": 11971,
+      "series_id": null,
+      "year": 1990,
+      "season": "winter",
+      "title": "宇宙を夢みた男たち"
+    },
+    {
+      "id": 887,
+      "series_id": 666,
+      "year": 1991,
+      "season": "spring",
+      "title": "シティーハンター'91"
+    },
+    {
+      "id": 935,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "少年アシベ"
+    },
+    {
+      "id": 1134,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "絶対無敵ライジンオー"
+    },
+    {
+      "id": 1522,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "21エモン"
+    },
+    {
+      "id": 283,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "OH!MYコンブ"
+    },
+    {
+      "id": 3917,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "アニメひみつの花園"
+    },
+    {
+      "id": 905,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "ジャンケンマン"
+    },
+    {
+      "id": 1624,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "ハイスクールミステリー学園七不思議"
+    },
+    {
+      "id": 581,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "機甲警察メタルジャック"
+    },
+    {
+      "id": 1435,
+      "series_id": 762,
+      "year": 1991,
+      "season": "spring",
+      "title": "どろろんぱっ!"
+    },
+    {
+      "id": 1258,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "ちいさなおばけ アッチ・コッチ・ソッチ"
+    },
+    {
+      "id": 10014,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "スピルバーグのアニメ タイニー・トゥーン"
+    },
+    {
+      "id": 9743,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "ふたりはなかよし"
+    },
+    {
+      "id": 9995,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "おてんきボーイズ"
+    },
+    {
+      "id": 10015,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "アイドル忍者タートルズ"
+    },
+    {
+      "id": 9996,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "えくぼおうじ"
+    },
+    {
+      "id": 10016,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "未知の海へ ダーク・ウォーター"
+    },
+    {
+      "id": 11902,
+      "series_id": null,
+      "year": 1991,
+      "season": "spring",
+      "title": "満ちてくる時のむこうに"
+    },
+    {
+      "id": 2388,
+      "series_id": null,
+      "year": 1991,
+      "season": "summer",
+      "title": "ルパン三世 ナポレオンの辞書を奪え"
+    },
+    {
+      "id": 5669,
+      "series_id": null,
+      "year": 1991,
+      "season": "summer",
+      "title": "おにいさまへ…"
+    },
+    {
+      "id": 10018,
+      "series_id": null,
+      "year": 1991,
+      "season": "summer",
+      "title": "キャプテン・プラネット"
+    },
+    {
+      "id": 10017,
+      "series_id": null,
+      "year": 1991,
+      "season": "summer",
+      "title": "スターカム"
+    },
+    {
+      "id": 11649,
+      "series_id": null,
+      "year": 1991,
+      "season": "summer",
+      "title": "コボちゃんスペシャル 夢いっぱい!!"
+    },
+    {
+      "id": 1460,
+      "series_id": 1112,
+      "year": 1991,
+      "season": "autumn",
+      "title": "ドラゴンクエスト ダイの大冒険"
+    },
+    {
+      "id": 2014,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "炎の闘球児 ドッジ弾平"
+    },
+    {
+      "id": 522,
+      "series_id": 2039,
+      "year": 1991,
+      "season": "autumn",
+      "title": "キン肉マン　キン肉星王位争奪編"
+    },
+    {
+      "id": 2099,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "魔法のプリンセス ミンキーモモ 夢を抱きしめて"
+    },
+    {
+      "id": 1248,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "楽しいムーミン一家 冒険日記"
+    },
+    {
+      "id": 689,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "ゲンジ通信あげだま"
+    },
+    {
+      "id": 2329,
+      "series_id": 2092,
+      "year": 1991,
+      "season": "autumn",
+      "title": "横山光輝 三国志"
+    },
+    {
+      "id": 2074,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "丸出だめ夫"
+    },
+    {
+      "id": 2465,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "わたしとわたし ふたりのロッテ"
+    },
+    {
+      "id": 5176,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "ウルトラマンキッズ 母をたずねて3000万光年"
+    },
+    {
+      "id": 7701,
+      "series_id": 1413,
+      "year": 1991,
+      "season": "autumn",
+      "title": "チエちゃん奮戦記 じゃりン子チエ"
+    },
+    {
+      "id": 2249,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "燃えろ!トップストライカー"
+    },
+    {
+      "id": 10019,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "Reporter Blues"
+    },
+    {
+      "id": 11059,
+      "series_id": null,
+      "year": 1991,
+      "season": "autumn",
+      "title": "バカボンおそ松のカレーをたずねて三千里"
+    },
+    {
+      "id": 492,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "きんぎょ注意報！"
+    },
+    {
+      "id": 1932,
+      "series_id": 1671,
+      "year": 1991,
+      "season": "winter",
+      "title": "新世紀GPXサイバーフォーミュラ"
+    },
+    {
+      "id": 1233,
+      "series_id": 313,
+      "year": 1991,
+      "season": "winter",
+      "title": "太陽の勇者ファイバード"
+    },
+    {
+      "id": 308,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "おばけのホーリー"
+    },
+    {
+      "id": 1441,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "トラップ一家物語"
+    },
+    {
+      "id": 688,
+      "series_id": 1709,
+      "year": 1991,
+      "season": "winter",
+      "title": "ゲッターロボ號"
+    },
+    {
+      "id": 3907,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "おれは直角"
+    },
+    {
+      "id": 296,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "おちゃめなふたご クレア学院物語"
+    },
+    {
+      "id": 586,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "緊急発進セイバーキッズ"
+    },
+    {
+      "id": 9772,
+      "series_id": 2189,
+      "year": 1991,
+      "season": "winter",
+      "title": "きかんしゃトーマス 第2シーズン"
+    },
+    {
+      "id": 10012,
+      "series_id": 2437,
+      "year": 1991,
+      "season": "winter",
+      "title": "人魚姫 マリーナの冒険"
+    },
+    {
+      "id": 10013,
+      "series_id": null,
+      "year": 1991,
+      "season": "winter",
+      "title": "ギャラクシー・ハイスクール"
+    },
+    {
+      "id": 636,
+      "series_id": 447,
+      "year": 1992,
+      "season": "spring",
+      "title": "クレヨンしんちゃん"
+    },
+    {
+      "id": 633,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "クッキングパパ"
+    },
+    {
+      "id": 693,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "元気爆発ガンバルガー"
+    },
+    {
+      "id": 1052,
+      "series_id": 2489,
+      "year": 1992,
+      "season": "spring",
+      "title": "スーパービックリマン"
+    },
+    {
+      "id": 1308,
+      "series_id": 6,
+      "year": 1992,
+      "season": "spring",
+      "title": "超電動ロボ鉄人28号FX"
+    },
+    {
+      "id": 322,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "おーい！竜馬"
+    },
+    {
+      "id": 32,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "あしたへフリーキック"
+    },
+    {
+      "id": 22,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "ああ播磨灘"
+    },
+    {
+      "id": 827,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "サラダ十勇士トマトマン"
+    },
+    {
+      "id": 1272,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "チロリン村物語"
+    },
+    {
+      "id": 1279,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "地球SOSそれいけコロリン"
+    },
+    {
+      "id": 744,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "コビーの冒険"
+    },
+    {
+      "id": 9773,
+      "series_id": 2189,
+      "year": 1992,
+      "season": "spring",
+      "title": "きかんしゃトーマス 第3シーズン"
+    },
+    {
+      "id": 8230,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "さすらいくん"
+    },
+    {
+      "id": 10021,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "まんが日本史(1992年)"
+    },
+    {
+      "id": 10022,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "テイルスピン"
+    },
+    {
+      "id": 10020,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "ファンタジーアドベンチャー 長靴をはいた猫の冒険"
+    },
+    {
+      "id": 10023,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "まぼろしまぼちゃん"
+    },
+    {
+      "id": 10024,
+      "series_id": null,
+      "year": 1992,
+      "season": "spring",
+      "title": "妖精ディック"
+    },
+    {
+      "id": 2393,
+      "series_id": null,
+      "year": 1992,
+      "season": "summer",
+      "title": "ルパン三世 ロシアより愛をこめて"
+    },
+    {
+      "id": 2257,
+      "series_id": null,
+      "year": 1992,
+      "season": "summer",
+      "title": "ヤダモン"
+    },
+    {
+      "id": 7337,
+      "series_id": null,
+      "year": 1992,
+      "season": "summer",
+      "title": "内田春菊の呪いのワンピース"
+    },
+    {
+      "id": 313,
+      "series_id": null,
+      "year": 1992,
+      "season": "summer",
+      "title": "おやゆび姫物語"
+    },
+    {
+      "id": 2300,
+      "series_id": 426,
+      "year": 1992,
+      "season": "autumn",
+      "title": "幽☆遊☆白書"
+    },
+    {
+      "id": 1510,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "南国少年パプワくん"
+    },
+    {
+      "id": 1804,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "姫ちゃんのリボン"
+    },
+    {
+      "id": 1319,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "ツヨシしっかりしなさい"
+    },
+    {
+      "id": 2133,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "みかん絵日記"
+    },
+    {
+      "id": 1574,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "ノンタンといっしょ"
+    },
+    {
+      "id": 3895,
+      "series_id": 1397,
+      "year": 1992,
+      "season": "autumn",
+      "title": "フランダースの犬 ぼくのパトラッシュ"
+    },
+    {
+      "id": 936,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "少年アシベ2"
+    },
+    {
+      "id": 745,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "コボちゃん"
+    },
+    {
+      "id": 1666,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "バトルファイターズ 餓狼伝説"
+    },
+    {
+      "id": 1050,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "スーパーヅガン"
+    },
+    {
+      "id": 478,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "風の中の少女 金髪のジェニー"
+    },
+    {
+      "id": 9454,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "そらいろのたね"
+    },
+    {
+      "id": 1040,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "スペースオズの冒険"
+    },
+    {
+      "id": 10025,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "カリメロ(1992年)"
+    },
+    {
+      "id": 10026,
+      "series_id": 405,
+      "year": 1992,
+      "season": "autumn",
+      "title": "バットマン"
+    },
+    {
+      "id": 9998,
+      "series_id": null,
+      "year": 1992,
+      "season": "autumn",
+      "title": "ともだちでいようね"
+    },
+    {
+      "id": 1823,
+      "series_id": 957,
+      "year": 1992,
+      "season": "winter",
+      "title": "美少女戦士セーラームーン"
+    },
+    {
+      "id": 223,
+      "series_id": null,
+      "year": 1992,
+      "season": "winter",
+      "title": "宇宙の騎士テッカマンブレード"
+    },
+    {
+      "id": 2066,
+      "series_id": null,
+      "year": 1992,
+      "season": "winter",
+      "title": "ママは小学４年生"
+    },
+    {
+      "id": 1369,
+      "series_id": 313,
+      "year": 1992,
+      "season": "winter",
+      "title": "伝説の勇者ダ・ガーン"
+    },
+    {
+      "id": 1232,
+      "series_id": null,
+      "year": 1992,
+      "season": "winter",
+      "title": "大草原の小さな天使 ブッシュベイビー"
+    },
+    {
+      "id": 1728,
+      "series_id": 1555,
+      "year": 1992,
+      "season": "winter",
+      "title": "花の魔法使いマリーベル"
+    },
+    {
+      "id": 1981,
+      "series_id": null,
+      "year": 1992,
+      "season": "winter",
+      "title": "ボーイフレンド"
+    },
+    {
+      "id": 3908,
+      "series_id": null,
+      "year": 1992,
+      "season": "winter",
+      "title": "ヨーヨーの猫つまみ"
+    },
+    {
+      "id": 561,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "機動戦士Vガンダム"
+    },
+    {
+      "id": 1535,
+      "series_id": 2149,
+      "year": 1993,
+      "season": "spring",
+      "title": "忍たま乱太郎"
+    },
+    {
+      "id": 237,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "海がきこえる"
+    },
+    {
+      "id": 717,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "GS美神"
+    },
+    {
+      "id": 975,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "疾風！アイアンリーガー"
+    },
+    {
+      "id": 694,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "剣勇伝説Ｙ∀ＩＢＡ"
+    },
+    {
+      "id": 1988,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "ポコニャン！"
+    },
+    {
+      "id": 558,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "恐竜惑星"
+    },
+    {
+      "id": 1467,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "ドラゴンリーグ"
+    },
+    {
+      "id": 1642,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "ハローエスカルゴ島"
+    },
+    {
+      "id": 8084,
+      "series_id": 1583,
+      "year": 1993,
+      "season": "spring",
+      "title": "ブレイブ・リトル・トースター"
+    },
+    {
+      "id": 10027,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "アニメ ブルーナの絵本"
+    },
+    {
+      "id": 10028,
+      "series_id": null,
+      "year": 1993,
+      "season": "spring",
+      "title": "キャンディジェーンの不思議なドロップス"
+    },
+    {
+      "id": 2392,
+      "series_id": null,
+      "year": 1993,
+      "season": "summer",
+      "title": "ルパン三世 ルパン暗殺指令"
+    },
+    {
+      "id": 789,
+      "series_id": null,
+      "year": 1993,
+      "season": "summer",
+      "title": "3丁目のタマ うちのタマ知りませんか？ (第1期)"
+    },
+    {
+      "id": 2173,
+      "series_id": null,
+      "year": 1993,
+      "season": "summer",
+      "title": "ムカムカパラダイス"
+    },
+    {
+      "id": 1667,
+      "series_id": null,
+      "year": 1993,
+      "season": "summer",
+      "title": "バトルファイターズ 餓狼伝説2"
+    },
+    {
+      "id": 10029,
+      "series_id": null,
+      "year": 1993,
+      "season": "summer",
+      "title": "ダックにおまかせ ダークウィング・ダック"
+    },
+    {
+      "id": 11936,
+      "series_id": null,
+      "year": 1993,
+      "season": "summer",
+      "title": "ヒロシマに一番電車が走った"
+    },
+    {
+      "id": 1002,
+      "series_id": 1023,
+      "year": 1993,
+      "season": "autumn",
+      "title": "SLAM DUNK"
+    },
+    {
+      "id": 900,
+      "series_id": null,
+      "year": 1993,
+      "season": "autumn",
+      "title": "ジャングルの王者ターちゃん"
+    },
+    {
+      "id": 873,
+      "series_id": 1491,
+      "year": 1993,
+      "season": "autumn",
+      "title": "しましまとらのしまじろう"
+    },
+    {
+      "id": 1957,
+      "series_id": null,
+      "year": 1993,
+      "season": "autumn",
+      "title": "平成イヌ物語バウ"
+    },
+    {
+      "id": 110,
+      "series_id": 2164,
+      "year": 1993,
+      "season": "autumn",
+      "title": "蒼き伝説シュート！"
+    },
+    {
+      "id": 1229,
+      "series_id": null,
+      "year": 1993,
+      "season": "autumn",
+      "title": "大好き！ハローキティー"
+    },
+    {
+      "id": 1665,
+      "series_id": 1930,
+      "year": 1993,
+      "season": "autumn",
+      "title": "バトルスピリッツ竜虎の拳"
+    },
+    {
+      "id": 1246,
+      "series_id": null,
+      "year": 1993,
+      "season": "autumn",
+      "title": "楽しいウイロータウン"
+    },
+    {
+      "id": 198,
+      "series_id": null,
+      "year": 1993,
+      "season": "autumn",
+      "title": "うちのショコラ"
+    },
+    {
+      "id": 10030,
+      "series_id": null,
+      "year": 1993,
+      "season": "autumn",
+      "title": "ドンラゴン"
+    },
+    {
+      "id": 1825,
+      "series_id": 957,
+      "year": 1993,
+      "season": "winter",
+      "title": "美少女戦士セーラームーンR"
+    },
+    {
+      "id": 2185,
+      "series_id": null,
+      "year": 1993,
+      "season": "winter",
+      "title": "無責任艦長タイラー"
+    },
+    {
+      "id": 2288,
+      "series_id": 313,
+      "year": 1993,
+      "season": "winter",
+      "title": "勇者特急マイトガイン"
+    },
+    {
+      "id": 8563,
+      "series_id": 96,
+      "year": 1993,
+      "season": "winter",
+      "title": "ドラゴンボールZ 絶望への反抗!! 残された超戦士・悟飯とトランクス"
+    },
+    {
+      "id": 1555,
+      "series_id": null,
+      "year": 1993,
+      "season": "winter",
+      "title": "熱血最強ゴウザウラー"
+    },
+    {
+      "id": 2482,
+      "series_id": null,
+      "year": 1993,
+      "season": "winter",
+      "title": "若草物語ナンとジョー先生"
+    },
+    {
+      "id": 2154,
+      "series_id": null,
+      "year": 1993,
+      "season": "winter",
+      "title": "ミラクル☆ガールズ"
+    },
+    {
+      "id": 575,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "機動武闘伝Gガンダム"
+    },
+    {
+      "id": 1426,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "とっても！ラッキーマン"
+    },
+    {
+      "id": 1738,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "覇王大系リューナイト"
+    },
+    {
+      "id": 914,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "ジーンダイバー"
+    },
+    {
+      "id": 790,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "3丁目のタマ うちのタマ知りませんか？ (第2期)"
+    },
+    {
+      "id": 2238,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "モンタナ・ジョーンズ"
+    },
+    {
+      "id": 2261,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "ヤマトタケル"
+    },
+    {
+      "id": 597,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "銀河戦国群雄伝ライ"
+    },
+    {
+      "id": 2419,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "レッドバロン"
+    },
+    {
+      "id": 1285,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "超 くせになりそう"
+    },
+    {
+      "id": 976,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "白雪姫の伝説"
+    },
+    {
+      "id": 395,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "カラオケ戦士マイク次郎"
+    },
+    {
+      "id": 822,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "サッカーフィーバー"
+    },
+    {
+      "id": 310,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "おまかせスクラッパーズ"
+    },
+    {
+      "id": 761,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "ゴールFH"
+    },
+    {
+      "id": 9744,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "ふしぎなあのこはすてきなこのこ"
+    },
+    {
+      "id": 11148,
+      "series_id": null,
+      "year": 1994,
+      "season": "spring",
+      "title": "X-メン"
+    },
+    {
+      "id": 2399,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "ルパン三世 燃えよ斬鉄剣"
+    },
+    {
+      "id": 99,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "愛と勇気のピッグガール とんでぶーりん"
+    },
+    {
+      "id": 2206,
+      "series_id": 527,
+      "year": 1994,
+      "season": "summer",
+      "title": "メタルファイター MIKU"
+    },
+    {
+      "id": 824,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "サムライスピリッツ破天降魔の章"
+    },
+    {
+      "id": 10032,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "学校のコワイうわさ 花子さんがきた!!"
+    },
+    {
+      "id": 1630,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "ハックルベリー・フィン物語"
+    },
+    {
+      "id": 38,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "あそぼトイちゃん"
+    },
+    {
+      "id": 10031,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "パパはグーフィー"
+    },
+    {
+      "id": 11650,
+      "series_id": null,
+      "year": 1994,
+      "season": "summer",
+      "title": "コボちゃんスペシャル 祭りがいっぱい!"
+    },
+    {
+      "id": 2049,
+      "series_id": 156,
+      "year": 1994,
+      "season": "autumn",
+      "title": "マクロス7"
+    },
+    {
+      "id": 2121,
+      "series_id": 205,
+      "year": 1994,
+      "season": "autumn",
+      "title": "魔法騎士レイアース"
+    },
+    {
+      "id": 2120,
+      "series_id": 251,
+      "year": 1994,
+      "season": "autumn",
+      "title": "魔法陣グルグル"
+    },
+    {
+      "id": 1846,
+      "series_id": null,
+      "year": 1994,
+      "season": "autumn",
+      "title": "BLUE SEED"
+    },
+    {
+      "id": 1335,
+      "series_id": 1194,
+      "year": 1994,
+      "season": "autumn",
+      "title": "D･N･A2 ～何処かでなくしたあいつのアイツ～"
+    },
+    {
+      "id": 506,
+      "series_id": 424,
+      "year": 1994,
+      "season": "autumn",
+      "title": "キャプテン翼J"
+    },
+    {
+      "id": 10034,
+      "series_id": null,
+      "year": 1994,
+      "season": "autumn",
+      "title": "ピンクパンサー(1994年)"
+    },
+    {
+      "id": 10035,
+      "series_id": 1600,
+      "year": 1994,
+      "season": "autumn",
+      "title": "リトル・マーメイド(TVシリーズ)"
+    },
+    {
+      "id": 982,
+      "series_id": null,
+      "year": 1994,
+      "season": "autumn",
+      "title": "真拳伝説タイトロード"
+    },
+    {
+      "id": 10033,
+      "series_id": null,
+      "year": 1994,
+      "season": "autumn",
+      "title": "親子クラブ"
+    },
+    {
+      "id": 10036,
+      "series_id": null,
+      "year": 1994,
+      "season": "autumn",
+      "title": "きょうふのキョーちゃん"
+    },
+    {
+      "id": 10037,
+      "series_id": null,
+      "year": 1994,
+      "season": "autumn",
+      "title": "サイボーグ花ちゃん"
+    },
+    {
+      "id": 1826,
+      "series_id": 957,
+      "year": 1994,
+      "season": "winter",
+      "title": "美少女戦士セーラームーンS"
+    },
+    {
+      "id": 2067,
+      "series_id": null,
+      "year": 1994,
+      "season": "winter",
+      "title": "ママレード・ボーイ"
+    },
+    {
+      "id": 117,
+      "series_id": null,
+      "year": 1994,
+      "season": "winter",
+      "title": "赤ずきんチャチャ"
+    },
+    {
+      "id": 1507,
+      "series_id": null,
+      "year": 1994,
+      "season": "winter",
+      "title": "七つの海のティコ"
+    },
+    {
+      "id": 2291,
+      "series_id": 313,
+      "year": 1994,
+      "season": "winter",
+      "title": "勇者警察ジェイデッカー"
+    },
+    {
+      "id": 8276,
+      "series_id": 1616,
+      "year": 1994,
+      "season": "winter",
+      "title": "景山民夫のダブルファンタジー「南洋ホテル」"
+    },
+    {
+      "id": 2159,
+      "series_id": null,
+      "year": 1994,
+      "season": "winter",
+      "title": "中崎タツヤ スーパーギャグシアター"
+    },
+    {
+      "id": 8277,
+      "series_id": 1616,
+      "year": 1994,
+      "season": "winter",
+      "title": "景山民夫のダブルファンタジー「サイケデリック航空」"
+    },
+    {
+      "id": 11728,
+      "series_id": null,
+      "year": 1994,
+      "season": "winter",
+      "title": "死にぞこない係長"
+    },
+    {
+      "id": 956,
+      "series_id": 310,
+      "year": 1995,
+      "season": "spring",
+      "title": "新機動戦記ガンダムW"
+    },
+    {
+      "id": 1043,
+      "series_id": 2622,
+      "year": 1995,
+      "season": "spring",
+      "title": "スレイヤーズ"
+    },
+    {
+      "id": 1973,
+      "series_id": 123,
+      "year": 1995,
+      "season": "spring",
+      "title": "ぼのぼの"
+    },
+    {
+      "id": 1871,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "ふしぎ遊戯"
+    },
+    {
+      "id": 1383,
+      "series_id": 961,
+      "year": 1995,
+      "season": "spring",
+      "title": "天地無用！"
+    },
+    {
+      "id": 1491,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "飛べ！イサミ"
+    },
+    {
+      "id": 34,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "あずきちゃん"
+    },
+    {
+      "id": 81,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "アリス探偵局(第1期)"
+    },
+    {
+      "id": 253,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "H2"
+    },
+    {
+      "id": 171,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "行け！稲中卓球部"
+    },
+    {
+      "id": 101,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "愛天使伝説ウェディングピーチ"
+    },
+    {
+      "id": 634,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "クマのプー太郎"
+    },
+    {
+      "id": 1008,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "ストリートファイターII V"
+    },
+    {
+      "id": 5032,
+      "series_id": 1591,
+      "year": 1995,
+      "season": "spring",
+      "title": "新くまのプーさん"
+    },
+    {
+      "id": 922,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "十二戦支 爆烈エトレンジャー"
+    },
+    {
+      "id": 969,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "獣戦士ガルキーバ"
+    },
+    {
+      "id": 557,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "恐竜冒険記ジュラトリッパー"
+    },
+    {
+      "id": 2265,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "ヤンボウ ニンボウ トンボウ"
+    },
+    {
+      "id": 9774,
+      "series_id": 2189,
+      "year": 1995,
+      "season": "spring",
+      "title": "きかんしゃトーマス 第4シーズン"
+    },
+    {
+      "id": 1096,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "世界名作童話シリーズ・ワ～ォ！メルヘン王国"
+    },
+    {
+      "id": 1749,
+      "series_id": null,
+      "year": 1995,
+      "season": "spring",
+      "title": "ビット・ザ・キューピッド"
+    },
+    {
+      "id": 2389,
+      "series_id": null,
+      "year": 1995,
+      "season": "summer",
+      "title": "ルパン三世 ハリマオの財宝を追え!!"
+    },
+    {
+      "id": 740,
+      "series_id": null,
+      "year": 1995,
+      "season": "summer",
+      "title": "ご近所物語"
+    },
+    {
+      "id": 1506,
+      "series_id": 299,
+      "year": 1995,
+      "season": "summer",
+      "title": "ナースエンジェルりりかSOS"
+    },
+    {
+      "id": 2065,
+      "series_id": null,
+      "year": 1995,
+      "season": "summer",
+      "title": "ママはぽよぽよザウルスがお好き"
+    },
+    {
+      "id": 954,
+      "series_id": 938,
+      "year": 1995,
+      "season": "autumn",
+      "title": "新世紀エヴァンゲリオン"
+    },
+    {
+      "id": 448,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "怪盗セイント・テール"
+    },
+    {
+      "id": 1706,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "爆れつハンター"
+    },
+    {
+      "id": 988,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "神秘の世界エルハザード"
+    },
+    {
+      "id": 2229,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "モジャ公"
+    },
+    {
+      "id": 1675,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "バーチャファイター"
+    },
+    {
+      "id": 1490,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "闘魔鬼神伝ONI"
+    },
+    {
+      "id": 6709,
+      "series_id": 933,
+      "year": 1995,
+      "season": "autumn",
+      "title": "それいけ！アンパンマン クリスマススペシャル けいとのしろのクリスマス"
+    },
+    {
+      "id": 10038,
+      "series_id": 1580,
+      "year": 1995,
+      "season": "autumn",
+      "title": "アラジンの大冒険"
+    },
+    {
+      "id": 1545,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "NOOBOW"
+    },
+    {
+      "id": 1454,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "ドッカン！ロボ天どん"
+    },
+    {
+      "id": 12044,
+      "series_id": null,
+      "year": 1995,
+      "season": "autumn",
+      "title": "ズッコケ三人組 楠屋敷のグルグル様"
+    },
+    {
+      "id": 1827,
+      "series_id": 957,
+      "year": 1995,
+      "season": "winter",
+      "title": "美少女戦士セーラームーンSuperS"
+    },
+    {
+      "id": 1525,
+      "series_id": 527,
+      "year": 1995,
+      "season": "winter",
+      "title": "NINKU -忍空-"
+    },
+    {
+      "id": 2449,
+      "series_id": 1102,
+      "year": 1995,
+      "season": "winter",
+      "title": "ロミオの青い空"
+    },
+    {
+      "id": 355,
+      "series_id": 313,
+      "year": 1995,
+      "season": "winter",
+      "title": "黄金勇者ゴルドラン"
+    },
+    {
+      "id": 612,
+      "series_id": 527,
+      "year": 1995,
+      "season": "winter",
+      "title": "鬼神童子ZENKI"
+    },
+    {
+      "id": 651,
+      "series_id": null,
+      "year": 1995,
+      "season": "winter",
+      "title": "空想科学世界ガリバーボーイ"
+    },
+    {
+      "id": 10304,
+      "series_id": null,
+      "year": 1995,
+      "season": "winter",
+      "title": "ハローキティの幸せのチューリップ"
+    },
+    {
+      "id": 720,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "こちら葛飾区亀有公園前派出所"
+    },
+    {
+      "id": 926,
+      "series_id": 1635,
+      "year": 1996,
+      "season": "spring",
+      "title": "地獄先生ぬ〜べ〜"
+    },
+    {
+      "id": 573,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "機動新世紀ガンダムX"
+    },
+    {
+      "id": 1385,
+      "series_id": 2418,
+      "year": 1996,
+      "season": "spring",
+      "title": "天空のエスカフローネ"
+    },
+    {
+      "id": 1045,
+      "series_id": 2622,
+      "year": 1996,
+      "season": "spring",
+      "title": "スレイヤーズNEXT"
+    },
+    {
+      "id": 724,
+      "series_id": 1319,
+      "year": 1996,
+      "season": "spring",
+      "title": "こどものおもちゃ"
+    },
+    {
+      "id": 1600,
+      "series_id": 194,
+      "year": 1996,
+      "season": "spring",
+      "title": "VS騎士ラムネ＆40炎"
+    },
+    {
+      "id": 5001,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "アリス探偵局(第2期)"
+    },
+    {
+      "id": 1609,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "はじめ人間ゴン"
+    },
+    {
+      "id": 2168,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "水色時代"
+    },
+    {
+      "id": 1746,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "B'T-X"
+    },
+    {
+      "id": 445,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "快傑ゾロ"
+    },
+    {
+      "id": 5293,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "アイアンマン (1996)"
+    },
+    {
+      "id": 896,
+      "series_id": 1602,
+      "year": 1996,
+      "season": "spring",
+      "title": "シンデレラ物語"
+    },
+    {
+      "id": 937,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "少年サンタの大冒険！"
+    },
+    {
+      "id": 9872,
+      "series_id": null,
+      "year": 1996,
+      "season": "spring",
+      "title": "いじわるばあさん(1996年)"
+    },
+    {
+      "id": 11815,
+      "series_id": 1599,
+      "year": 1996,
+      "season": "spring",
+      "title": "ライオン・キングのティモンとプンバァ"
+    },
+    {
+      "id": 2387,
+      "series_id": null,
+      "year": 1996,
+      "season": "summer",
+      "title": "ルパン三世 トワイライト☆ジェミニの秘密"
+    },
+    {
+      "id": 118,
+      "series_id": 187,
+      "year": 1996,
+      "season": "summer",
+      "title": "赤ちゃんと僕"
+    },
+    {
+      "id": 1729,
+      "series_id": null,
+      "year": 1996,
+      "season": "summer",
+      "title": "花より男子"
+    },
+    {
+      "id": 163,
+      "series_id": null,
+      "year": 1996,
+      "season": "summer",
+      "title": "家なき子レミ"
+    },
+    {
+      "id": 1617,
+      "series_id": null,
+      "year": 1996,
+      "season": "summer",
+      "title": "はりもぐハーリー"
+    },
+    {
+      "id": 421,
+      "series_id": null,
+      "year": 1996,
+      "season": "summer",
+      "title": "ガンバリスト！駿　 From 「ガンバ！Fly high」"
+    },
+    {
+      "id": 11049,
+      "series_id": 874,
+      "year": 1996,
+      "season": "summer",
+      "title": "YAWARA! Special ずっと君のことが…。"
+    },
+    {
+      "id": 10039,
+      "series_id": null,
+      "year": 1996,
+      "season": "summer",
+      "title": "アニマニアックス"
+    },
+    {
+      "id": 572,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "機動戦艦ナデシコ"
+    },
+    {
+      "id": 1250,
+      "series_id": 2168,
+      "year": 1996,
+      "season": "autumn",
+      "title": "逮捕しちゃうぞ"
+    },
+    {
+      "id": 1078,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "セイバーマリオネットJ"
+    },
+    {
+      "id": 2253,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "YAT安心！宇宙旅行"
+    },
+    {
+      "id": 1302,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "超者ライディーン"
+    },
+    {
+      "id": 1647,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "ハーメルンのバイオリン弾き"
+    },
+    {
+      "id": 272,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "エルフを狩るモノたち"
+    },
+    {
+      "id": 8323,
+      "series_id": 1625,
+      "year": 1996,
+      "season": "autumn",
+      "title": "魔法少女プリティサミー (TVシリーズ)"
+    },
+    {
+      "id": 488,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "きこちゃんすまいる"
+    },
+    {
+      "id": 152,
+      "series_id": 2432,
+      "year": 1996,
+      "season": "autumn",
+      "title": "イーハトーブ幻想 KENJIの春"
+    },
+    {
+      "id": 6710,
+      "series_id": 933,
+      "year": 1996,
+      "season": "autumn",
+      "title": "それいけ！アンパンマン クリスマススペシャル アンパンマンとブラッククリスマス"
+    },
+    {
+      "id": 2467,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "わんころべえ"
+    },
+    {
+      "id": 12136,
+      "series_id": null,
+      "year": 1996,
+      "season": "autumn",
+      "title": "ALICE in Cyberland"
+    },
+    {
+      "id": 2212,
+      "series_id": 2025,
+      "year": 1996,
+      "season": "winter",
+      "title": "名探偵コナン"
+    },
+    {
+      "id": 1464,
+      "series_id": 96,
+      "year": 1996,
+      "season": "winter",
+      "title": "ドラゴンボールGT"
+    },
+    {
+      "id": 2376,
+      "series_id": 2158,
+      "year": 1996,
+      "season": "winter",
+      "title": "るろうに剣心-明治剣客浪漫譚-"
+    },
+    {
+      "id": 1712,
+      "series_id": null,
+      "year": 1996,
+      "season": "winter",
+      "title": "爆走兄弟レッツ＆ゴー!!"
+    },
+    {
+      "id": 1824,
+      "series_id": 957,
+      "year": 1996,
+      "season": "winter",
+      "title": "美少女戦士セーラームーン セーラースターズ"
+    },
+    {
+      "id": 2138,
+      "series_id": null,
+      "year": 1996,
+      "season": "winter",
+      "title": "みどりのマキバオー"
+    },
+    {
+      "id": 684,
+      "series_id": 446,
+      "year": 1996,
+      "season": "winter",
+      "title": "ゲゲゲの鬼太郎 第4シリーズ"
+    },
+    {
+      "id": 2287,
+      "series_id": 313,
+      "year": 1996,
+      "season": "winter",
+      "title": "勇者指令ダグオン"
+    },
+    {
+      "id": 2214,
+      "series_id": null,
+      "year": 1996,
+      "season": "winter",
+      "title": "名犬ラッシー"
+    },
+    {
+      "id": 1653,
+      "series_id": null,
+      "year": 1996,
+      "season": "winter",
+      "title": "バケツでごはん"
+    },
+    {
+      "id": 10357,
+      "series_id": 666,
+      "year": 1996,
+      "season": "winter",
+      "title": "シティーハンター ザ・シークレット・サービス"
+    },
+    {
+      "id": 934,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "少女革命ウテナ"
+    },
+    {
+      "id": 1982,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "ポケットモンスター"
+    },
+    {
+      "id": 590,
+      "series_id": 1885,
+      "year": 1997,
+      "season": "spring",
+      "title": "金田一少年の事件簿"
+    },
+    {
+      "id": 1278,
+      "series_id": 1482,
+      "year": 1997,
+      "season": "spring",
+      "title": "中華一番！"
+    },
+    {
+      "id": 1047,
+      "series_id": 2622,
+      "year": 1997,
+      "season": "spring",
+      "title": "スレイヤーズTRY"
+    },
+    {
+      "id": 950,
+      "series_id": 961,
+      "year": 1997,
+      "season": "spring",
+      "title": "新・天地無用！"
+    },
+    {
+      "id": 613,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "CLAMP学園探偵団"
+    },
+    {
+      "id": 1603,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "はいぱーぽりす"
+    },
+    {
+      "id": 2198,
+      "series_id": 2365,
+      "year": 1997,
+      "season": "spring",
+      "title": "MAZE☆爆熱時空"
+    },
+    {
+      "id": 1720,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "白鯨伝説"
+    },
+    {
+      "id": 1296,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "超特急ヒカリアン"
+    },
+    {
+      "id": 7885,
+      "series_id": 1493,
+      "year": 1997,
+      "season": "spring",
+      "title": "永久家族"
+    },
+    {
+      "id": 559,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "救命戦士ナノセイバー"
+    },
+    {
+      "id": 1962,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "HAUNTEDじゃんくしょん"
+    },
+    {
+      "id": 1053,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "スーパーフィッシング グランダー武蔵"
+    },
+    {
+      "id": 1590,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "HARELUYA II BOY"
+    },
+    {
+      "id": 1388,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "手塚治虫の旧約聖書物語"
+    },
+    {
+      "id": 10358,
+      "series_id": 666,
+      "year": 1997,
+      "season": "spring",
+      "title": "シティーハンター グッド・バイ・マイ・スイート・ハート"
+    },
+    {
+      "id": 1674,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "バンブー・ベアーズ"
+    },
+    {
+      "id": 9745,
+      "series_id": null,
+      "year": 1997,
+      "season": "spring",
+      "title": "スプーンひめのスイングキッチン"
+    },
+    {
+      "id": 2293,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "夢のクレヨン王国"
+    },
+    {
+      "id": 2394,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "ルパン三世 ワルサーP38"
+    },
+    {
+      "id": 2426,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "烈火の炎"
+    },
+    {
+      "id": 1618,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "はれときどきぶた"
+    },
+    {
+      "id": 1536,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "忍ペンまん丸"
+    },
+    {
+      "id": 2061,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "マスターモスキートン '99"
+    },
+    {
+      "id": 7344,
+      "series_id": 1195,
+      "year": 1997,
+      "season": "summer",
+      "title": "サウスパーク シーズン1"
+    },
+    {
+      "id": 1338,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "TVで発見!!たまごっち"
+    },
+    {
+      "id": 2135,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "みすて♥ないでデイジー"
+    },
+    {
+      "id": 36,
+      "series_id": null,
+      "year": 1997,
+      "season": "summer",
+      "title": "あずみ マンマ・ミーア"
+    },
+    {
+      "id": 1407,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "ドクタースランプ"
+    },
+    {
+      "id": 695,
+      "series_id": 83,
+      "year": 1997,
+      "season": "autumn",
+      "title": "剣風伝奇ベルセルク"
+    },
+    {
+      "id": 1793,
+      "series_id": 947,
+      "year": 1997,
+      "season": "autumn",
+      "title": "ビーストウォーズ　超生命体トランスフォーマー"
+    },
+    {
+      "id": 1311,
+      "series_id": 2014,
+      "year": 1997,
+      "season": "autumn",
+      "title": "超魔神英雄伝ワタル"
+    },
+    {
+      "id": 1659,
+      "series_id": 1381,
+      "year": 1997,
+      "season": "autumn",
+      "title": "バトルアスリーテス 大運動会"
+    },
+    {
+      "id": 2558,
+      "series_id": 781,
+      "year": 1997,
+      "season": "autumn",
+      "title": "吸血姫美夕 (TVシリーズ)"
+    },
+    {
+      "id": 437,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "学級王ヤマザキ"
+    },
+    {
+      "id": 803,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "さくらももこ劇場 コジコジ"
+    },
+    {
+      "id": 273,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "エルフを狩るモノたちII"
+    },
+    {
+      "id": 1897,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "フォーチュンクエストL"
+    },
+    {
+      "id": 387,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "がんばれゴエモン"
+    },
+    {
+      "id": 1582,
+      "series_id": 2396,
+      "year": 1997,
+      "season": "autumn",
+      "title": "BURN-UP EXCESS"
+    },
+    {
+      "id": 182,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "VIRUS"
+    },
+    {
+      "id": 1551,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "ネクスト戦記エーアガイツ"
+    },
+    {
+      "id": 1633,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "ハニ太郎です。"
+    },
+    {
+      "id": 964,
+      "series_id": 2422,
+      "year": 1997,
+      "season": "autumn",
+      "title": "深海伝説MEREMANOID"
+    },
+    {
+      "id": 6711,
+      "series_id": 933,
+      "year": 1997,
+      "season": "autumn",
+      "title": "それいけ！アンパンマン クリスマススペシャル メレンゲシスターズのクリスマス"
+    },
+    {
+      "id": 10040,
+      "series_id": null,
+      "year": 1997,
+      "season": "autumn",
+      "title": "ドリトル先生物語"
+    },
+    {
+      "id": 2289,
+      "series_id": 314,
+      "year": 1997,
+      "season": "winter",
+      "title": "勇者王ガオガイガー"
+    },
+    {
+      "id": 1714,
+      "series_id": null,
+      "year": 1997,
+      "season": "winter",
+      "title": "爆走兄弟レッツ＆ゴー!! WGP"
+    },
+    {
+      "id": 512,
+      "series_id": null,
+      "year": 1997,
+      "season": "winter",
+      "title": "キューティーハニーF"
+    },
+    {
+      "id": 8588,
+      "series_id": 96,
+      "year": 1997,
+      "season": "winter",
+      "title": "ドラゴンボールGT 悟空外伝！ 勇気の証しは四星球"
+    },
+    {
+      "id": 125,
+      "series_id": 2397,
+      "year": 1997,
+      "season": "winter",
+      "title": "EAT-MAN"
+    },
+    {
+      "id": 678,
+      "series_id": null,
+      "year": 1997,
+      "season": "winter",
+      "title": "ケロケロちゃいむ"
+    },
+    {
+      "id": 2063,
+      "series_id": null,
+      "year": 1997,
+      "season": "winter",
+      "title": "マッハGoGoGo(1997)"
+    },
+    {
+      "id": 106,
+      "series_id": null,
+      "year": 1997,
+      "season": "winter",
+      "title": "綾音ちゃんハイキック！"
+    },
+    {
+      "id": 400,
+      "series_id": 419,
+      "year": 1998,
+      "season": "spring",
+      "title": "カードキャプターさくら"
+    },
+    {
+      "id": 360,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "COWBOY BEBOP"
+    },
+    {
+      "id": 2301,
+      "series_id": 2033,
+      "year": 1998,
+      "season": "spring",
+      "title": "遊☆戯☆王"
+    },
+    {
+      "id": 174,
+      "series_id": 121,
+      "year": 1998,
+      "season": "spring",
+      "title": "頭文字D First Stage"
+    },
+    {
+      "id": 1417,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "TRIGUN"
+    },
+    {
+      "id": 80,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "アリスSOS"
+    },
+    {
+      "id": 1914,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "ブレンパワード"
+    },
+    {
+      "id": 59,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "アキハバラ電脳組"
+    },
+    {
+      "id": 2437,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "ロストユニバース"
+    },
+    {
+      "id": 1196,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "たこやきマントマン"
+    },
+    {
+      "id": 2454,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "ロードス島戦記 英雄騎士伝"
+    },
+    {
+      "id": 21,
+      "series_id": 2640,
+      "year": 1998,
+      "season": "spring",
+      "title": "ああっ女神さまっ　小っちゃいって事は便利だねっ"
+    },
+    {
+      "id": 1792,
+      "series_id": 947,
+      "year": 1998,
+      "season": "spring",
+      "title": "ビーストウォーズII　超生命体トランスフォーマー"
+    },
+    {
+      "id": 1772,
+      "series_id": 937,
+      "year": 1998,
+      "season": "spring",
+      "title": "ひみつのアッコちゃん (1998年版)"
+    },
+    {
+      "id": 236,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "浦安鉄筋家族"
+    },
+    {
+      "id": 818,
+      "series_id": 120,
+      "year": 1998,
+      "season": "spring",
+      "title": "サイレントメビウス（TV）"
+    },
+    {
+      "id": 1054,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "スーパーミルクちゃん"
+    },
+    {
+      "id": 1553,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "南海奇皇−ネオランガ−"
+    },
+    {
+      "id": 1923,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "プリンセスナイン 如月女子高野球部"
+    },
+    {
+      "id": 2097,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "魔法のステージ ファンシーララ"
+    },
+    {
+      "id": 1086,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "センチメンタルジャーニー"
+    },
+    {
+      "id": 184,
+      "series_id": 527,
+      "year": 1998,
+      "season": "spring",
+      "title": "Weiβ kreuz"
+    },
+    {
+      "id": 88,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "アンドロイド・アナMAICO 2010"
+    },
+    {
+      "id": 7345,
+      "series_id": 1195,
+      "year": 1998,
+      "season": "spring",
+      "title": "サウスパーク シーズン2"
+    },
+    {
+      "id": 5632,
+      "series_id": 423,
+      "year": 1998,
+      "season": "spring",
+      "title": "ようこそロードス島へ！(TVシリーズ)"
+    },
+    {
+      "id": 1333,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "DTエイトロン"
+    },
+    {
+      "id": 644,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "グランダー武蔵RV"
+    },
+    {
+      "id": 961,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "時空転抄ナスカ"
+    },
+    {
+      "id": 2405,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "LEGEND OF BASARA"
+    },
+    {
+      "id": 1554,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "熱沙の覇王ガンダーラ"
+    },
+    {
+      "id": 1878,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "ふたり暮らし"
+    },
+    {
+      "id": 10481,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "パニポニ"
+    },
+    {
+      "id": 1798,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "ピンカと海のお友達"
+    },
+    {
+      "id": 11128,
+      "series_id": null,
+      "year": 1998,
+      "season": "spring",
+      "title": "新YAT安心!宇宙旅行"
+    },
+    {
+      "id": 860,
+      "series_id": null,
+      "year": 1998,
+      "season": "summer",
+      "title": "serial experiments lain"
+    },
+    {
+      "id": 2398,
+      "series_id": 527,
+      "year": 1998,
+      "season": "summer",
+      "title": "ルパン三世 炎の記憶～TOKYO CRISIS～"
+    },
+    {
+      "id": 1719,
+      "series_id": 1191,
+      "year": 1998,
+      "season": "summer",
+      "title": "発明BOYカニパン"
+    },
+    {
+      "id": 945,
+      "series_id": 527,
+      "year": 1998,
+      "season": "summer",
+      "title": "SHADOW SKILL -影技-"
+    },
+    {
+      "id": 1496,
+      "series_id": 527,
+      "year": 1998,
+      "season": "summer",
+      "title": "Night Walker -真夜中の探偵-"
+    },
+    {
+      "id": 2223,
+      "series_id": null,
+      "year": 1998,
+      "season": "summer",
+      "title": "ももいろシスターズ"
+    },
+    {
+      "id": 150,
+      "series_id": null,
+      "year": 1998,
+      "season": "summer",
+      "title": "インセクターズ"
+    },
+    {
+      "id": 11651,
+      "series_id": null,
+      "year": 1998,
+      "season": "summer",
+      "title": "コボちゃんスペシャル 約束のマジックディ"
+    },
+    {
+      "id": 442,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "彼氏彼女の事情"
+    },
+    {
+      "id": 2037,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "まもって守護月天！"
+    },
+    {
+      "id": 293,
+      "series_id": 2114,
+      "year": 1998,
+      "season": "autumn",
+      "title": "おじゃる丸（第1シリーズ）"
+    },
+    {
+      "id": 2060,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "MASTERキートン"
+    },
+    {
+      "id": 407,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "ガサラキ"
+    },
+    {
+      "id": 2128,
+      "series_id": 1129,
+      "year": 1998,
+      "season": "autumn",
+      "title": "魔術士オーフェン"
+    },
+    {
+      "id": 1079,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "セイバーマリオネットJ TO X"
+    },
+    {
+      "id": 1434,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "どっきりドクター"
+    },
+    {
+      "id": 1725,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "花さか天使テンテンくん"
+    },
+    {
+      "id": 1051,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "スーパードール☆リカちゃん"
+    },
+    {
+      "id": 443,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "快傑蒸気探偵団"
+    },
+    {
+      "id": 1991,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "ポポロクロイス物語"
+    },
+    {
+      "id": 1304,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "超速スピナー"
+    },
+    {
+      "id": 1360,
+      "series_id": 291,
+      "year": 1998,
+      "season": "autumn",
+      "title": "デビルマンレディー"
+    },
+    {
+      "id": 897,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "ジェネレイターガウル"
+    },
+    {
+      "id": 126,
+      "series_id": 2397,
+      "year": 1998,
+      "season": "autumn",
+      "title": "EAT-MAN '98"
+    },
+    {
+      "id": 1487,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "突撃！パッパラ隊"
+    },
+    {
+      "id": 1136,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "聖ルミナス女学院"
+    },
+    {
+      "id": 1670,
+      "series_id": 2412,
+      "year": 1998,
+      "season": "autumn",
+      "title": "バブルガムクライシス TOKYO 2040"
+    },
+    {
+      "id": 655,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "鉄コミュニケイション"
+    },
+    {
+      "id": 2408,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "LET'Sぬぷぬぷっ"
+    },
+    {
+      "id": 960,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "時空探偵ゲンシクン"
+    },
+    {
+      "id": 675,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "ケチャップ"
+    },
+    {
+      "id": 2308,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "よいこ"
+    },
+    {
+      "id": 2292,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "夢で逢えたら"
+    },
+    {
+      "id": 2315,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "ヨシモトムチッ子物語"
+    },
+    {
+      "id": 1543,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "虹の戦記イリス"
+    },
+    {
+      "id": 6712,
+      "series_id": 933,
+      "year": 1998,
+      "season": "autumn",
+      "title": "それいけ！アンパンマン クリスマススペシャル ぼくらのクリスマスコンサート"
+    },
+    {
+      "id": 285,
+      "series_id": 636,
+      "year": 1998,
+      "season": "autumn",
+      "title": "Only♥You ビバ！キャバクラ"
+    },
+    {
+      "id": 11408,
+      "series_id": null,
+      "year": 1998,
+      "season": "autumn",
+      "title": "どーもくん(どーもスポット)"
+    },
+    {
+      "id": 11759,
+      "series_id": 851,
+      "year": 1998,
+      "season": "autumn",
+      "title": "タッチ Miss Lonely Yesterday あれから君は…"
+    },
+    {
+      "id": 1084,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "セクシーコマンドー外伝 すごいよ!!マサルさん"
+    },
+    {
+      "id": 1713,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "爆走兄弟レッツ＆ゴー!! MAX"
+    },
+    {
+      "id": 1690,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "万能文化猫娘"
+    },
+    {
+      "id": 1117,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "星方武侠アウトロースター"
+    },
+    {
+      "id": 168,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "異次元の世界エルハザード"
+    },
+    {
+      "id": 1960,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "Bビーダマン爆外伝"
+    },
+    {
+      "id": 1872,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "ふしぎ魔法ファンファンファーマシィー"
+    },
+    {
+      "id": 721,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "こっちむいてみい子"
+    },
+    {
+      "id": 601,
+      "series_id": 1770,
+      "year": 1998,
+      "season": "winter",
+      "title": "銀河漂流バイファム13"
+    },
+    {
+      "id": 1948,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "ヘリタコぷーちゃん"
+    },
+    {
+      "id": 246,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "AWOL"
+    },
+    {
+      "id": 1702,
+      "series_id": null,
+      "year": 1998,
+      "season": "winter",
+      "title": "春庭家の3人目"
+    },
+    {
+      "id": 1195,
+      "series_id": 888,
+      "year": 1999,
+      "season": "spring",
+      "title": "∀ガンダム"
+    },
+    {
+      "id": 859,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "GTO"
+    },
+    {
+      "id": 748,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "コレクター・ユイ(第1期)"
+    },
+    {
+      "id": 1410,
+      "series_id": 2434,
+      "year": 1999,
+      "season": "spring",
+      "title": "ToHeart"
+    },
+    {
+      "id": 2237,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "モンスターファーム ～円盤石の秘密～"
+    },
+    {
+      "id": 923,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "十兵衛ちゃん ～ラブリー眼帯の秘密～"
+    },
+    {
+      "id": 1163,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "それゆけ！宇宙戦艦ヤマモト・ヨーコ"
+    },
+    {
+      "id": 1377,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "天使になるもんっ！"
+    },
+    {
+      "id": 1951,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "ベターマン"
+    },
+    {
+      "id": 755,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "ゴクドーくん漫遊記"
+    },
+    {
+      "id": 91,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "アークザラッド"
+    },
+    {
+      "id": 1116,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "星方天使エンジェルリンクス"
+    },
+    {
+      "id": 1325,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "D4プリンセス"
+    },
+    {
+      "id": 1361,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "デュアル！ぱられルンルン物語"
+    },
+    {
+      "id": 1880,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "ぶぶチャチャ"
+    },
+    {
+      "id": 2130,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "魔装機神サイバスター"
+    },
+    {
+      "id": 369,
+      "series_id": 2644,
+      "year": 1999,
+      "season": "spring",
+      "title": "KAIKANフレーズ"
+    },
+    {
+      "id": 269,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "エデンズ ボゥイ"
+    },
+    {
+      "id": 240,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "A.D.POLICE"
+    },
+    {
+      "id": 7346,
+      "series_id": 1195,
+      "year": 1999,
+      "season": "spring",
+      "title": "サウスパーク シーズン3"
+    },
+    {
+      "id": 985,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "神八剣伝"
+    },
+    {
+      "id": 9588,
+      "series_id": 2114,
+      "year": 1999,
+      "season": "spring",
+      "title": "おじゃる丸（第2シリーズ）"
+    },
+    {
+      "id": 1598,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "POWER STONE"
+    },
+    {
+      "id": 1048,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "スージーちゃんとマービー"
+    },
+    {
+      "id": 10359,
+      "series_id": 666,
+      "year": 1999,
+      "season": "spring",
+      "title": "シティーハンター 緊急生中継!? 凶悪犯冴羽獠の最期"
+    },
+    {
+      "id": 142,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "イソップワールド"
+    },
+    {
+      "id": 796,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "SURF SIDE HIGH-SCHOOL"
+    },
+    {
+      "id": 1542,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "日本一の男の魂2"
+    },
+    {
+      "id": 9746,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "やんちゃるモンちゃ"
+    },
+    {
+      "id": 10484,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "ムーぽん"
+    },
+    {
+      "id": 10485,
+      "series_id": null,
+      "year": 1999,
+      "season": "spring",
+      "title": "ハコいりせがれ"
+    },
+    {
+      "id": 513,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "キョロちゃん"
+    },
+    {
+      "id": 2210,
+      "series_id": 975,
+      "year": 1999,
+      "season": "summer",
+      "title": "メダロット"
+    },
+    {
+      "id": 1152,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "ゾイド-ZOIDS-"
+    },
+    {
+      "id": 1101,
+      "series_id": 333,
+      "year": 1999,
+      "season": "summer",
+      "title": "仙界伝 封神演義"
+    },
+    {
+      "id": 2396,
+      "series_id": 580,
+      "year": 1999,
+      "season": "summer",
+      "title": "ルパン三世 愛のダ・カーポ～FUJIKO'S Unlucky Days～"
+    },
+    {
+      "id": 2103,
+      "series_id": 2417,
+      "year": 1999,
+      "season": "summer",
+      "title": "魔法使いTai！"
+    },
+    {
+      "id": 5379,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "ねこぢる劇場"
+    },
+    {
+      "id": 4823,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "おるちゅばんエビちゅ"
+    },
+    {
+      "id": 425,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "下級生"
+    },
+    {
+      "id": 233,
+      "series_id": 2421,
+      "year": 1999,
+      "season": "summer",
+      "title": "宇宙海賊ミトの大冒険 2人の女王様"
+    },
+    {
+      "id": 472,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "課長王子"
+    },
+    {
+      "id": 359,
+      "series_id": 2420,
+      "year": 1999,
+      "season": "summer",
+      "title": "COLORFUL"
+    },
+    {
+      "id": 1683,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "パパと踊ろう"
+    },
+    {
+      "id": 10487,
+      "series_id": 793,
+      "year": 1999,
+      "season": "summer",
+      "title": "スーパーマン"
+    },
+    {
+      "id": 10490,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "アレクサンダー戦記"
+    },
+    {
+      "id": 10489,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "愛の若草山物語"
+    },
+    {
+      "id": 10486,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "バーバパパ 世界をまわる"
+    },
+    {
+      "id": 10488,
+      "series_id": null,
+      "year": 1999,
+      "season": "summer",
+      "title": "小梅ちゃんが行く!!"
+    },
+    {
+      "id": 2457,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ワンピース"
+    },
+    {
+      "id": 1592,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "HUNTER×HUNTER"
+    },
+    {
+      "id": 2186,
+      "series_id": 45,
+      "year": 1999,
+      "season": "autumn",
+      "title": "無限のリヴァイアス"
+    },
+    {
+      "id": 177,
+      "series_id": 121,
+      "year": 1999,
+      "season": "autumn",
+      "title": "頭文字D Second Stage"
+    },
+    {
+      "id": 800,
+      "series_id": 1243,
+      "year": 1999,
+      "season": "autumn",
+      "title": "THE ビッグオー"
+    },
+    {
+      "id": 817,
+      "series_id": 68,
+      "year": 1999,
+      "season": "autumn",
+      "title": "サイボーグクロちゃん"
+    },
+    {
+      "id": 160,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "今、そこにいる僕"
+    },
+    {
+      "id": 1281,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "地球防衛企業ダイ・ガード"
+    },
+    {
+      "id": 1365,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "Di Gi Charat ワンダフル版"
+    },
+    {
+      "id": 1472,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ドンキーコング"
+    },
+    {
+      "id": 1299,
+      "series_id": 947,
+      "year": 1999,
+      "season": "autumn",
+      "title": "超生命体トランスフォーマー ビーストウォーズメタルス"
+    },
+    {
+      "id": 1942,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "へっぽこ実験アニメーション エクセル・サーガ"
+    },
+    {
+      "id": 2129,
+      "series_id": 1129,
+      "year": 1999,
+      "season": "autumn",
+      "title": "魔術士オーフェン Revenge"
+    },
+    {
+      "id": 785,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "鋼鉄天使くるみ"
+    },
+    {
+      "id": 1785,
+      "series_id": 2489,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ビックリマン2000"
+    },
+    {
+      "id": 898,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ジバクくん"
+    },
+    {
+      "id": 1845,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "BLUE GENDER"
+    },
+    {
+      "id": 2423,
+      "series_id": 551,
+      "year": 1999,
+      "season": "autumn",
+      "title": "レレレの天才バカボン"
+    },
+    {
+      "id": 427,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "人形草紙あやつり左近"
+    },
+    {
+      "id": 1085,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "セラフィムコール"
+    },
+    {
+      "id": 2164,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "未来少年コナンII タイガアドベンチャー"
+    },
+    {
+      "id": 352,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "臣士魔法劇場リスキー☆セフティ"
+    },
+    {
+      "id": 2458,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ワイルドアームズ トワイライトヴェノム"
+    },
+    {
+      "id": 1442,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "トラブルチョコレート"
+    },
+    {
+      "id": 737,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ごぞんじ！月光仮面くん"
+    },
+    {
+      "id": 145,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "イッパツ危機娘"
+    },
+    {
+      "id": 628,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "ぐるぐるタウン はなまるくん"
+    },
+    {
+      "id": 6713,
+      "series_id": 933,
+      "year": 1999,
+      "season": "autumn",
+      "title": "それいけ！アンパンマン クリスマススペシャル アンパンマンとメリークリスマス"
+    },
+    {
+      "id": 1099,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "世紀末伝説～ワンダフル・タツノコランド"
+    },
+    {
+      "id": 1179,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "装甲救助部隊レストル"
+    },
+    {
+      "id": 136,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "いつも心に太陽を！"
+    },
+    {
+      "id": 2217,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "モンキーマジック"
+    },
+    {
+      "id": 1936,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "風雲！戦国を駆ける武将 ～アニメ静岡県史～"
+    },
+    {
+      "id": 10492,
+      "series_id": 1608,
+      "year": 1999,
+      "season": "autumn",
+      "title": "101匹わんちゃん(TVシリーズ)"
+    },
+    {
+      "id": 10090,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "将太の寿司 心にひびくシャリの味"
+    },
+    {
+      "id": 10491,
+      "series_id": null,
+      "year": 1999,
+      "season": "autumn",
+      "title": "GREGORY HORROR SHOW"
+    },
+    {
+      "id": 1352,
+      "series_id": 1225,
+      "year": 1999,
+      "season": "winter",
+      "title": "デジモンアドベンチャー"
+    },
+    {
+      "id": 318,
+      "series_id": 870,
+      "year": 1999,
+      "season": "winter",
+      "title": "おジャ魔女どれみ"
+    },
+    {
+      "id": 468,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "神風怪盗ジャンヌ"
+    },
+    {
+      "id": 1121,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "星界の紋章"
+    },
+    {
+      "id": 1252,
+      "series_id": 2168,
+      "year": 1999,
+      "season": "winter",
+      "title": "逮捕しちゃうぞ Special"
+    },
+    {
+      "id": 1298,
+      "series_id": 947,
+      "year": 1999,
+      "season": "winter",
+      "title": "超生命体トランスフォーマー ビーストウォーズネオ"
+    },
+    {
+      "id": 1961,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "Bビーダマン爆外伝V"
+    },
+    {
+      "id": 1301,
+      "series_id": 1191,
+      "year": 1999,
+      "season": "winter",
+      "title": "超発明BOYカニパン"
+    },
+    {
+      "id": 232,
+      "series_id": 2421,
+      "year": 1999,
+      "season": "winter",
+      "title": "宇宙海賊ミトの大冒険"
+    },
+    {
+      "id": 1284,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "小さな巨人ミクロマン"
+    },
+    {
+      "id": 1710,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "爆球連発!!スーパービーダマン"
+    },
+    {
+      "id": 141,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "イケてる2人"
+    },
+    {
+      "id": 1810,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "火魅子伝"
+    },
+    {
+      "id": 1941,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "Petshop of Horrors"
+    },
+    {
+      "id": 1541,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "日本一の男の魂"
+    },
+    {
+      "id": 9775,
+      "series_id": 2189,
+      "year": 1999,
+      "season": "winter",
+      "title": "きかんしゃトーマス 第5シーズン"
+    },
+    {
+      "id": 10384,
+      "series_id": null,
+      "year": 1999,
+      "season": "winter",
+      "title": "ハローキティといっしょにお勉強"
+    },
+    {
+      "id": 11261,
+      "series_id": 2565,
+      "year": 1999,
+      "season": "winter",
+      "title": "フューチュラマ シーズン1"
+    }
+  ]
+}

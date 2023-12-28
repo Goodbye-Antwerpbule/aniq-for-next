@@ -1,0 +1,4400 @@
+{
+  "animeData": [
+    {
+      "id": 7051,
+      "series_id": 744,
+      "year": 2020,
+      "season": "spring",
+      "title": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+    },
+    {
+      "id": 7122,
+      "series_id": 1103,
+      "year": 2020,
+      "season": "spring",
+      "title": "かくしごと"
+    },
+    {
+      "id": 6321,
+      "series_id": 1324,
+      "year": 2020,
+      "season": "spring",
+      "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    },
+    {
+      "id": 6540,
+      "series_id": 1230,
+      "year": 2020,
+      "season": "spring",
+      "title": "プリンセスコネクト！Re:Dive"
+    },
+    {
+      "id": 7158,
+      "series_id": 1205,
+      "year": 2020,
+      "season": "spring",
+      "title": "イエスタデイをうたって"
+    },
+    {
+      "id": 6481,
+      "series_id": 466,
+      "year": 2020,
+      "season": "spring",
+      "title": "邪神ちゃんドロップキック’"
+    },
+    {
+      "id": 6991,
+      "series_id": 1226,
+      "year": 2020,
+      "season": "spring",
+      "title": "波よ聞いてくれ"
+    },
+    {
+      "id": 7180,
+      "series_id": 980,
+      "year": 2020,
+      "season": "spring",
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません 第2期"
+    },
+    {
+      "id": 6527,
+      "series_id": 1211,
+      "year": 2020,
+      "season": "spring",
+      "title": "グレイプニル"
+    },
+    {
+      "id": 6416,
+      "series_id": 1228,
+      "year": 2020,
+      "season": "spring",
+      "title": "八男って、それはないでしょう！"
+    },
+    {
+      "id": 6798,
+      "series_id": 1279,
+      "year": 2020,
+      "season": "spring",
+      "title": "BNA ビー・エヌ・エー"
+    },
+    {
+      "id": 6948,
+      "series_id": 987,
+      "year": 2020,
+      "season": "spring",
+      "title": "フルーツバスケット 2nd Season"
+    },
+    {
+      "id": 6814,
+      "series_id": 1204,
+      "year": 2020,
+      "season": "spring",
+      "title": "アルテ"
+    },
+    {
+      "id": 6766,
+      "series_id": 1224,
+      "year": 2020,
+      "season": "spring",
+      "title": "球詠"
+    },
+    {
+      "id": 7171,
+      "series_id": 1215,
+      "year": 2020,
+      "season": "spring",
+      "title": "社長、バトルの時間です！"
+    },
+    {
+      "id": 7325,
+      "series_id": 1207,
+      "year": 2020,
+      "season": "spring",
+      "title": "神之塔 -Tower of God-"
+    },
+    {
+      "id": 6945,
+      "series_id": 1223,
+      "year": 2020,
+      "season": "spring",
+      "title": "新サクラ大戦 the Animation"
+    },
+    {
+      "id": 7274,
+      "series_id": 1235,
+      "year": 2020,
+      "season": "spring",
+      "title": "LISTENERS"
+    },
+    {
+      "id": 6526,
+      "series_id": 800,
+      "year": 2020,
+      "season": "spring",
+      "title": "継つぐもも"
+    },
+    {
+      "id": 7002,
+      "series_id": 1017,
+      "year": 2020,
+      "season": "spring",
+      "title": "メジャーセカンド 第2シリーズ"
+    },
+    {
+      "id": 6603,
+      "series_id": 1209,
+      "year": 2020,
+      "season": "spring",
+      "title": "啄木鳥探偵處"
+    },
+    {
+      "id": 6475,
+      "series_id": 968,
+      "year": 2020,
+      "season": "spring",
+      "title": "A3! SEASON SPRING & SUMMER"
+    },
+    {
+      "id": 6926,
+      "series_id": 1234,
+      "year": 2020,
+      "season": "spring",
+      "title": "ミュークルドリーミー"
+    },
+    {
+      "id": 7226,
+      "series_id": 1231,
+      "year": 2020,
+      "season": "spring",
+      "title": "文豪とアルケミスト 〜審判ノ歯車〜"
+    },
+    {
+      "id": 6414,
+      "series_id": 1222,
+      "year": 2020,
+      "season": "spring",
+      "title": "白猫プロジェクト ZERO CHRONICLE"
+    },
+    {
+      "id": 7430,
+      "series_id": 527,
+      "year": 2020,
+      "season": "spring",
+      "title": "銀河英雄伝説 Die Neue These (NHK Eテレ)"
+    },
+    {
+      "id": 7427,
+      "series_id": 502,
+      "year": 2020,
+      "season": "spring",
+      "title": "キラッとプリ☆チャン シーズン3"
+    },
+    {
+      "id": 7339,
+      "series_id": 1206,
+      "year": 2020,
+      "season": "spring",
+      "title": "俺の指で乱れろ。～閉店後二人きりのサロンで…～"
+    },
+    {
+      "id": 7086,
+      "series_id": 1203,
+      "year": 2020,
+      "season": "spring",
+      "title": "アルゴナビス from BanG Dream!"
+    },
+    {
+      "id": 7328,
+      "series_id": 1232,
+      "year": 2020,
+      "season": "spring",
+      "title": "別冊オリンピア・キュクロス"
+    },
+    {
+      "id": 6988,
+      "series_id": 1216,
+      "year": 2020,
+      "season": "spring",
+      "title": "シャドウバース"
+    },
+    {
+      "id": 7326,
+      "series_id": 862,
+      "year": 2020,
+      "season": "spring",
+      "title": " 四月一日さん家と"
+    },
+    {
+      "id": 7210,
+      "series_id": 2033,
+      "year": 2020,
+      "season": "spring",
+      "title": "遊☆戯☆王SEVENS"
+    },
+    {
+      "id": 7212,
+      "series_id": 1213,
+      "year": 2020,
+      "season": "spring",
+      "title": "困ったじいさん"
+    },
+    {
+      "id": 7245,
+      "series_id": 1227,
+      "year": 2020,
+      "season": "spring",
+      "title": "ハクション大魔王2020"
+    },
+    {
+      "id": 6582,
+      "series_id": 52,
+      "year": 2020,
+      "season": "summer",
+      "title": "Re:ゼロから始める異世界生活 2nd season"
+    },
+    {
+      "id": 6584,
+      "series_id": 118,
+      "year": 2020,
+      "season": "summer",
+      "title": "やはり俺の青春ラブコメはまちがっている。完"
+    },
+    {
+      "id": 7234,
+      "series_id": 65,
+      "year": 2020,
+      "season": "summer",
+      "title": "ソードアート・オンライン アリシゼーション War of Underworld ‐THE LAST SEASON‐"
+    },
+    {
+      "id": 7202,
+      "series_id": 1304,
+      "year": 2020,
+      "season": "summer",
+      "title": "彼女、お借りします"
+    },
+    {
+      "id": 6983,
+      "series_id": 1300,
+      "year": 2020,
+      "season": "summer",
+      "title": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"
+    },
+    {
+      "id": 7319,
+      "series_id": 1307,
+      "year": 2020,
+      "season": "summer",
+      "title": "宇崎ちゃんは遊びたい！"
+    },
+    {
+      "id": 6795,
+      "series_id": 1311,
+      "year": 2020,
+      "season": "summer",
+      "title": "デカダンス"
+    },
+    {
+      "id": 6646,
+      "series_id": 1233,
+      "year": 2020,
+      "season": "summer",
+      "title": "放課後ていぼう日誌"
+    },
+    {
+      "id": 7232,
+      "series_id": 909,
+      "year": 2020,
+      "season": "summer",
+      "title": "炎炎ノ消防隊 弐ノ章"
+    },
+    {
+      "id": 6801,
+      "series_id": 1297,
+      "year": 2020,
+      "season": "summer",
+      "title": "GREAT PRETENDER"
+    },
+    {
+      "id": 7271,
+      "series_id": 1229,
+      "year": 2020,
+      "season": "summer",
+      "title": "富豪刑事 Balance:UNLIMITED"
+    },
+    {
+      "id": 7219,
+      "series_id": 304,
+      "year": 2020,
+      "season": "summer",
+      "title": "食戟のソーマ 豪ノ皿"
+    },
+    {
+      "id": 7056,
+      "series_id": 1298,
+      "year": 2020,
+      "season": "summer",
+      "title": "ド級編隊エグゼロス"
+    },
+    {
+      "id": 7000,
+      "series_id": 1201,
+      "year": 2020,
+      "season": "summer",
+      "title": "天晴爛漫！"
+    },
+    {
+      "id": 6415,
+      "series_id": 443,
+      "year": 2020,
+      "season": "summer",
+      "title": "うまよん"
+    },
+    {
+      "id": 7203,
+      "series_id": 1299,
+      "year": 2020,
+      "season": "summer",
+      "title": "Lapis Re:LiGHTs ラピスリライツ"
+    },
+    {
+      "id": 7121,
+      "series_id": 1313,
+      "year": 2020,
+      "season": "summer",
+      "title": "モンスター娘のお医者さん"
+    },
+    {
+      "id": 6968,
+      "series_id": 1312,
+      "year": 2020,
+      "season": "summer",
+      "title": "ピーター・グリルと賢者の時間"
+    },
+    {
+      "id": 7229,
+      "series_id": 1008,
+      "year": 2020,
+      "season": "summer",
+      "title": "ノー・ガンズ・ライフ 第2期"
+    },
+    {
+      "id": 7498,
+      "series_id": 1309,
+      "year": 2020,
+      "season": "summer",
+      "title": "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール"
+    },
+    {
+      "id": 7268,
+      "series_id": 1225,
+      "year": 2020,
+      "season": "summer",
+      "title": "デジモンアドベンチャー："
+    },
+    {
+      "id": 6804,
+      "series_id": 1310,
+      "year": 2020,
+      "season": "summer",
+      "title": "GIBIATE the Animation"
+    },
+    {
+      "id": 6758,
+      "series_id": 620,
+      "year": 2020,
+      "season": "summer",
+      "title": "ムヒョとロージーの魔法律相談事務所 第2期"
+    },
+    {
+      "id": 7395,
+      "series_id": 1301,
+      "year": 2020,
+      "season": "summer",
+      "title": "巨人族の花嫁"
+    },
+    {
+      "id": 6800,
+      "series_id": 1321,
+      "year": 2020,
+      "season": "summer",
+      "title": "恋とプロデューサー ～EVOL×LOVE～"
+    },
+    {
+      "id": 7539,
+      "series_id": 1602,
+      "year": 2020,
+      "season": "summer",
+      "title": "八月のシンデレラナイン Re:fine"
+    },
+    {
+      "id": 7627,
+      "series_id": 1385,
+      "year": 2020,
+      "season": "summer",
+      "title": "オオカミさんは食べられたい"
+    },
+    {
+      "id": 7550,
+      "series_id": null,
+      "year": 2020,
+      "season": "summer",
+      "title": "戦乙女の食卓"
+    },
+    {
+      "id": 6533,
+      "series_id": 1327,
+      "year": 2020,
+      "season": "summer",
+      "title": "異常生物見聞録"
+    },
+    {
+      "id": 7426,
+      "series_id": 1368,
+      "year": 2020,
+      "season": "summer",
+      "title": "GETUP! GETLIVE! #げらげら"
+    },
+    {
+      "id": 7162,
+      "series_id": 1391,
+      "year": 2020,
+      "season": "autumn",
+      "title": "呪術廻戦"
+    },
+    {
+      "id": 7050,
+      "series_id": 1384,
+      "year": 2020,
+      "season": "autumn",
+      "title": "魔女の旅々"
+    },
+    {
+      "id": 7507,
+      "series_id": 1372,
+      "year": 2020,
+      "season": "autumn",
+      "title": "神様になった日"
+    },
+    {
+      "id": 6779,
+      "series_id": 2,
+      "year": 2020,
+      "season": "autumn",
+      "title": "進撃の巨人 The Final Season Part.1"
+    },
+    {
+      "id": 6267,
+      "series_id": 19,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ご注文はうさぎですか？BLOOM"
+    },
+    {
+      "id": 7400,
+      "series_id": 610,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ひぐらしのなく頃に業"
+    },
+    {
+      "id": 6984,
+      "series_id": 105,
+      "year": 2020,
+      "season": "autumn",
+      "title": "魔法科高校の劣等生 来訪者編"
+    },
+    {
+      "id": 6964,
+      "series_id": 39,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ダンジョンに出会いを求めるのは間違っているだろうか III"
+    },
+    {
+      "id": 7473,
+      "series_id": 1395,
+      "year": 2020,
+      "season": "autumn",
+      "title": "無能なナナ"
+    },
+    {
+      "id": 6664,
+      "series_id": 1402,
+      "year": 2020,
+      "season": "autumn",
+      "title": "安達としまむら"
+    },
+    {
+      "id": 6950,
+      "series_id": 1370,
+      "year": 2020,
+      "season": "autumn",
+      "title": "魔王城でおやすみ"
+    },
+    {
+      "id": 7379,
+      "series_id": 1389,
+      "year": 2020,
+      "season": "autumn",
+      "title": "トニカクカワイイ"
+    },
+    {
+      "id": 7204,
+      "series_id": 1688,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
+    },
+    {
+      "id": 6593,
+      "series_id": 1308,
+      "year": 2020,
+      "season": "autumn",
+      "title": "おちこぼれフルーツタルト"
+    },
+    {
+      "id": 7420,
+      "series_id": 165,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ハイキュー!! TO THE TOP 第2クール"
+    },
+    {
+      "id": 7248,
+      "series_id": 1399,
+      "year": 2020,
+      "season": "autumn",
+      "title": "くまクマ熊ベアー"
+    },
+    {
+      "id": 6799,
+      "series_id": 442,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ゴールデンカムイ 第3期"
+    },
+    {
+      "id": 6997,
+      "series_id": 1374,
+      "year": 2020,
+      "season": "autumn",
+      "title": "アサルトリリィ BOUQUET"
+    },
+    {
+      "id": 7218,
+      "series_id": 1404,
+      "year": 2020,
+      "season": "autumn",
+      "title": "憂国のモリアーティ"
+    },
+    {
+      "id": 7705,
+      "series_id": 802,
+      "year": 2020,
+      "season": "autumn",
+      "title": "鬼滅の刃 那田蜘蛛山編"
+    },
+    {
+      "id": 7336,
+      "series_id": 1396,
+      "year": 2020,
+      "season": "autumn",
+      "title": "神達に拾われた男"
+    },
+    {
+      "id": 7381,
+      "series_id": 1387,
+      "year": 2020,
+      "season": "autumn",
+      "title": "100万の命の上に俺は立っている"
+    },
+    {
+      "id": 7052,
+      "series_id": 1369,
+      "year": 2020,
+      "season": "autumn",
+      "title": "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+    },
+    {
+      "id": 7368,
+      "series_id": 1382,
+      "year": 2020,
+      "season": "autumn",
+      "title": "戦翼のシグルドリーヴァ"
+    },
+    {
+      "id": 7386,
+      "series_id": 1401,
+      "year": 2020,
+      "season": "autumn",
+      "title": "アクダマドライブ"
+    },
+    {
+      "id": 7841,
+      "series_id": 802,
+      "year": 2020,
+      "season": "autumn",
+      "title": "鬼滅の刃 柱合会議・蝶屋敷編"
+    },
+    {
+      "id": 6166,
+      "series_id": 801,
+      "year": 2020,
+      "season": "autumn",
+      "title": "第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN"
+    },
+    {
+      "id": 7644,
+      "series_id": 1376,
+      "year": 2020,
+      "season": "autumn",
+      "title": "体操ザムライ"
+    },
+    {
+      "id": 7492,
+      "series_id": 1394,
+      "year": 2020,
+      "season": "autumn",
+      "title": "いわかける！ -Sport Climbing Girls-"
+    },
+    {
+      "id": 7177,
+      "series_id": 1388,
+      "year": 2020,
+      "season": "autumn",
+      "title": "『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima"
+    },
+    {
+      "id": 6935,
+      "series_id": 1306,
+      "year": 2020,
+      "season": "autumn",
+      "title": "池袋ウエストゲートパーク"
+    },
+    {
+      "id": 7208,
+      "series_id": 1112,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ドラゴンクエスト ダイの大冒険 (2020年版)"
+    },
+    {
+      "id": 7382,
+      "series_id": 102,
+      "year": 2020,
+      "season": "autumn",
+      "title": "One Room サードシーズン"
+    },
+    {
+      "id": 7588,
+      "series_id": 203,
+      "year": 2020,
+      "season": "autumn",
+      "title": "おそ松さん (第3期)"
+    },
+    {
+      "id": 7626,
+      "series_id": 1492,
+      "year": 2020,
+      "season": "autumn",
+      "title": "土下座で頼んでみた"
+    },
+    {
+      "id": 6936,
+      "series_id": 1210,
+      "year": 2020,
+      "season": "autumn",
+      "title": "ギャルと恐竜"
+    },
+    {
+      "id": 7479,
+      "series_id": 1325,
+      "year": 2020,
+      "season": "autumn",
+      "title": "レヱル・ロマネスク"
+    },
+    {
+      "id": 6653,
+      "series_id": 1497,
+      "year": 2020,
+      "season": "autumn",
+      "title": "D4DJ First Mix"
+    },
+    {
+      "id": 7192,
+      "series_id": 1392,
+      "year": 2020,
+      "season": "autumn",
+      "title": "犬と猫どっちも飼ってると毎日たのしい"
+    },
+    {
+      "id": 6811,
+      "series_id": 1398,
+      "year": 2020,
+      "season": "autumn",
+      "title": "まえせつ！"
+    },
+    {
+      "id": 7508,
+      "series_id": 1393,
+      "year": 2020,
+      "season": "autumn",
+      "title": "半妖の夜叉姫 -戦国御伽草子-"
+    },
+    {
+      "id": 6163,
+      "series_id": 339,
+      "year": 2020,
+      "season": "autumn",
+      "title": "アイドリッシュセブン Second BEAT!"
+    },
+    {
+      "id": 6301,
+      "series_id": 738,
+      "year": 2020,
+      "season": "winter",
+      "title": "とある科学の超電磁砲T"
+    },
+    {
+      "id": 6399,
+      "series_id": 1115,
+      "year": 2020,
+      "season": "winter",
+      "title": "痛いのは嫌なので防御力に極振りしたいと思います。"
+    },
+    {
+      "id": 6293,
+      "series_id": 398,
+      "year": 2020,
+      "season": "winter",
+      "title": "ゆるキャン△ ショートアニメ「へやキャン△」"
+    },
+    {
+      "id": 6462,
+      "series_id": 1114,
+      "year": 2020,
+      "season": "winter",
+      "title": "虚構推理"
+    },
+    {
+      "id": 6665,
+      "series_id": 1123,
+      "year": 2020,
+      "season": "winter",
+      "title": "映像研には手を出すな！"
+    },
+    {
+      "id": 6508,
+      "series_id": 1113,
+      "year": 2020,
+      "season": "winter",
+      "title": "恋する小惑星"
+    },
+    {
+      "id": 6244,
+      "series_id": 1120,
+      "year": 2020,
+      "season": "winter",
+      "title": "マギアレコード 魔法少女まどか☆マギカ外伝"
+    },
+    {
+      "id": 6328,
+      "series_id": 1119,
+      "year": 2020,
+      "season": "winter",
+      "title": "ダーウィンズゲーム"
+    },
+    {
+      "id": 7187,
+      "series_id": 52,
+      "year": 2020,
+      "season": "winter",
+      "title": "Re:ゼロから始める異世界生活 新編集版"
+    },
+    {
+      "id": 6775,
+      "series_id": 1140,
+      "year": 2020,
+      "season": "winter",
+      "title": "異種族レビュアーズ"
+    },
+    {
+      "id": 6059,
+      "series_id": 1016,
+      "year": 2020,
+      "season": "winter",
+      "title": "推しが武道館いってくれたら死ぬ"
+    },
+    {
+      "id": 6408,
+      "series_id": 165,
+      "year": 2020,
+      "season": "winter",
+      "title": "ハイキュー!! TO THE TOP 第1クール"
+    },
+    {
+      "id": 6946,
+      "series_id": 983,
+      "year": 2020,
+      "season": "winter",
+      "title": "ランウェイで笑って"
+    },
+    {
+      "id": 6773,
+      "series_id": 953,
+      "year": 2020,
+      "season": "winter",
+      "title": "異世界かるてっと2"
+    },
+    {
+      "id": 6438,
+      "series_id": 1137,
+      "year": 2020,
+      "season": "winter",
+      "title": "理系が恋に落ちたので証明してみた。"
+    },
+    {
+      "id": 6794,
+      "series_id": 1276,
+      "year": 2020,
+      "season": "winter",
+      "title": "ID:INVADED イド:インヴェイデッド"
+    },
+    {
+      "id": 6335,
+      "series_id": 1142,
+      "year": 2020,
+      "season": "winter",
+      "title": "ドロヘドロ"
+    },
+    {
+      "id": 6605,
+      "series_id": 1118,
+      "year": 2020,
+      "season": "winter",
+      "title": "ソマリと森の神様"
+    },
+    {
+      "id": 6615,
+      "series_id": 1136,
+      "year": 2020,
+      "season": "winter",
+      "title": "地縛少年花子くん"
+    },
+    {
+      "id": 6987,
+      "series_id": 1126,
+      "year": 2020,
+      "season": "winter",
+      "title": "群れなせ！シートン学園"
+    },
+    {
+      "id": 6785,
+      "series_id": 734,
+      "year": 2020,
+      "season": "winter",
+      "title": "ネコぱら"
+    },
+    {
+      "id": 6039,
+      "series_id": 295,
+      "year": 2020,
+      "season": "winter",
+      "title": "BanG Dream! 3rd Season"
+    },
+    {
+      "id": 6620,
+      "series_id": 1132,
+      "year": 2020,
+      "season": "winter",
+      "title": "空挺ドラゴンズ"
+    },
+    {
+      "id": 6609,
+      "series_id": 1131,
+      "year": 2020,
+      "season": "winter",
+      "title": "プランダラ"
+    },
+    {
+      "id": 6813,
+      "series_id": 1141,
+      "year": 2020,
+      "season": "winter",
+      "title": "22/7"
+    },
+    {
+      "id": 6468,
+      "series_id": 791,
+      "year": 2020,
+      "season": "winter",
+      "title": "インフィニット・デンドログラム"
+    },
+    {
+      "id": 6765,
+      "series_id": 808,
+      "year": 2020,
+      "season": "winter",
+      "title": "八十亀ちゃんかんさつにっき 2さつめ"
+    },
+    {
+      "id": 6875,
+      "series_id": 1133,
+      "year": 2020,
+      "season": "winter",
+      "title": "宝石商リチャード氏の謎鑑定"
+    },
+    {
+      "id": 7163,
+      "series_id": 527,
+      "year": 2020,
+      "season": "winter",
+      "title": "SHOW BY ROCK!! ましゅまいれっしゅ!!"
+    },
+    {
+      "id": 5815,
+      "series_id": 1896,
+      "year": 2020,
+      "season": "winter",
+      "title": "pet -ペット-"
+    },
+    {
+      "id": 7157,
+      "series_id": 1124,
+      "year": 2020,
+      "season": "winter",
+      "title": "おーばーふろぉ"
+    },
+    {
+      "id": 6422,
+      "series_id": 1239,
+      "year": 2020,
+      "season": "winter",
+      "title": "魔術士オーフェンはぐれ旅"
+    },
+    {
+      "id": 6255,
+      "series_id": 1139,
+      "year": 2020,
+      "season": "winter",
+      "title": "ぼくのとなりに暗黒破壊神がいます。"
+    },
+    {
+      "id": 7164,
+      "series_id": 1144,
+      "year": 2020,
+      "season": "winter",
+      "title": "ヒーリングっど♥プリキュア"
+    },
+    {
+      "id": 7197,
+      "series_id": 1134,
+      "year": 2020,
+      "season": "winter",
+      "title": "はてな☆イリュージョン"
+    },
+    {
+      "id": 7239,
+      "series_id": 2007,
+      "year": 2020,
+      "season": "winter",
+      "title": "へんたつ"
+    },
+    {
+      "id": 6815,
+      "series_id": 1138,
+      "year": 2020,
+      "season": "winter",
+      "title": "織田シナモン信長"
+    },
+    {
+      "id": 6817,
+      "series_id": 698,
+      "year": 2021,
+      "season": "spring",
+      "title": "ゾンビランドサガ リベンジ"
+    },
+    {
+      "id": 7707,
+      "series_id": 1539,
+      "year": 2021,
+      "season": "spring",
+      "title": "シャドーハウス"
+    },
+    {
+      "id": 7603,
+      "series_id": 2255,
+      "year": 2021,
+      "season": "spring",
+      "title": "東京リベンジャーズ"
+    },
+    {
+      "id": 7921,
+      "series_id": 1547,
+      "year": 2021,
+      "season": "spring",
+      "title": "Vivy -Fluorite Eye's Song-"
+    },
+    {
+      "id": 7393,
+      "series_id": 1566,
+      "year": 2021,
+      "season": "spring",
+      "title": "86―エイティシックス―"
+    },
+    {
+      "id": 7227,
+      "series_id": 1536,
+      "year": 2021,
+      "season": "spring",
+      "title": "ひげを剃る。そして女子高生を拾う。"
+    },
+    {
+      "id": 7920,
+      "series_id": 1554,
+      "year": 2021,
+      "season": "spring",
+      "title": "オッドタクシー"
+    },
+    {
+      "id": 7199,
+      "series_id": 687,
+      "year": 2021,
+      "season": "spring",
+      "title": "SSSS.DYNAZENON"
+    },
+    {
+      "id": 7154,
+      "series_id": 1496,
+      "year": 2021,
+      "season": "spring",
+      "title": "スーパーカブ"
+    },
+    {
+      "id": 7419,
+      "series_id": 43,
+      "year": 2021,
+      "season": "spring",
+      "title": "僕のヒーローアカデミア (第5期)"
+    },
+    {
+      "id": 7252,
+      "series_id": 1570,
+      "year": 2021,
+      "season": "spring",
+      "title": "不滅のあなたへ"
+    },
+    {
+      "id": 7047,
+      "series_id": 1565,
+      "year": 2021,
+      "season": "spring",
+      "title": "スライム倒して300年、知らないうちにレベルMAXになってました"
+    },
+    {
+      "id": 7398,
+      "series_id": 677,
+      "year": 2021,
+      "season": "spring",
+      "title": "転生したらスライムだった件 転スラ日記"
+    },
+    {
+      "id": 7392,
+      "series_id": 1550,
+      "year": 2021,
+      "season": "spring",
+      "title": "戦闘員、派遣します！"
+    },
+    {
+      "id": 7712,
+      "series_id": 1571,
+      "year": 2021,
+      "season": "spring",
+      "title": "幼なじみが絶対に負けないラブコメ"
+    },
+    {
+      "id": 7672,
+      "series_id": 1557,
+      "year": 2021,
+      "season": "spring",
+      "title": "聖女の魔力は万能です"
+    },
+    {
+      "id": 7474,
+      "series_id": 601,
+      "year": 2021,
+      "season": "spring",
+      "title": "異世界魔王と召喚少女の奴隷魔術Ω"
+    },
+    {
+      "id": 7584,
+      "series_id": 1360,
+      "year": 2021,
+      "season": "spring",
+      "title": "イジらないで、長瀞さん"
+    },
+    {
+      "id": 7837,
+      "series_id": 1560,
+      "year": 2021,
+      "season": "spring",
+      "title": "究極進化したフルダイブRPGが現実よりもクソゲーだったら"
+    },
+    {
+      "id": 7709,
+      "series_id": 1404,
+      "year": 2021,
+      "season": "spring",
+      "title": "憂国のモリアーティ 2クール目"
+    },
+    {
+      "id": 7546,
+      "series_id": 527,
+      "year": 2021,
+      "season": "spring",
+      "title": "SHAMAN KING"
+    },
+    {
+      "id": 7269,
+      "series_id": 1541,
+      "year": 2021,
+      "season": "spring",
+      "title": "恋と呼ぶには気持ち悪い"
+    },
+    {
+      "id": 7757,
+      "series_id": 1568,
+      "year": 2021,
+      "season": "spring",
+      "title": "美少年探偵団"
+    },
+    {
+      "id": 7605,
+      "series_id": 1544,
+      "year": 2021,
+      "season": "spring",
+      "title": "灼熱カバディ"
+    },
+    {
+      "id": 7639,
+      "series_id": 1578,
+      "year": 2021,
+      "season": "spring",
+      "title": "やくならマグカップも"
+    },
+    {
+      "id": 7690,
+      "series_id": 987,
+      "year": 2021,
+      "season": "spring",
+      "title": "フルーツバスケット The Final"
+    },
+    {
+      "id": 7708,
+      "series_id": 1540,
+      "year": 2021,
+      "season": "spring",
+      "title": "ゴジラ S.P <シンギュラポイント>"
+    },
+    {
+      "id": 7003,
+      "series_id": 1551,
+      "year": 2021,
+      "season": "spring",
+      "title": "ドラゴン、家を買う。"
+    },
+    {
+      "id": 7624,
+      "series_id": 1545,
+      "year": 2021,
+      "season": "spring",
+      "title": "ましろのおと"
+    },
+    {
+      "id": 7677,
+      "series_id": 1408,
+      "year": 2021,
+      "season": "spring",
+      "title": "さよなら私のクラマー"
+    },
+    {
+      "id": 7087,
+      "series_id": 1062,
+      "year": 2021,
+      "season": "spring",
+      "title": "キングダム 第3シリーズ"
+    },
+    {
+      "id": 8278,
+      "series_id": 1484,
+      "year": 2021,
+      "season": "spring",
+      "title": "ワンダーエッグ・プライオリティ 特別編 「私のプライオリティ」"
+    },
+    {
+      "id": 7374,
+      "series_id": 988,
+      "year": 2021,
+      "season": "spring",
+      "title": "魔入りました！入間くん 第2シリーズ"
+    },
+    {
+      "id": 7322,
+      "series_id": 1420,
+      "year": 2021,
+      "season": "spring",
+      "title": "MARS RED"
+    },
+    {
+      "id": 7585,
+      "series_id": 1361,
+      "year": 2021,
+      "season": "spring",
+      "title": "すばらしきこのせかい The Animation"
+    },
+    {
+      "id": 7745,
+      "series_id": 1562,
+      "year": 2021,
+      "season": "spring",
+      "title": "バクテン!!"
+    },
+    {
+      "id": 7544,
+      "series_id": 1567,
+      "year": 2021,
+      "season": "spring",
+      "title": "EDENS ZERO"
+    },
+    {
+      "id": 7912,
+      "series_id": 313,
+      "year": 2021,
+      "season": "spring",
+      "title": "結城友奈は勇者である ちゅるっと！"
+    },
+    {
+      "id": 6492,
+      "series_id": 30,
+      "year": 2021,
+      "season": "summer",
+      "title": "小林さんちのメイドラゴンS"
+    },
+    {
+      "id": 7411,
+      "series_id": 677,
+      "year": 2021,
+      "season": "summer",
+      "title": "転生したらスライムだった件 第2期 第2部"
+    },
+    {
+      "id": 7922,
+      "series_id": 1680,
+      "year": 2021,
+      "season": "summer",
+      "title": "白い砂のアクアトープ"
+    },
+    {
+      "id": 7547,
+      "series_id": 1324,
+      "year": 2021,
+      "season": "summer",
+      "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X"
+    },
+    {
+      "id": 7973,
+      "series_id": 1685,
+      "year": 2021,
+      "season": "summer",
+      "title": "探偵はもう、死んでいる。"
+    },
+    {
+      "id": 7828,
+      "series_id": 1678,
+      "year": 2021,
+      "season": "summer",
+      "title": "カノジョも彼女"
+    },
+    {
+      "id": 8024,
+      "series_id": 610,
+      "year": 2021,
+      "season": "summer",
+      "title": "ひぐらしのなく頃に卒"
+    },
+    {
+      "id": 7747,
+      "series_id": 1699,
+      "year": 2021,
+      "season": "summer",
+      "title": "かげきしょうじょ!!"
+    },
+    {
+      "id": 7858,
+      "series_id": 105,
+      "year": 2021,
+      "season": "summer",
+      "title": "魔法科高校の優等生"
+    },
+    {
+      "id": 7275,
+      "series_id": 1903,
+      "year": 2021,
+      "season": "summer",
+      "title": "ラブライブ！スーパースター!!"
+    },
+    {
+      "id": 7214,
+      "series_id": 1682,
+      "year": 2021,
+      "season": "summer",
+      "title": "ぼくたちのリメイク"
+    },
+    {
+      "id": 7054,
+      "series_id": 1708,
+      "year": 2021,
+      "season": "summer",
+      "title": "うらみちお兄さん"
+    },
+    {
+      "id": 8378,
+      "series_id": 1677,
+      "year": 2021,
+      "season": "summer",
+      "title": "ジャヒー様はくじけない！"
+    },
+    {
+      "id": 7410,
+      "series_id": 1120,
+      "year": 2021,
+      "season": "summer",
+      "title": "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON ‐覚醒前夜‐"
+    },
+    {
+      "id": 8412,
+      "series_id": 1707,
+      "year": 2021,
+      "season": "summer",
+      "title": "Sonny Boy"
+    },
+    {
+      "id": 7929,
+      "series_id": 1684,
+      "year": 2021,
+      "season": "summer",
+      "title": "死神坊ちゃんと黒メイド"
+    },
+    {
+      "id": 7762,
+      "series_id": 1703,
+      "year": 2021,
+      "season": "summer",
+      "title": "精霊幻想記"
+    },
+    {
+      "id": 7848,
+      "series_id": 1714,
+      "year": 2021,
+      "season": "summer",
+      "title": "出会って5秒でバトル"
+    },
+    {
+      "id": 7440,
+      "series_id": 1681,
+      "year": 2021,
+      "season": "summer",
+      "title": "現実主義勇者の王国再建記"
+    },
+    {
+      "id": 7852,
+      "series_id": 1687,
+      "year": 2021,
+      "season": "summer",
+      "title": "月が導く異世界道中"
+    },
+    {
+      "id": 7609,
+      "series_id": 1718,
+      "year": 2021,
+      "season": "summer",
+      "title": "迷宮ブラックカンパニー"
+    },
+    {
+      "id": 8202,
+      "series_id": 1694,
+      "year": 2021,
+      "season": "summer",
+      "title": "ヴァニタスの手記"
+    },
+    {
+      "id": 7623,
+      "series_id": 1710,
+      "year": 2021,
+      "season": "summer",
+      "title": "ピーチボーイリバーサイド"
+    },
+    {
+      "id": 7527,
+      "series_id": 1686,
+      "year": 2021,
+      "season": "summer",
+      "title": "チート薬師のスローライフ ～異世界に作ろうドラッグストア～"
+    },
+    {
+      "id": 7874,
+      "series_id": 1387,
+      "year": 2021,
+      "season": "summer",
+      "title": "100万の命の上に俺は立っている 第2シーズン"
+    },
+    {
+      "id": 7526,
+      "series_id": 1715,
+      "year": 2021,
+      "season": "summer",
+      "title": "女神寮の寮母くん。"
+    },
+    {
+      "id": 7632,
+      "series_id": 1717,
+      "year": 2021,
+      "season": "summer",
+      "title": "平穏世代の韋駄天達"
+    },
+    {
+      "id": 8144,
+      "series_id": 1700,
+      "year": 2021,
+      "season": "summer",
+      "title": "RE-MAIN"
+    },
+    {
+      "id": 8787,
+      "series_id": 1120,
+      "year": 2021,
+      "season": "summer",
+      "title": "マギアレコード 魔法少女まどか☆マギカ外伝 1st SEASON総集編"
+    },
+    {
+      "id": 8171,
+      "series_id": 1705,
+      "year": 2021,
+      "season": "summer",
+      "title": "SCARLET NEXUS"
+    },
+    {
+      "id": 7740,
+      "series_id": 1704,
+      "year": 2021,
+      "season": "summer",
+      "title": "NIGHT HEAD 2041"
+    },
+    {
+      "id": 7864,
+      "series_id": 339,
+      "year": 2021,
+      "season": "summer",
+      "title": "アイドリッシュセブン Third BEAT! 第1クール"
+    },
+    {
+      "id": 8470,
+      "series_id": 1716,
+      "year": 2021,
+      "season": "summer",
+      "title": "天官賜福"
+    },
+    {
+      "id": 8747,
+      "series_id": 1200,
+      "year": 2021,
+      "season": "summer",
+      "title": "Fate/Grand Order -絶対魔獣戦線バビロニア- 総集編"
+    },
+    {
+      "id": 8629,
+      "series_id": 1702,
+      "year": 2021,
+      "season": "summer",
+      "title": "D_CIDE TRAUMEREI THE ANIMATION"
+    },
+    {
+      "id": 7969,
+      "series_id": 802,
+      "year": 2021,
+      "season": "autumn",
+      "title": "鬼滅の刃 遊郭編"
+    },
+    {
+      "id": 8200,
+      "series_id": 1481,
+      "year": 2021,
+      "season": "autumn",
+      "title": "無職転生 ～異世界行ったら本気だす～  第2部"
+    },
+    {
+      "id": 8957,
+      "series_id": 802,
+      "year": 2021,
+      "season": "autumn",
+      "title": "鬼滅の刃 無限列車編"
+    },
+    {
+      "id": 7190,
+      "series_id": 1773,
+      "year": 2021,
+      "season": "autumn",
+      "title": "王様ランキング"
+    },
+    {
+      "id": 7551,
+      "series_id": 1777,
+      "year": 2021,
+      "season": "autumn",
+      "title": "先輩がうざい後輩の話"
+    },
+    {
+      "id": 8170,
+      "series_id": 1764,
+      "year": 2021,
+      "season": "autumn",
+      "title": "見える子ちゃん"
+    },
+    {
+      "id": 8491,
+      "series_id": 1675,
+      "year": 2021,
+      "season": "autumn",
+      "title": "古見さんは、コミュ症です。"
+    },
+    {
+      "id": 8665,
+      "series_id": 1566,
+      "year": 2021,
+      "season": "autumn",
+      "title": "86―エイティシックス― 第2クール"
+    },
+    {
+      "id": 8135,
+      "series_id": 1818,
+      "year": 2021,
+      "season": "autumn",
+      "title": "世界最高の暗殺者、異世界貴族に転生する"
+    },
+    {
+      "id": 7917,
+      "series_id": 1771,
+      "year": 2021,
+      "season": "autumn",
+      "title": "ブルーピリオド"
+    },
+    {
+      "id": 8180,
+      "series_id": 1812,
+      "year": 2021,
+      "season": "autumn",
+      "title": "takt op.Destiny"
+    },
+    {
+      "id": 8402,
+      "series_id": 222,
+      "year": 2021,
+      "season": "autumn",
+      "title": "異世界食堂2"
+    },
+    {
+      "id": 7827,
+      "series_id": 1792,
+      "year": 2021,
+      "season": "autumn",
+      "title": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+    },
+    {
+      "id": 7975,
+      "series_id": 105,
+      "year": 2021,
+      "season": "autumn",
+      "title": "魔法科高校の劣等生 追憶編"
+    },
+    {
+      "id": 7619,
+      "series_id": 313,
+      "year": 2021,
+      "season": "autumn",
+      "title": "結城友奈は勇者である 大満開の章"
+    },
+    {
+      "id": 8379,
+      "series_id": 1631,
+      "year": 2021,
+      "season": "autumn",
+      "title": "最果てのパラディン"
+    },
+    {
+      "id": 8201,
+      "series_id": 1111,
+      "year": 2021,
+      "season": "autumn",
+      "title": "ワールドトリガー 3rdシーズン"
+    },
+    {
+      "id": 7879,
+      "series_id": 1782,
+      "year": 2021,
+      "season": "autumn",
+      "title": "大正オトメ御伽話"
+    },
+    {
+      "id": 7513,
+      "series_id": 1774,
+      "year": 2021,
+      "season": "autumn",
+      "title": "吸血鬼すぐ死ぬ"
+    },
+    {
+      "id": 7878,
+      "series_id": 1791,
+      "year": 2021,
+      "season": "autumn",
+      "title": "プラチナエンド"
+    },
+    {
+      "id": 8000,
+      "series_id": 1776,
+      "year": 2021,
+      "season": "autumn",
+      "title": "月とライカと吸血姫"
+    },
+    {
+      "id": 8630,
+      "series_id": 1706,
+      "year": 2021,
+      "season": "autumn",
+      "title": "海賊王女"
+    },
+    {
+      "id": 8947,
+      "series_id": 280,
+      "year": 2021,
+      "season": "autumn",
+      "title": "ヴァイオレット・エヴァーガーデン 特別編集版"
+    },
+    {
+      "id": 7836,
+      "series_id": 1728,
+      "year": 2021,
+      "season": "autumn",
+      "title": "SELECTION PROJECT"
+    },
+    {
+      "id": 6871,
+      "series_id": 1778,
+      "year": 2021,
+      "season": "autumn",
+      "title": "サクガン"
+    },
+    {
+      "id": 7903,
+      "series_id": 1816,
+      "year": 2021,
+      "season": "autumn",
+      "title": "進化の実～知らないうちに勝ち組人生～"
+    },
+    {
+      "id": 8546,
+      "series_id": 944,
+      "year": 2021,
+      "season": "autumn",
+      "title": "ルパン三世 PART6"
+    },
+    {
+      "id": 8656,
+      "series_id": 2008,
+      "year": 2021,
+      "season": "autumn",
+      "title": "かぎなど"
+    },
+    {
+      "id": 8675,
+      "series_id": 1800,
+      "year": 2021,
+      "season": "autumn",
+      "title": "逆転世界ノ電池少女"
+    },
+    {
+      "id": 7739,
+      "series_id": 1793,
+      "year": 2021,
+      "season": "autumn",
+      "title": "マブラヴ オルタネイティヴ"
+    },
+    {
+      "id": 8684,
+      "series_id": 868,
+      "year": 2021,
+      "season": "autumn",
+      "title": "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 特別編"
+    },
+    {
+      "id": 8634,
+      "series_id": 1578,
+      "year": 2021,
+      "season": "autumn",
+      "title": "やくならマグカップも 二番窯"
+    },
+    {
+      "id": 7835,
+      "series_id": 1813,
+      "year": 2021,
+      "season": "autumn",
+      "title": "プラオレ！～PRIDE OF ORANGE～"
+    },
+    {
+      "id": 8414,
+      "series_id": 1789,
+      "year": 2021,
+      "season": "autumn",
+      "title": "180秒で君の耳を幸せにできるか？"
+    },
+    {
+      "id": 8796,
+      "series_id": 1805,
+      "year": 2021,
+      "season": "autumn",
+      "title": "でーじミーツガール"
+    },
+    {
+      "id": 8837,
+      "series_id": 1786,
+      "year": 2021,
+      "season": "autumn",
+      "title": "しょうたいむ！～歌のお姉さんだってしたい"
+    },
+    {
+      "id": 8168,
+      "series_id": 1858,
+      "year": 2021,
+      "season": "autumn",
+      "title": "境界戦機"
+    },
+    {
+      "id": 8990,
+      "series_id": 408,
+      "year": 2021,
+      "season": "autumn",
+      "title": "ポプテピピック 再放送(リミックス版)"
+    },
+    {
+      "id": 8459,
+      "series_id": 1807,
+      "year": 2021,
+      "season": "autumn",
+      "title": "テスラノート"
+    },
+    {
+      "id": 7832,
+      "series_id": 1804,
+      "year": 2021,
+      "season": "autumn",
+      "title": "さんかく窓の外側は夜"
+    },
+    {
+      "id": 6291,
+      "series_id": 398,
+      "year": 2021,
+      "season": "winter",
+      "title": "ゆるキャン△ SEASON2"
+    },
+    {
+      "id": 6619,
+      "series_id": 1481,
+      "year": 2021,
+      "season": "winter",
+      "title": "無職転生 ～異世界行ったら本気だす～"
+    },
+    {
+      "id": 7541,
+      "series_id": 52,
+      "year": 2021,
+      "season": "winter",
+      "title": "Re:ゼロから始める異世界生活 2nd season 第2部"
+    },
+    {
+      "id": 6617,
+      "series_id": 677,
+      "year": 2021,
+      "season": "winter",
+      "title": "転生したらスライムだった件 第2期 第1部"
+    },
+    {
+      "id": 6660,
+      "series_id": 743,
+      "year": 2021,
+      "season": "winter",
+      "title": "五等分の花嫁∬"
+    },
+    {
+      "id": 7694,
+      "series_id": 2395,
+      "year": 2021,
+      "season": "winter",
+      "title": "ウマ娘 プリティーダービー Season 2"
+    },
+    {
+      "id": 6604,
+      "series_id": 616,
+      "year": 2021,
+      "season": "winter",
+      "title": "はたらく細胞!!"
+    },
+    {
+      "id": 6666,
+      "series_id": 131,
+      "year": 2021,
+      "season": "winter",
+      "title": "のんのんびより のんすとっぷ"
+    },
+    {
+      "id": 7194,
+      "series_id": 908,
+      "year": 2021,
+      "season": "winter",
+      "title": "Dr.STONE STONE WARS"
+    },
+    {
+      "id": 7682,
+      "series_id": 1475,
+      "year": 2021,
+      "season": "winter",
+      "title": "ホリミヤ"
+    },
+    {
+      "id": 6592,
+      "series_id": 766,
+      "year": 2021,
+      "season": "winter",
+      "title": "約束のネバーランド Season 2"
+    },
+    {
+      "id": 7478,
+      "series_id": 616,
+      "year": 2021,
+      "season": "winter",
+      "title": "はたらく細胞BLACK"
+    },
+    {
+      "id": 7001,
+      "series_id": 1471,
+      "year": 2021,
+      "season": "winter",
+      "title": "弱キャラ友崎くん"
+    },
+    {
+      "id": 6169,
+      "series_id": 1472,
+      "year": 2021,
+      "season": "winter",
+      "title": "蜘蛛ですが、なにか？"
+    },
+    {
+      "id": 7887,
+      "series_id": 1495,
+      "year": 2021,
+      "season": "winter",
+      "title": "PUI PUI モルカー"
+    },
+    {
+      "id": 7710,
+      "series_id": 1484,
+      "year": 2021,
+      "season": "winter",
+      "title": "ワンダーエッグ・プライオリティ"
+    },
+    {
+      "id": 7049,
+      "series_id": 1464,
+      "year": 2021,
+      "season": "winter",
+      "title": "たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語"
+    },
+    {
+      "id": 7215,
+      "series_id": 1478,
+      "year": 2021,
+      "season": "winter",
+      "title": "怪物事変"
+    },
+    {
+      "id": 7687,
+      "series_id": 1465,
+      "year": 2021,
+      "season": "winter",
+      "title": "裏世界ピクニック"
+    },
+    {
+      "id": 7159,
+      "series_id": 1487,
+      "year": 2021,
+      "season": "winter",
+      "title": "回復術士のやり直し"
+    },
+    {
+      "id": 7512,
+      "series_id": 1474,
+      "year": 2021,
+      "season": "winter",
+      "title": "俺だけ入れる隠しダンジョン"
+    },
+    {
+      "id": 7209,
+      "series_id": 1111,
+      "year": 2021,
+      "season": "winter",
+      "title": "ワールドトリガー 2ndシーズン"
+    },
+    {
+      "id": 7191,
+      "series_id": 1480,
+      "year": 2021,
+      "season": "winter",
+      "title": "IDOLY PRIDE"
+    },
+    {
+      "id": 7224,
+      "series_id": 996,
+      "year": 2021,
+      "season": "winter",
+      "title": "BEASTARS 第2期"
+    },
+    {
+      "id": 7270,
+      "series_id": 270,
+      "year": 2021,
+      "season": "winter",
+      "title": "ログ・ホライズン 円卓崩壊"
+    },
+    {
+      "id": 7601,
+      "series_id": 1469,
+      "year": 2021,
+      "season": "winter",
+      "title": "天地創造デザイン部"
+    },
+    {
+      "id": 7674,
+      "series_id": 1477,
+      "year": 2021,
+      "season": "winter",
+      "title": "SK∞ エスケーエイト"
+    },
+    {
+      "id": 7405,
+      "series_id": 362,
+      "year": 2021,
+      "season": "winter",
+      "title": "七つの大罪 憤怒の審判"
+    },
+    {
+      "id": 7243,
+      "series_id": 1486,
+      "year": 2021,
+      "season": "winter",
+      "title": "バック・アロウ"
+    },
+    {
+      "id": 7676,
+      "series_id": 1476,
+      "year": 2021,
+      "season": "winter",
+      "title": "怪病医ラムネ"
+    },
+    {
+      "id": 7685,
+      "series_id": 1005,
+      "year": 2021,
+      "season": "winter",
+      "title": "アズールレーン びそくぜんしんっ！"
+    },
+    {
+      "id": 7604,
+      "series_id": 1470,
+      "year": 2021,
+      "season": "winter",
+      "title": "2.43 清陰高校男子バレー部"
+    },
+    {
+      "id": 7680,
+      "series_id": 1463,
+      "year": 2021,
+      "season": "winter",
+      "title": "ゲキドル"
+    },
+    {
+      "id": 7409,
+      "series_id": 527,
+      "year": 2021,
+      "season": "winter",
+      "title": "SHOW BY ROCK!!STARS!!"
+    },
+    {
+      "id": 7629,
+      "series_id": 2148,
+      "year": 2021,
+      "season": "winter",
+      "title": "ワールドウィッチーズ発進しますっ！"
+    },
+    {
+      "id": 7717,
+      "series_id": 808,
+      "year": 2021,
+      "season": "winter",
+      "title": "八十亀ちゃんかんさつにっき 3さつめ"
+    },
+    {
+      "id": 7856,
+      "series_id": 718,
+      "year": 2021,
+      "season": "winter",
+      "title": "おとなの防具屋さんII"
+    },
+    {
+      "id": 7602,
+      "series_id": 162,
+      "year": 2021,
+      "season": "winter",
+      "title": "文豪ストレイドッグス わん！"
+    },
+    {
+      "id": 6596,
+      "series_id": 1467,
+      "year": 2021,
+      "season": "winter",
+      "title": "装甲娘戦機"
+    },
+    {
+      "id": 7246,
+      "series_id": 1468,
+      "year": 2021,
+      "season": "winter",
+      "title": "オルタンシア・サーガ"
+    },
+    {
+      "id": 7408,
+      "series_id": 1212,
+      "year": 2021,
+      "season": "winter",
+      "title": "WIXOSS DIVA(A)LIVE"
+    },
+    {
+      "id": 9060,
+      "series_id": 1923,
+      "year": 2022,
+      "season": "spring",
+      "title": "SPY×FAMILY"
+    },
+    {
+      "id": 7725,
+      "series_id": 744,
+      "year": 2022,
+      "season": "spring",
+      "title": "かぐや様は告らせたい-ウルトラロマンティック-"
+    },
+    {
+      "id": 9107,
+      "series_id": 1946,
+      "year": 2022,
+      "season": "spring",
+      "title": "パリピ孔明"
+    },
+    {
+      "id": 8782,
+      "series_id": 1937,
+      "year": 2022,
+      "season": "spring",
+      "title": "サマータイムレンダ"
+    },
+    {
+      "id": 7664,
+      "series_id": 921,
+      "year": 2022,
+      "season": "spring",
+      "title": "まちカドまぞく 2丁目"
+    },
+    {
+      "id": 6931,
+      "series_id": 780,
+      "year": 2022,
+      "season": "spring",
+      "title": "盾の勇者の成り上がり Season2"
+    },
+    {
+      "id": 8802,
+      "series_id": 1768,
+      "year": 2022,
+      "season": "spring",
+      "title": "阿波連さんははかれない"
+    },
+    {
+      "id": 7868,
+      "series_id": 1876,
+      "year": 2022,
+      "season": "spring",
+      "title": "可愛いだけじゃない式守さん"
+    },
+    {
+      "id": 8458,
+      "series_id": 2020,
+      "year": 2022,
+      "season": "spring",
+      "title": "カッコウの許嫁"
+    },
+    {
+      "id": 8478,
+      "series_id": 1688,
+      "year": 2022,
+      "season": "spring",
+      "title": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 (第2期)"
+    },
+    {
+      "id": 9228,
+      "series_id": 1675,
+      "year": 2022,
+      "season": "spring",
+      "title": "古見さんは、コミュ症です。2期"
+    },
+    {
+      "id": 8467,
+      "series_id": 1865,
+      "year": 2022,
+      "season": "spring",
+      "title": "であいもん"
+    },
+    {
+      "id": 7907,
+      "series_id": 2013,
+      "year": 2022,
+      "season": "spring",
+      "title": "処刑少女の生きる道"
+    },
+    {
+      "id": 9012,
+      "series_id": 1898,
+      "year": 2022,
+      "season": "spring",
+      "title": "勇者、辞めます"
+    },
+    {
+      "id": 9130,
+      "series_id": 1954,
+      "year": 2022,
+      "season": "spring",
+      "title": "乙女ゲー世界はモブに厳しい世界です"
+    },
+    {
+      "id": 8464,
+      "series_id": 2023,
+      "year": 2022,
+      "season": "spring",
+      "title": "骸骨騎士様、只今異世界へお出掛け中"
+    },
+    {
+      "id": 9063,
+      "series_id": 1925,
+      "year": 2022,
+      "season": "spring",
+      "title": "トモダチゲーム"
+    },
+    {
+      "id": 9080,
+      "series_id": 1933,
+      "year": 2022,
+      "season": "spring",
+      "title": "くノ一ツバキの胸の内"
+    },
+    {
+      "id": 7631,
+      "series_id": 980,
+      "year": 2022,
+      "season": "spring",
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません 第3期"
+    },
+    {
+      "id": 8139,
+      "series_id": 1912,
+      "year": 2022,
+      "season": "spring",
+      "title": "RPG不動産"
+    },
+    {
+      "id": 8163,
+      "series_id": 2000,
+      "year": 2022,
+      "season": "spring",
+      "title": "史上最強の大魔王、村人Aに転生する"
+    },
+    {
+      "id": 7389,
+      "series_id": 745,
+      "year": 2022,
+      "season": "spring",
+      "title": "デート・ア・ライブⅣ"
+    },
+    {
+      "id": 7706,
+      "series_id": 1137,
+      "year": 2022,
+      "season": "spring",
+      "title": "理系が恋に落ちたので証明してみた。r=1-sinθ"
+    },
+    {
+      "id": 9193,
+      "series_id": 1120,
+      "year": 2022,
+      "season": "spring",
+      "title": "マギアレコード 魔法少女まどか☆マギカ外伝 Final Season ‐浅き夢の暁‐"
+    },
+    {
+      "id": 8447,
+      "series_id": 1918,
+      "year": 2022,
+      "season": "spring",
+      "title": "魔法使い黎明期"
+    },
+    {
+      "id": 8457,
+      "series_id": 1882,
+      "year": 2022,
+      "season": "spring",
+      "title": "恋は世界征服のあとで"
+    },
+    {
+      "id": 8359,
+      "series_id": 1897,
+      "year": 2022,
+      "season": "spring",
+      "title": "このヒーラー、めんどくさい"
+    },
+    {
+      "id": 8677,
+      "series_id": 1936,
+      "year": 2022,
+      "season": "spring",
+      "title": "社畜さんは幼女幽霊に癒されたい。"
+    },
+    {
+      "id": 8848,
+      "series_id": null,
+      "year": 2022,
+      "season": "spring",
+      "title": "ヒロインたるもの！～嫌われヒロインと内緒のお仕事～"
+    },
+    {
+      "id": 8582,
+      "series_id": 1917,
+      "year": 2022,
+      "season": "spring",
+      "title": "アオアシ"
+    },
+    {
+      "id": 8413,
+      "series_id": 2019,
+      "year": 2022,
+      "season": "spring",
+      "title": "ヒーラー・ガール"
+    },
+    {
+      "id": 9049,
+      "series_id": 1913,
+      "year": 2022,
+      "season": "spring",
+      "title": "BIRDIE WING -Golf Girls' Story-"
+    },
+    {
+      "id": 8461,
+      "series_id": 2089,
+      "year": 2022,
+      "season": "spring",
+      "title": "ダンス・ダンス・ダンスール"
+    },
+    {
+      "id": 8847,
+      "series_id": 1944,
+      "year": 2022,
+      "season": "spring",
+      "title": "群青のファンファーレ"
+    },
+    {
+      "id": 9243,
+      "series_id": 2008,
+      "year": 2022,
+      "season": "spring",
+      "title": "かぎなど シーズン2"
+    },
+    {
+      "id": 9052,
+      "series_id": 2029,
+      "year": 2022,
+      "season": "spring",
+      "title": "ちいかわ"
+    },
+    {
+      "id": 8979,
+      "series_id": 2025,
+      "year": 2022,
+      "season": "spring",
+      "title": "名探偵コナン ゼロの日常 (ティータイム)"
+    },
+    {
+      "id": 8893,
+      "series_id": 185,
+      "year": 2022,
+      "season": "spring",
+      "title": "ブラック★★ロックシューター DAWN FALL"
+    },
+    {
+      "id": 9284,
+      "series_id": 2022,
+      "year": 2022,
+      "season": "spring",
+      "title": "エスタブライフ グレイトエスケープ"
+    },
+    {
+      "id": 9004,
+      "series_id": 1062,
+      "year": 2022,
+      "season": "spring",
+      "title": "キングダム 第4シリーズ"
+    },
+    {
+      "id": 9250,
+      "series_id": 2011,
+      "year": 2022,
+      "season": "summer",
+      "title": "リコリス・リコイル"
+    },
+    {
+      "id": 7266,
+      "series_id": 221,
+      "year": 2022,
+      "season": "summer",
+      "title": "メイドインアビス 烈日の黄金郷"
+    },
+    {
+      "id": 8631,
+      "series_id": 2005,
+      "year": 2022,
+      "season": "summer",
+      "title": "異世界おじさん"
+    },
+    {
+      "id": 9086,
+      "series_id": 1938,
+      "year": 2022,
+      "season": "summer",
+      "title": "よふかしのうた"
+    },
+    {
+      "id": 9385,
+      "series_id": 232,
+      "year": 2022,
+      "season": "summer",
+      "title": "ようこそ実力至上主義の教室へ 2nd season"
+    },
+    {
+      "id": 8476,
+      "series_id": 154,
+      "year": 2022,
+      "season": "summer",
+      "title": "オーバーロードⅣ"
+    },
+    {
+      "id": 9470,
+      "series_id": 2111,
+      "year": 2022,
+      "season": "summer",
+      "title": "Engage Kiss"
+    },
+    {
+      "id": 8880,
+      "series_id": 1539,
+      "year": 2022,
+      "season": "summer",
+      "title": "シャドーハウス 2nd Season"
+    },
+    {
+      "id": 7983,
+      "series_id": 1537,
+      "year": 2022,
+      "season": "summer",
+      "title": "はたらく魔王さま！！"
+    },
+    {
+      "id": 7906,
+      "series_id": 39,
+      "year": 2022,
+      "season": "summer",
+      "title": "ダンジョンに出会いを求めるのは間違っているだろうか IV 新章 迷宮篇"
+    },
+    {
+      "id": 7695,
+      "series_id": 1304,
+      "year": 2022,
+      "season": "summer",
+      "title": "彼女、お借りします 第2期"
+    },
+    {
+      "id": 9219,
+      "series_id": 908,
+      "year": 2022,
+      "season": "summer",
+      "title": "Dr.STONE 龍水"
+    },
+    {
+      "id": 8764,
+      "series_id": 2094,
+      "year": 2022,
+      "season": "summer",
+      "title": "異世界薬局"
+    },
+    {
+      "id": 10066,
+      "series_id": 2215,
+      "year": 2022,
+      "season": "summer",
+      "title": "機動戦士ガンダム 水星の魔女 PROLOGUE"
+    },
+    {
+      "id": 8784,
+      "series_id": 2026,
+      "year": 2022,
+      "season": "summer",
+      "title": "継母の連れ子が元カノだった"
+    },
+    {
+      "id": 7886,
+      "series_id": 2018,
+      "year": 2022,
+      "season": "summer",
+      "title": "それでも歩は寄せてくる"
+    },
+    {
+      "id": 9029,
+      "series_id": 1903,
+      "year": 2022,
+      "season": "summer",
+      "title": "ラブライブ！スーパースター!! 2期"
+    },
+    {
+      "id": 7713,
+      "series_id": 466,
+      "year": 2022,
+      "season": "summer",
+      "title": "邪神ちゃんドロップキックX"
+    },
+    {
+      "id": 8863,
+      "series_id": 2082,
+      "year": 2022,
+      "season": "summer",
+      "title": "組長娘と世話係"
+    },
+    {
+      "id": 9659,
+      "series_id": 2163,
+      "year": 2022,
+      "season": "summer",
+      "title": "最近雇ったメイドが怪しい"
+    },
+    {
+      "id": 9299,
+      "series_id": 2117,
+      "year": 2022,
+      "season": "summer",
+      "title": "プリマドール"
+    },
+    {
+      "id": 7845,
+      "series_id": 2154,
+      "year": 2022,
+      "season": "summer",
+      "title": "異世界迷宮でハーレムを"
+    },
+    {
+      "id": 7909,
+      "series_id": 1994,
+      "year": 2022,
+      "season": "summer",
+      "title": "転生賢者の異世界ライフ～第二の職業を得て、世界最強になりました～"
+    },
+    {
+      "id": 9344,
+      "series_id": 2145,
+      "year": 2022,
+      "season": "summer",
+      "title": "黒の召喚士"
+    },
+    {
+      "id": 9420,
+      "series_id": 2087,
+      "year": 2022,
+      "season": "summer",
+      "title": "金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～"
+    },
+    {
+      "id": 9042,
+      "series_id": 1911,
+      "year": 2022,
+      "season": "summer",
+      "title": "シャインポスト"
+    },
+    {
+      "id": 6167,
+      "series_id": null,
+      "year": 2022,
+      "season": "summer",
+      "title": "連盟空軍航空魔法音楽隊ルミナスウィッチーズ"
+    },
+    {
+      "id": 9132,
+      "series_id": 1956,
+      "year": 2022,
+      "season": "summer",
+      "title": "神クズ☆アイドル"
+    },
+    {
+      "id": 9466,
+      "series_id": 127,
+      "year": 2022,
+      "season": "summer",
+      "title": "RWBY 氷雪帝国"
+    },
+    {
+      "id": 9264,
+      "series_id": 2105,
+      "year": 2022,
+      "season": "summer",
+      "title": "てっぺんっ!!!!!!!!!!!!!!!"
+    },
+    {
+      "id": 9323,
+      "series_id": 2038,
+      "year": 2022,
+      "season": "summer",
+      "title": "Extreme Hearts"
+    },
+    {
+      "id": 7048,
+      "series_id": 1059,
+      "year": 2022,
+      "season": "summer",
+      "title": "うたわれるもの 二人の白皇"
+    },
+    {
+      "id": 9289,
+      "series_id": 2096,
+      "year": 2022,
+      "season": "summer",
+      "title": "惑星のさみだれ"
+    },
+    {
+      "id": 9667,
+      "series_id": 2169,
+      "year": 2022,
+      "season": "summer",
+      "title": "咲う アルスノトリア すんっ！"
+    },
+    {
+      "id": 7933,
+      "series_id": 1498,
+      "year": 2022,
+      "season": "summer",
+      "title": "東京ミュウミュウ にゅ～♡"
+    },
+    {
+      "id": 8992,
+      "series_id": 276,
+      "year": 2022,
+      "season": "summer",
+      "title": "新テニスの王子様 U-17 WORLD CUP"
+    },
+    {
+      "id": 9387,
+      "series_id": 2170,
+      "year": 2022,
+      "season": "summer",
+      "title": "ユーレイデコ"
+    },
+    {
+      "id": 5332,
+      "series_id": null,
+      "year": 2022,
+      "season": "summer",
+      "title": "むさしの！"
+    },
+    {
+      "id": 9700,
+      "series_id": 2177,
+      "year": 2022,
+      "season": "summer",
+      "title": "5億年ボタン【公式】～菅原そうたのショートショート～"
+    },
+    {
+      "id": 8128,
+      "series_id": 2074,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ぼっち・ざ・ろっく！"
+    },
+    {
+      "id": 7869,
+      "series_id": 2205,
+      "year": 2022,
+      "season": "autumn",
+      "title": "チェンソーマン"
+    },
+    {
+      "id": 9720,
+      "series_id": 1923,
+      "year": 2022,
+      "season": "autumn",
+      "title": "SPY×FAMILY 第2クール"
+    },
+    {
+      "id": 8888,
+      "series_id": 2215,
+      "year": 2022,
+      "season": "autumn",
+      "title": "機動戦士ガンダム 水星の魔女 Season1"
+    },
+    {
+      "id": 8138,
+      "series_id": 2010,
+      "year": 2022,
+      "season": "autumn",
+      "title": "陰の実力者になりたくて！"
+    },
+    {
+      "id": 8830,
+      "series_id": 2226,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ブルーロック"
+    },
+    {
+      "id": 9715,
+      "series_id": 2201,
+      "year": 2022,
+      "season": "autumn",
+      "title": "アキバ冥途戦争"
+    },
+    {
+      "id": 8175,
+      "series_id": 2199,
+      "year": 2022,
+      "season": "autumn",
+      "title": "Do It Yourself!! -どぅー・いっと・ゆあせるふ-"
+    },
+    {
+      "id": 9123,
+      "series_id": 43,
+      "year": 2022,
+      "season": "autumn",
+      "title": "僕のヒーローアカデミア (第6期)"
+    },
+    {
+      "id": 8004,
+      "series_id": 294,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ヤマノススメ Next Summit"
+    },
+    {
+      "id": 9251,
+      "series_id": 841,
+      "year": 2022,
+      "season": "autumn",
+      "title": "うる星やつら (2022)"
+    },
+    {
+      "id": 8946,
+      "series_id": 2080,
+      "year": 2022,
+      "season": "autumn",
+      "title": "転生したら剣でした"
+    },
+    {
+      "id": 9011,
+      "series_id": 582,
+      "year": 2022,
+      "season": "autumn",
+      "title": "モブサイコ100 III"
+    },
+    {
+      "id": 9482,
+      "series_id": 577,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ジョジョの奇妙な冒険 ストーンオーシャン 第2期"
+    },
+    {
+      "id": 7401,
+      "series_id": 1199,
+      "year": 2022,
+      "season": "autumn",
+      "title": "BLEACH 千年血戦篇"
+    },
+    {
+      "id": 9508,
+      "series_id": 2225,
+      "year": 2022,
+      "season": "autumn",
+      "title": "4人はそれぞれウソをつく"
+    },
+    {
+      "id": 9235,
+      "series_id": 408,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ポプテピピック 第二シリーズ"
+    },
+    {
+      "id": 7702,
+      "series_id": 1307,
+      "year": 2022,
+      "season": "autumn",
+      "title": "宇崎ちゃんは遊びたい！ω"
+    },
+    {
+      "id": 9186,
+      "series_id": 442,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ゴールデンカムイ 第4期"
+    },
+    {
+      "id": 8935,
+      "series_id": 2206,
+      "year": 2022,
+      "season": "autumn",
+      "title": "新米錬金術師の店舗経営"
+    },
+    {
+      "id": 9697,
+      "series_id": 2224,
+      "year": 2022,
+      "season": "autumn",
+      "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
+    },
+    {
+      "id": 8849,
+      "series_id": 1570,
+      "year": 2022,
+      "season": "autumn",
+      "title": "不滅のあなたへ Season2"
+    },
+    {
+      "id": 9127,
+      "series_id": 2223,
+      "year": 2022,
+      "season": "autumn",
+      "title": "夫婦以上、恋人未満。"
+    },
+    {
+      "id": 9424,
+      "series_id": 2222,
+      "year": 2022,
+      "season": "autumn",
+      "title": "不徳のギルド"
+    },
+    {
+      "id": 9467,
+      "series_id": 2108,
+      "year": 2022,
+      "season": "autumn",
+      "title": "恋愛フロップス"
+    },
+    {
+      "id": 9397,
+      "series_id": 2221,
+      "year": 2022,
+      "season": "autumn",
+      "title": "農民関連のスキルばっか上げてたら何故か強くなった。"
+    },
+    {
+      "id": 9069,
+      "series_id": 2103,
+      "year": 2022,
+      "season": "autumn",
+      "title": "悪役令嬢なのでラスボスを飼ってみました"
+    },
+    {
+      "id": 8808,
+      "series_id": 2112,
+      "year": 2022,
+      "season": "autumn",
+      "title": "うちの師匠はしっぽがない"
+    },
+    {
+      "id": 8980,
+      "series_id": 2025,
+      "year": 2022,
+      "season": "autumn",
+      "title": "名探偵コナン 犯人の犯沢さん"
+    },
+    {
+      "id": 9205,
+      "series_id": 2216,
+      "year": 2022,
+      "season": "autumn",
+      "title": "後宮の烏"
+    },
+    {
+      "id": 9479,
+      "series_id": 134,
+      "year": 2022,
+      "season": "autumn",
+      "title": "「艦これ」いつかあの海で"
+    },
+    {
+      "id": 9031,
+      "series_id": 1907,
+      "year": 2022,
+      "season": "autumn",
+      "title": "アークナイツ【黎明前奏/PRELUDE TO DAWN】"
+    },
+    {
+      "id": 9300,
+      "series_id": 2218,
+      "year": 2022,
+      "season": "autumn",
+      "title": "虫かぶり姫"
+    },
+    {
+      "id": 9683,
+      "series_id": 1495,
+      "year": 2022,
+      "season": "autumn",
+      "title": "PUI PUI モルカー DRIVING SCHOOL"
+    },
+    {
+      "id": 9580,
+      "series_id": 2204,
+      "year": 2022,
+      "season": "autumn",
+      "title": "クールドジ男子"
+    },
+    {
+      "id": 8786,
+      "series_id": 2188,
+      "year": 2022,
+      "season": "autumn",
+      "title": "令和のデ・ジ・キャラット"
+    },
+    {
+      "id": 9195,
+      "series_id": 527,
+      "year": 2022,
+      "season": "autumn",
+      "title": "弱虫ペダル LIMIT BREAK"
+    },
+    {
+      "id": 9821,
+      "series_id": 2211,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ハーレムきゃんぷっ！"
+    },
+    {
+      "id": 9737,
+      "series_id": 2202,
+      "year": 2022,
+      "season": "autumn",
+      "title": "ある朝、ダミーヘッドマイクになっていた俺クンの人生"
+    },
+    {
+      "id": 8883,
+      "series_id": 988,
+      "year": 2022,
+      "season": "autumn",
+      "title": "魔入りました！入間くん 第3シリーズ"
+    },
+    {
+      "id": 8365,
+      "series_id": 1906,
+      "year": 2022,
+      "season": "winter",
+      "title": "その着せ替え人形は恋をする"
+    },
+    {
+      "id": 8451,
+      "series_id": 2,
+      "year": 2022,
+      "season": "winter",
+      "title": "進撃の巨人 The Final Season Part.2"
+    },
+    {
+      "id": 8179,
+      "series_id": 1877,
+      "year": 2022,
+      "season": "winter",
+      "title": "明日ちゃんのセーラー服"
+    },
+    {
+      "id": 7881,
+      "series_id": 1795,
+      "year": 2022,
+      "season": "winter",
+      "title": "スローループ"
+    },
+    {
+      "id": 8307,
+      "series_id": 577,
+      "year": 2022,
+      "season": "winter",
+      "title": "ジョジョの奇妙な冒険 ストーンオーシャン"
+    },
+    {
+      "id": 8851,
+      "series_id": 361,
+      "year": 2022,
+      "season": "winter",
+      "title": "からかい上手の高木さん3"
+    },
+    {
+      "id": 7910,
+      "series_id": 1779,
+      "year": 2022,
+      "season": "winter",
+      "title": "天才王子の赤字国家再生術"
+    },
+    {
+      "id": 8855,
+      "series_id": 1996,
+      "year": 2022,
+      "season": "winter",
+      "title": "平家物語"
+    },
+    {
+      "id": 7654,
+      "series_id": 1230,
+      "year": 2022,
+      "season": "winter",
+      "title": "プリンセスコネクト！Re:Dive Season 2"
+    },
+    {
+      "id": 6989,
+      "series_id": 918,
+      "year": 2022,
+      "season": "winter",
+      "title": "ありふれた職業で世界最強 2nd season"
+    },
+    {
+      "id": 8523,
+      "series_id": 1908,
+      "year": 2022,
+      "season": "winter",
+      "title": "異世界美少女受肉おじさんと"
+    },
+    {
+      "id": 7908,
+      "series_id": 1920,
+      "year": 2022,
+      "season": "winter",
+      "title": "失格紋の最強賢者"
+    },
+    {
+      "id": 7510,
+      "series_id": 1788,
+      "year": 2022,
+      "season": "winter",
+      "title": "終末のハーレム"
+    },
+    {
+      "id": 8799,
+      "series_id": 1891,
+      "year": 2022,
+      "season": "winter",
+      "title": "ハコヅメ ～交番女子の逆襲～"
+    },
+    {
+      "id": 7530,
+      "series_id": 1927,
+      "year": 2022,
+      "season": "winter",
+      "title": "賢者の弟子を名乗る賢者"
+    },
+    {
+      "id": 8691,
+      "series_id": 1886,
+      "year": 2022,
+      "season": "winter",
+      "title": "怪人開発部の黒井津さん"
+    },
+    {
+      "id": 8130,
+      "series_id": 1935,
+      "year": 2022,
+      "season": "winter",
+      "title": "リアデイルの大地にて"
+    },
+    {
+      "id": 9092,
+      "series_id": 1939,
+      "year": 2022,
+      "season": "winter",
+      "title": "時光代理人 -LINK CLICK-"
+    },
+    {
+      "id": 8149,
+      "series_id": 1890,
+      "year": 2022,
+      "season": "winter",
+      "title": "錆喰いビスコ"
+    },
+    {
+      "id": 8958,
+      "series_id": 1681,
+      "year": 2022,
+      "season": "winter",
+      "title": "現実主義勇者の王国再建記 第二部"
+    },
+    {
+      "id": 9030,
+      "series_id": 1904,
+      "year": 2022,
+      "season": "winter",
+      "title": "東京24区"
+    },
+    {
+      "id": 7829,
+      "series_id": 1932,
+      "year": 2022,
+      "season": "winter",
+      "title": "殺し愛"
+    },
+    {
+      "id": 7746,
+      "series_id": 1889,
+      "year": 2022,
+      "season": "winter",
+      "title": "CUE!"
+    },
+    {
+      "id": 8584,
+      "series_id": 1694,
+      "year": 2022,
+      "season": "winter",
+      "title": "ヴァニタスの手記 2クール目"
+    },
+    {
+      "id": 9059,
+      "series_id": 1997,
+      "year": 2022,
+      "season": "winter",
+      "title": "イロドリミドリ"
+    },
+    {
+      "id": 7822,
+      "series_id": 1888,
+      "year": 2022,
+      "season": "winter",
+      "title": "佐々木と宮野"
+    },
+    {
+      "id": 9018,
+      "series_id": 1899,
+      "year": 2022,
+      "season": "winter",
+      "title": "リーマンズクラブ"
+    },
+    {
+      "id": 9133,
+      "series_id": 2016,
+      "year": 2022,
+      "season": "winter",
+      "title": "デリシャスパーティ♡プリキュア"
+    },
+    {
+      "id": 8176,
+      "series_id": 1905,
+      "year": 2022,
+      "season": "winter",
+      "title": "ドールズフロントライン"
+    },
+    {
+      "id": 7684,
+      "series_id": 1881,
+      "year": 2022,
+      "season": "winter",
+      "title": "薔薇王の葬列"
+    },
+    {
+      "id": 8809,
+      "series_id": 1909,
+      "year": 2022,
+      "season": "winter",
+      "title": "永遠の831"
+    },
+    {
+      "id": 7927,
+      "series_id": 1887,
+      "year": 2022,
+      "season": "winter",
+      "title": "オリエント"
+    },
+    {
+      "id": 8969,
+      "series_id": 1875,
+      "year": 2022,
+      "season": "winter",
+      "title": "トライブナイン"
+    },
+    {
+      "id": 8955,
+      "series_id": 1945,
+      "year": 2022,
+      "season": "winter",
+      "title": "王子の本命は悪役令嬢"
+    },
+    {
+      "id": 7924,
+      "series_id": 212,
+      "year": 2022,
+      "season": "winter",
+      "title": "最遊記RELOAD -ZEROIN-"
+    },
+    {
+      "id": 9696,
+      "series_id": 2298,
+      "year": 2023,
+      "season": "spring",
+      "title": "【推しの子】"
+    },
+    {
+      "id": 9328,
+      "series_id": 802,
+      "year": 2023,
+      "season": "spring",
+      "title": "鬼滅の刃 刀鍛冶の里編"
+    },
+    {
+      "id": 9676,
+      "series_id": 13,
+      "year": 2023,
+      "season": "spring",
+      "title": "この素晴らしい世界に爆焔を！"
+    },
+    {
+      "id": 10425,
+      "series_id": 2215,
+      "year": 2023,
+      "season": "spring",
+      "title": "機動戦士ガンダム 水星の魔女 Season2"
+    },
+    {
+      "id": 9767,
+      "series_id": 2245,
+      "year": 2023,
+      "season": "spring",
+      "title": "僕の心のヤバイやつ"
+    },
+    {
+      "id": 9125,
+      "series_id": 2287,
+      "year": 2023,
+      "season": "spring",
+      "title": "スキップとローファー"
+    },
+    {
+      "id": 10101,
+      "series_id": 2311,
+      "year": 2023,
+      "season": "spring",
+      "title": "山田くんとLv999の恋をする"
+    },
+    {
+      "id": 7901,
+      "series_id": 2312,
+      "year": 2023,
+      "season": "spring",
+      "title": "地獄楽"
+    },
+    {
+      "id": 8177,
+      "series_id": 908,
+      "year": 2023,
+      "season": "spring",
+      "title": "Dr.STONE NEW WORLD"
+    },
+    {
+      "id": 10132,
+      "series_id": 2305,
+      "year": 2023,
+      "season": "spring",
+      "title": "天国大魔境"
+    },
+    {
+      "id": 9657,
+      "series_id": 2321,
+      "year": 2023,
+      "season": "spring",
+      "title": "私の百合はお仕事です！"
+    },
+    {
+      "id": 9516,
+      "series_id": 2244,
+      "year": 2023,
+      "season": "spring",
+      "title": "アイドルマスター シンデレラガールズ U149"
+    },
+    {
+      "id": 9701,
+      "series_id": 2307,
+      "year": 2023,
+      "season": "spring",
+      "title": "江戸前エルフ"
+    },
+    {
+      "id": 9729,
+      "series_id": 2352,
+      "year": 2023,
+      "season": "spring",
+      "title": "マッシュル-MASHLE-"
+    },
+    {
+      "id": 10067,
+      "series_id": 126,
+      "year": 2023,
+      "season": "spring",
+      "title": "魔法使いの嫁 SEASON2"
+    },
+    {
+      "id": 9833,
+      "series_id": 2351,
+      "year": 2023,
+      "season": "spring",
+      "title": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～"
+    },
+    {
+      "id": 9270,
+      "series_id": 2354,
+      "year": 2023,
+      "season": "spring",
+      "title": "君は放課後インソムニア"
+    },
+    {
+      "id": 9547,
+      "series_id": 2303,
+      "year": 2023,
+      "season": "spring",
+      "title": "青のオーケストラ"
+    },
+    {
+      "id": 9075,
+      "series_id": 1389,
+      "year": 2023,
+      "season": "spring",
+      "title": "トニカクカワイイ 第2期"
+    },
+    {
+      "id": 7880,
+      "series_id": 1399,
+      "year": 2023,
+      "season": "spring",
+      "title": "くまクマ熊ベアーぱーんち！"
+    },
+    {
+      "id": 9592,
+      "series_id": 2349,
+      "year": 2023,
+      "season": "spring",
+      "title": "神無き世界のカミサマ活動"
+    },
+    {
+      "id": 9719,
+      "series_id": 2327,
+      "year": 2023,
+      "season": "spring",
+      "title": "マイホームヒーロー"
+    },
+    {
+      "id": 10075,
+      "series_id": 2316,
+      "year": 2023,
+      "season": "spring",
+      "title": "女神のカフェテラス"
+    },
+    {
+      "id": 9603,
+      "series_id": 2348,
+      "year": 2023,
+      "season": "spring",
+      "title": "おとなりに銀河"
+    },
+    {
+      "id": 9819,
+      "series_id": 1773,
+      "year": 2023,
+      "season": "spring",
+      "title": "王様ランキング 勇気の宝箱"
+    },
+    {
+      "id": 9604,
+      "series_id": 2309,
+      "year": 2023,
+      "season": "spring",
+      "title": "勇者が死んだ！"
+    },
+    {
+      "id": 9769,
+      "series_id": 2320,
+      "year": 2023,
+      "season": "spring",
+      "title": "転生貴族の異世界冒険録 ～自重を知らない神々の使徒～"
+    },
+    {
+      "id": 10252,
+      "series_id": 2308,
+      "year": 2023,
+      "season": "spring",
+      "title": "カワイスギクライシス"
+    },
+    {
+      "id": 10191,
+      "series_id": 2337,
+      "year": 2023,
+      "season": "spring",
+      "title": "事情を知らない転校生がグイグイくる。"
+    },
+    {
+      "id": 9557,
+      "series_id": 220,
+      "year": 2023,
+      "season": "spring",
+      "title": "異世界はスマートフォンとともに。2"
+    },
+    {
+      "id": 10210,
+      "series_id": 2302,
+      "year": 2023,
+      "season": "spring",
+      "title": "ワールドダイスター"
+    },
+    {
+      "id": 10193,
+      "series_id": 2343,
+      "year": 2023,
+      "season": "spring",
+      "title": "デッドマウント・デスプレイ"
+    },
+    {
+      "id": 9423,
+      "series_id": 2347,
+      "year": 2023,
+      "season": "spring",
+      "title": "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～"
+    },
+    {
+      "id": 8505,
+      "series_id": 2328,
+      "year": 2023,
+      "season": "spring",
+      "title": "魔法少女マジカルデストロイヤーズ"
+    },
+    {
+      "id": 9726,
+      "series_id": 1913,
+      "year": 2023,
+      "season": "spring",
+      "title": "BIRDIE WING -Golf Girls' Story- Season 2"
+    },
+    {
+      "id": 9051,
+      "series_id": 2313,
+      "year": 2023,
+      "season": "spring",
+      "title": "異世界召喚は二度目です"
+    },
+    {
+      "id": 9732,
+      "series_id": 2314,
+      "year": 2023,
+      "season": "spring",
+      "title": "彼女が公爵邸に行った理由"
+    },
+    {
+      "id": 9288,
+      "series_id": 2024,
+      "year": 2023,
+      "season": "spring",
+      "title": "アリス・ギア・アイギス Expansion"
+    },
+    {
+      "id": 7916,
+      "series_id": 2340,
+      "year": 2023,
+      "season": "spring",
+      "title": "贄姫と獣の王"
+    },
+    {
+      "id": 10541,
+      "series_id": 2288,
+      "year": 2023,
+      "season": "spring",
+      "title": "ポケットモンスター (2023)"
+    },
+    {
+      "id": 10180,
+      "series_id": 2339,
+      "year": 2023,
+      "season": "spring",
+      "title": "絆のアリル"
+    },
+    {
+      "id": 10177,
+      "series_id": 2317,
+      "year": 2023,
+      "season": "spring",
+      "title": "THE MARGINAL SERVICE"
+    },
+    {
+      "id": 9327,
+      "series_id": 1391,
+      "year": 2023,
+      "season": "summer",
+      "title": "呪術廻戦 懐玉・玉折／渋谷事変"
+    },
+    {
+      "id": 9410,
+      "series_id": 1481,
+      "year": 2023,
+      "season": "summer",
+      "title": "無職転生Ⅱ ～異世界行ったら本気だす～"
+    },
+    {
+      "id": 10399,
+      "series_id": 2333,
+      "year": 2023,
+      "season": "summer",
+      "title": "好きな子がめがねを忘れた"
+    },
+    {
+      "id": 9520,
+      "series_id": 2118,
+      "year": 2023,
+      "season": "summer",
+      "title": "わたしの幸せな結婚"
+    },
+    {
+      "id": 10386,
+      "series_id": 2453,
+      "year": 2023,
+      "season": "summer",
+      "title": "ゾン100～ゾンビになるまでにしたい100のこと～"
+    },
+    {
+      "id": 10623,
+      "series_id": 1475,
+      "year": 2023,
+      "season": "summer",
+      "title": "ホリミヤ -piece-"
+    },
+    {
+      "id": 9507,
+      "series_id": 469,
+      "year": 2023,
+      "season": "summer",
+      "title": "政宗くんのリベンジR"
+    },
+    {
+      "id": 10590,
+      "series_id": 2353,
+      "year": 2023,
+      "season": "summer",
+      "title": "ライザのアトリエ ～常闇の女王と秘密の隠れ家～"
+    },
+    {
+      "id": 10684,
+      "series_id": 2095,
+      "year": 2023,
+      "season": "summer",
+      "title": "スパイ教室 2nd season"
+    },
+    {
+      "id": 10081,
+      "series_id": 1304,
+      "year": 2023,
+      "season": "summer",
+      "title": "彼女、お借りします 第3期"
+    },
+    {
+      "id": 8453,
+      "series_id": 2356,
+      "year": 2023,
+      "season": "summer",
+      "title": "ライアー・ライアー"
+    },
+    {
+      "id": 9812,
+      "series_id": 2323,
+      "year": 2023,
+      "season": "summer",
+      "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う"
+    },
+    {
+      "id": 9702,
+      "series_id": 2407,
+      "year": 2023,
+      "season": "summer",
+      "title": "白聖女と黒牧師"
+    },
+    {
+      "id": 9670,
+      "series_id": 2399,
+      "year": 2023,
+      "season": "summer",
+      "title": "デキる猫は今日も憂鬱"
+    },
+    {
+      "id": 10105,
+      "series_id": 1537,
+      "year": 2023,
+      "season": "summer",
+      "title": "はたらく魔王さま！！2nd Season"
+    },
+    {
+      "id": 10583,
+      "series_id": 2344,
+      "year": 2023,
+      "season": "summer",
+      "title": "うちの会社の小さい先輩の話"
+    },
+    {
+      "id": 10604,
+      "series_id": 2358,
+      "year": 2023,
+      "season": "summer",
+      "title": "アンデッドガール・マーダーファルス"
+    },
+    {
+      "id": 10483,
+      "series_id": 2451,
+      "year": 2023,
+      "season": "summer",
+      "title": "AIの遺電子"
+    },
+    {
+      "id": 10097,
+      "series_id": 2475,
+      "year": 2023,
+      "season": "summer",
+      "title": "Fate/strange Fake -Whispers of Dawn-"
+    },
+    {
+      "id": 9201,
+      "series_id": 2457,
+      "year": 2023,
+      "season": "summer",
+      "title": "七つの魔剣が支配する"
+    },
+    {
+      "id": 9221,
+      "series_id": 2158,
+      "year": 2023,
+      "season": "summer",
+      "title": "るろうに剣心 -明治剣客浪漫譚- (2023)"
+    },
+    {
+      "id": 10196,
+      "series_id": 2430,
+      "year": 2023,
+      "season": "summer",
+      "title": "夢見る男子は現実主義者"
+    },
+    {
+      "id": 10073,
+      "series_id": 2401,
+      "year": 2023,
+      "season": "summer",
+      "title": "実は俺、最強でした？"
+    },
+    {
+      "id": 10427,
+      "series_id": 2425,
+      "year": 2023,
+      "season": "summer",
+      "title": "てんぷる"
+    },
+    {
+      "id": 9723,
+      "series_id": 2460,
+      "year": 2023,
+      "season": "summer",
+      "title": "幻日のヨハネ -SUNSHINE in the MIRROR-"
+    },
+    {
+      "id": 9487,
+      "series_id": 2441,
+      "year": 2023,
+      "season": "summer",
+      "title": "Lv1魔王とワンルーム勇者"
+    },
+    {
+      "id": 10351,
+      "series_id": 1199,
+      "year": 2023,
+      "season": "summer",
+      "title": "BLEACH 千年血戦篇ｰ訣別譚ｰ"
+    },
+    {
+      "id": 9757,
+      "series_id": 2454,
+      "year": 2023,
+      "season": "summer",
+      "title": "ダークギャザリング"
+    },
+    {
+      "id": 9329,
+      "series_id": 2431,
+      "year": 2023,
+      "season": "summer",
+      "title": "Helck"
+    },
+    {
+      "id": 10144,
+      "series_id": 2402,
+      "year": 2023,
+      "season": "summer",
+      "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。"
+    },
+    {
+      "id": 10243,
+      "series_id": 2372,
+      "year": 2023,
+      "season": "summer",
+      "title": "おかしな転生"
+    },
+    {
+      "id": 10686,
+      "series_id": 295,
+      "year": 2023,
+      "season": "summer",
+      "title": "BanG Dream! It's MyGO!!!!!"
+    },
+    {
+      "id": 9629,
+      "series_id": 2461,
+      "year": 2023,
+      "season": "summer",
+      "title": "レベル1だけどユニークスキルで最強です"
+    },
+    {
+      "id": 8951,
+      "series_id": 2463,
+      "year": 2023,
+      "season": "summer",
+      "title": "英雄教室"
+    },
+    {
+      "id": 10647,
+      "series_id": 162,
+      "year": 2023,
+      "season": "summer",
+      "title": "文豪ストレイドッグス (第5期)"
+    },
+    {
+      "id": 8936,
+      "series_id": 1684,
+      "year": 2023,
+      "season": "summer",
+      "title": "死神坊ちゃんと黒メイド 第2期"
+    },
+    {
+      "id": 10621,
+      "series_id": 2260,
+      "year": 2023,
+      "season": "summer",
+      "title": "シュガーアップル・フェアリーテイル 第2クール"
+    },
+    {
+      "id": 10080,
+      "series_id": 2442,
+      "year": 2023,
+      "season": "summer",
+      "title": "SYNDUALITY Noir"
+    },
+    {
+      "id": 10540,
+      "series_id": 2429,
+      "year": 2023,
+      "season": "summer",
+      "title": "聖者無双～サラリーマン、異世界で生き残るために歩む道～"
+    },
+    {
+      "id": 10645,
+      "series_id": 2269,
+      "year": 2023,
+      "season": "summer",
+      "title": "もののがたり 第二章"
+    },
+    {
+      "id": 10545,
+      "series_id": 2403,
+      "year": 2023,
+      "season": "summer",
+      "title": "百姓貴族"
+    },
+    {
+      "id": 10446,
+      "series_id": 2466,
+      "year": 2023,
+      "season": "summer",
+      "title": "AYAKA ーあやかー"
+    },
+    {
+      "id": 10996,
+      "series_id": 2151,
+      "year": 2023,
+      "season": "summer",
+      "title": "スプリガン (TV放送)"
+    },
+    {
+      "id": 10079,
+      "series_id": 2324,
+      "year": 2023,
+      "season": "autumn",
+      "title": "葬送のフリーレン"
+    },
+    {
+      "id": 10253,
+      "series_id": 1923,
+      "year": 2023,
+      "season": "autumn",
+      "title": "SPY×FAMILY Season 2"
+    },
+    {
+      "id": 10518,
+      "series_id": 2480,
+      "year": 2023,
+      "season": "autumn",
+      "title": "薬屋のひとりごと"
+    },
+    {
+      "id": 10428,
+      "series_id": 2,
+      "year": 2023,
+      "season": "autumn",
+      "title": "進撃の巨人 The Final Season 完結編（後編）"
+    },
+    {
+      "id": 6932,
+      "series_id": 780,
+      "year": 2023,
+      "season": "autumn",
+      "title": "盾の勇者の成り上がり Season3"
+    },
+    {
+      "id": 10161,
+      "series_id": 443,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ウマ娘 プリティーダービー Season 3"
+    },
+    {
+      "id": 10366,
+      "series_id": 2551,
+      "year": 2023,
+      "season": "autumn",
+      "title": "16bitセンセーション ANOTHER LAYER"
+    },
+    {
+      "id": 10542,
+      "series_id": 2010,
+      "year": 2023,
+      "season": "autumn",
+      "title": "陰の実力者になりたくて！ 2nd season"
+    },
+    {
+      "id": 10374,
+      "series_id": 2346,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ひきこまり吸血姫の悶々"
+    },
+    {
+      "id": 10128,
+      "series_id": 2526,
+      "year": 2023,
+      "season": "autumn",
+      "title": "星屑テレパス"
+    },
+    {
+      "id": 10567,
+      "series_id": 2331,
+      "year": 2023,
+      "season": "autumn",
+      "title": "君のことが大大大大大好きな100人の彼女"
+    },
+    {
+      "id": 7904,
+      "series_id": 679,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ゴブリンスレイヤーⅡ"
+    },
+    {
+      "id": 9202,
+      "series_id": 2495,
+      "year": 2023,
+      "season": "autumn",
+      "title": "豚のレバーは加熱しろ"
+    },
+    {
+      "id": 9733,
+      "series_id": 2529,
+      "year": 2023,
+      "season": "autumn",
+      "title": "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜"
+    },
+    {
+      "id": 10585,
+      "series_id": 908,
+      "year": 2023,
+      "season": "autumn",
+      "title": "Dr.STONE NEW WORLD 第2クール"
+    },
+    {
+      "id": 10042,
+      "series_id": 2363,
+      "year": 2023,
+      "season": "autumn",
+      "title": "アンデッドアンラック"
+    },
+    {
+      "id": 10071,
+      "series_id": 2524,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～"
+    },
+    {
+      "id": 7608,
+      "series_id": 2286,
+      "year": 2023,
+      "season": "autumn",
+      "title": "アイドルマスター ミリオンライブ！"
+    },
+    {
+      "id": 10077,
+      "series_id": 2342,
+      "year": 2023,
+      "season": "autumn",
+      "title": "経験済みなキミと、経験ゼロなオレが、お付き合いする話。"
+    },
+    {
+      "id": 10082,
+      "series_id": 1678,
+      "year": 2023,
+      "season": "autumn",
+      "title": "カノジョも彼女 Season 2"
+    },
+    {
+      "id": 9203,
+      "series_id": 2508,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ミギとダリ"
+    },
+    {
+      "id": 10237,
+      "series_id": 2415,
+      "year": 2023,
+      "season": "autumn",
+      "title": "私の推しは悪役令嬢。"
+    },
+    {
+      "id": 10114,
+      "series_id": 2325,
+      "year": 2023,
+      "season": "autumn",
+      "title": "SHY"
+    },
+    {
+      "id": 9419,
+      "series_id": 1557,
+      "year": 2023,
+      "season": "autumn",
+      "title": "聖女の魔力は万能です Season2"
+    },
+    {
+      "id": 9021,
+      "series_id": 2507,
+      "year": 2023,
+      "season": "autumn",
+      "title": "聖剣学院の魔剣使い"
+    },
+    {
+      "id": 10960,
+      "series_id": 126,
+      "year": 2023,
+      "season": "autumn",
+      "title": "魔法使いの嫁 SEASON2 第2クール"
+    },
+    {
+      "id": 10260,
+      "series_id": 2492,
+      "year": 2023,
+      "season": "autumn",
+      "title": "鴨乃橋ロンの禁断推理"
+    },
+    {
+      "id": 8858,
+      "series_id": 2527,
+      "year": 2023,
+      "season": "autumn",
+      "title": "アンダーニンジャ"
+    },
+    {
+      "id": 10462,
+      "series_id": 2416,
+      "year": 2023,
+      "season": "autumn",
+      "title": "でこぼこ魔女の親子事情"
+    },
+    {
+      "id": 9258,
+      "series_id": 2479,
+      "year": 2023,
+      "season": "autumn",
+      "title": "MFゴースト"
+    },
+    {
+      "id": 10463,
+      "series_id": 2533,
+      "year": 2023,
+      "season": "autumn",
+      "title": "はめつのおうこく"
+    },
+    {
+      "id": 11003,
+      "series_id": 2481,
+      "year": 2023,
+      "season": "autumn",
+      "title": "僕らの雨いろプロトコル"
+    },
+    {
+      "id": 10667,
+      "series_id": 2367,
+      "year": 2023,
+      "season": "autumn",
+      "title": "婚約破棄された令嬢を拾った俺が、イケナイことを教え込む"
+    },
+    {
+      "id": 10923,
+      "series_id": 2522,
+      "year": 2023,
+      "season": "autumn",
+      "title": "冒険者になりたいと都に出て行った娘がSランクになってた"
+    },
+    {
+      "id": 9234,
+      "series_id": 1631,
+      "year": 2023,
+      "season": "autumn",
+      "title": "最果てのパラディン 鉄錆の山の王"
+    },
+    {
+      "id": 10664,
+      "series_id": 1569,
+      "year": 2023,
+      "season": "autumn",
+      "title": "東京リベンジャーズ 天竺編"
+    },
+    {
+      "id": 10580,
+      "series_id": 2341,
+      "year": 2023,
+      "season": "autumn",
+      "title": "暴食のベルセルク"
+    },
+    {
+      "id": 10629,
+      "series_id": 2547,
+      "year": 2023,
+      "season": "autumn",
+      "title": "帰還者の魔法は特別です"
+    },
+    {
+      "id": 10546,
+      "series_id": 2301,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ポーション頼みで生き延びます！"
+    },
+    {
+      "id": 10482,
+      "series_id": 2515,
+      "year": 2023,
+      "season": "autumn",
+      "title": "とあるおっさんのVRMMO活動記"
+    },
+    {
+      "id": 10431,
+      "series_id": 2409,
+      "year": 2023,
+      "season": "autumn",
+      "title": "オーバーテイク！"
+    },
+    {
+      "id": 10586,
+      "series_id": 2343,
+      "year": 2023,
+      "season": "autumn",
+      "title": "デッドマウント・デスプレイ 第2クール"
+    },
+    {
+      "id": 9440,
+      "series_id": 2450,
+      "year": 2023,
+      "season": "autumn",
+      "title": "ラグナクリムゾン"
+    },
+    {
+      "id": 10571,
+      "series_id": 2560,
+      "year": 2023,
+      "season": "autumn",
+      "title": "キボウノチカラ～オトナプリキュア ‘23～"
+    },
+    {
+      "id": 9578,
+      "series_id": 2279,
+      "year": 2023,
+      "season": "winter",
+      "title": "お兄ちゃんはおしまい！"
+    },
+    {
+      "id": 9426,
+      "series_id": 2095,
+      "year": 2023,
+      "season": "winter",
+      "title": "スパイ教室"
+    },
+    {
+      "id": 9823,
+      "series_id": 2248,
+      "year": 2023,
+      "season": "winter",
+      "title": "転生王女と天才令嬢の魔法革命"
+    },
+    {
+      "id": 9260,
+      "series_id": 2012,
+      "year": 2023,
+      "season": "winter",
+      "title": "お隣の天使様にいつの間にか駄目人間にされていた件"
+    },
+    {
+      "id": 7407,
+      "series_id": 1115,
+      "year": 2023,
+      "season": "winter",
+      "title": "痛いのは嫌なので防御力に極振りしたいと思います。2"
+    },
+    {
+      "id": 7823,
+      "series_id": 1114,
+      "year": 2023,
+      "season": "winter",
+      "title": "虚構推理 Season2"
+    },
+    {
+      "id": 9514,
+      "series_id": 2,
+      "year": 2023,
+      "season": "winter",
+      "title": "進撃の巨人 The Final Season 完結編（前編）"
+    },
+    {
+      "id": 9392,
+      "series_id": 2277,
+      "year": 2023,
+      "season": "winter",
+      "title": "NieR:Automata Ver1.1a"
+    },
+    {
+      "id": 9655,
+      "series_id": 2252,
+      "year": 2023,
+      "season": "winter",
+      "title": "久保さんは僕を許さない"
+    },
+    {
+      "id": 10107,
+      "series_id": 39,
+      "year": 2023,
+      "season": "winter",
+      "title": "ダンジョンに出会いを求めるのは間違っているだろうか IV 深章 厄災篇"
+    },
+    {
+      "id": 10143,
+      "series_id": 2246,
+      "year": 2023,
+      "season": "winter",
+      "title": "とんでもスキルで異世界放浪メシ"
+    },
+    {
+      "id": 8147,
+      "series_id": 1300,
+      "year": 2023,
+      "season": "winter",
+      "title": "魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ part1"
+    },
+    {
+      "id": 9730,
+      "series_id": 2254,
+      "year": 2023,
+      "season": "winter",
+      "title": "トモちゃんは女の子！"
+    },
+    {
+      "id": 9282,
+      "series_id": 2276,
+      "year": 2023,
+      "season": "winter",
+      "title": "便利屋斎藤さん、異世界に行く"
+    },
+    {
+      "id": 9233,
+      "series_id": 2262,
+      "year": 2023,
+      "season": "winter",
+      "title": "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん"
+    },
+    {
+      "id": 9216,
+      "series_id": 2270,
+      "year": 2023,
+      "season": "winter",
+      "title": "あやかしトライアングル"
+    },
+    {
+      "id": 9756,
+      "series_id": 2267,
+      "year": 2023,
+      "season": "winter",
+      "title": "老後に備えて異世界で8万枚の金貨を貯めます"
+    },
+    {
+      "id": 10116,
+      "series_id": 577,
+      "year": 2023,
+      "season": "winter",
+      "title": "ジョジョの奇妙な冒険 ストーンオーシャン 第3期"
+    },
+    {
+      "id": 9505,
+      "series_id": 2259,
+      "year": 2023,
+      "season": "winter",
+      "title": "異世界のんびり農家"
+    },
+    {
+      "id": 9176,
+      "series_id": 2085,
+      "year": 2023,
+      "season": "winter",
+      "title": "英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～"
+    },
+    {
+      "id": 9314,
+      "series_id": 2256,
+      "year": 2023,
+      "season": "winter",
+      "title": "最強陰陽師の異世界転生記"
+    },
+    {
+      "id": 9220,
+      "series_id": 1569,
+      "year": 2023,
+      "season": "winter",
+      "title": "東京リベンジャーズ 聖夜決戦編"
+    },
+    {
+      "id": 9606,
+      "series_id": 2258,
+      "year": 2023,
+      "season": "winter",
+      "title": "冰剣の魔術師が世界を統べる 〜世界最強の魔術師である少年は、魔術学院に入学する〜"
+    },
+    {
+      "id": 9741,
+      "series_id": 2265,
+      "year": 2023,
+      "season": "winter",
+      "title": "解雇された暗黒兵士 (30代) のスローなセカンドライフ"
+    },
+    {
+      "id": 10136,
+      "series_id": 2278,
+      "year": 2023,
+      "season": "winter",
+      "title": "Buddy Daddies"
+    },
+    {
+      "id": 9708,
+      "series_id": 2251,
+      "year": 2023,
+      "season": "winter",
+      "title": "氷属性男子とクールな同僚女子"
+    },
+    {
+      "id": 9428,
+      "series_id": 2257,
+      "year": 2023,
+      "season": "winter",
+      "title": "犬になったら好きな人に拾われた。"
+    },
+    {
+      "id": 9285,
+      "series_id": 2271,
+      "year": 2023,
+      "season": "winter",
+      "title": "大雪海のカイナ"
+    },
+    {
+      "id": 9068,
+      "series_id": 2260,
+      "year": 2023,
+      "season": "winter",
+      "title": "シュガーアップル・フェアリーテイル"
+    },
+    {
+      "id": 8952,
+      "series_id": 2250,
+      "year": 2023,
+      "season": "winter",
+      "title": "人間不信の冒険者たちが世界を救うようです"
+    },
+    {
+      "id": 9028,
+      "series_id": 1360,
+      "year": 2023,
+      "season": "winter",
+      "title": "イジらないで、長瀞さん 2nd Attack"
+    },
+    {
+      "id": 8693,
+      "series_id": 2249,
+      "year": 2023,
+      "season": "winter",
+      "title": "もういっぽん！"
+    },
+    {
+      "id": 9222,
+      "series_id": 1774,
+      "year": 2023,
+      "season": "winter",
+      "title": "吸血鬼すぐ死ぬ2"
+    },
+    {
+      "id": 9077,
+      "series_id": 162,
+      "year": 2023,
+      "season": "winter",
+      "title": "文豪ストレイドッグス (第4期)"
+    },
+    {
+      "id": 8692,
+      "series_id": 911,
+      "year": 2023,
+      "season": "winter",
+      "title": "ヴィンランド・サガ  SEASON2"
+    },
+    {
+      "id": 8560,
+      "series_id": 1396,
+      "year": 2023,
+      "season": "winter",
+      "title": "神達に拾われた男2"
+    },
+    {
+      "id": 10102,
+      "series_id": 2261,
+      "year": 2023,
+      "season": "winter",
+      "title": "アルスの巨獣"
+    },
+    {
+      "id": 9703,
+      "series_id": 2268,
+      "year": 2023,
+      "season": "winter",
+      "title": "TRIGUN STAMPEDE"
+    },
+    {
+      "id": 9116,
+      "series_id": 2269,
+      "year": 2023,
+      "season": "winter",
+      "title": "もののがたり"
+    },
+    {
+      "id": 10088,
+      "series_id": null,
+      "year": 2023,
+      "season": "winter",
+      "title": "にじよん あにめーしょん"
+    },
+    {
+      "id": 9834,
+      "series_id": 682,
+      "year": 2023,
+      "season": "winter",
+      "title": "ツルネ ―つながりの一射―"
+    },
+    {
+      "id": 10108,
+      "series_id": 2360,
+      "year": 2023,
+      "season": "winter",
+      "title": "REVENGER"
+    },
+    {
+      "id": 10065,
+      "series_id": 2247,
+      "year": 2023,
+      "season": "winter",
+      "title": "齢5000年の草食ドラゴン、いわれなき邪竜認定"
+    },
+    {
+      "id": 9414,
+      "series_id": 2084,
+      "year": 2023,
+      "season": "winter",
+      "title": "HIGH CARD"
+    },
+    {
+      "id": 9506,
+      "series_id": 2272,
+      "year": 2023,
+      "season": "winter",
+      "title": "真・進化の実 ～知らないうちに勝ち組人生～"
+    },
+    {
+      "id": 9728,
+      "series_id": 2283,
+      "year": 2023,
+      "season": "winter",
+      "title": "ノケモノたちの夜"
+    },
+    {
+      "id": 10387,
+      "series_id": 2318,
+      "year": 2023,
+      "season": "winter",
+      "title": "ひろがるスカイ！プリキュア"
+    }
+  ]
+}
