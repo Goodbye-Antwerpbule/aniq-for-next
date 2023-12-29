@@ -1,6 +1,7 @@
 import {
   Box,
   Button,
+  Collapse,
   Fade,
   Grid,
   useDisclosure,
@@ -48,6 +49,7 @@ function AnswerButtonGroup({
               bottom: "20%",
               right: "1%",
             }}
+            unmountOnExit={true}
           >
             <Box p="40px" color="white" mt="4" bg="transparent" rounded="md">
               <Grid gap={2}>
@@ -84,6 +86,7 @@ function AnswerButtonGroup({
               bottom: "14%",
               left: "0%",
             }}
+            unmountOnExit={true}
           >
             <Box p="40px" color="white" mt="4" bg="transparent" rounded="md">
               <Grid gap={2}>
