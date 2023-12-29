@@ -77,7 +77,10 @@ export default function Home() {
             "Content-Type": "application/json",
           },
           method: "POST",
-          body: JSON.stringify({ keyword: inputText }),
+          body: JSON.stringify({
+            keyword: inputText,
+            year: animeTitles[gameCnt * 8].year,
+          }),
         });
         const json: { textPositions: TextAnnotation[][]; imageUrls: string[] } =
           await res.json();
@@ -88,6 +91,7 @@ export default function Home() {
       };
       load();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [inputText]);
 
   //set title

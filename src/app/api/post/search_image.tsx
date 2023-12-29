@@ -1,17 +1,22 @@
 import { ImageSearchResponse } from "@/app/interface/types";
+import { Console } from "console";
 
 export const getAnimeImage = async (
-  keyword: string
+  keyword: string,
+  year: number
 ): Promise<ImageSearchResponse> => {
   const apiKey = process.env.GOOGLE_API_KEY as string;
   const engineId = process.env.GOOGLE_CUSTOME_SEARCH_ENGINE_ID as string;
+  const regex = /[-　]|～[^～]+～/g;
+  const terms = year < 2010 ? "アニメyoutube" : "アニメキャプチャ";
+  console.log(terms);
   const params = {
     cx: engineId,
     lr: "lang_ja",
     num: "5",
-    q: `${keyword}`,
+    q: `${keyword.replace(regex, "")}`,
     hl: "jp",
-    hq: "アニメキャプチャ",
+    onTerms: terms,
     searchType: "image",
     key: apiKey,
   };
