@@ -9,7 +9,9 @@ export const getAnimeImage = async (
     cx: engineId,
     lr: "lang_ja",
     num: "5",
-    q: `${keyword}のアニメキャプチャ`,
+    q: `らいむいろ戦奇譚`,
+    hl: "jp",
+    hq: "アニメキャプチャ",
     searchType: "image",
     key: apiKey,
   };
