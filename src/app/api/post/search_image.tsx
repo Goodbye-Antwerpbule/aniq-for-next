@@ -1,5 +1,4 @@
 import { ImageSearchResponse } from "@/app/interface/types";
-import { Console } from "console";
 
 export const getAnimeImage = async (
   keyword: string,
@@ -8,17 +7,17 @@ export const getAnimeImage = async (
   const apiKey = process.env.GOOGLE_API_KEY as string;
   const engineId = process.env.GOOGLE_CUSTOME_SEARCH_ENGINE_ID as string;
   const regex = /[-　]|～[^～]+～/g;
-  const terms = year < 2010 ? "アニメyoutube" : "アニメキャプチャ";
-  console.log(terms);
+  const terms = year < 2010 ? "アニメyoutube" : "アニメシーン";
   const params = {
     cx: engineId,
     lr: "lang_ja",
     num: "5",
     q: `${keyword.replace(regex, "")}`,
     hl: "jp",
-    onTerms: terms,
+    orTerms: terms,
     searchType: "image",
-    siteSearch: "www.facebook.com www.tiktok.com",
+    siteSearch:
+      " play.google.com www.facebook.com www.tiktok.com nijigencospa.com blushmedia.ug www.reddit.com www.metaverse-style.com m.startribune.com www.amazon.com",
     siteSearchFilter: "e",
     key: apiKey,
   };
