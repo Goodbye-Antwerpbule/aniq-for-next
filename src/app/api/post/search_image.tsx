@@ -18,6 +18,8 @@ export const getAnimeImage = async (
     hl: "jp",
     onTerms: terms,
     searchType: "image",
+    siteSearch: "www.facebook.com www.tiktok.com",
+    siteSearchFilter: "e",
     key: apiKey,
   };
   const urlSearchParam = new URLSearchParams(params).toString();
