@@ -2,7 +2,7 @@ import { TextAnnotation, VisionRequest } from "@/app/interface/types";
 export const getTextPositions = async (
   imageUrls: string[]
 ): Promise<TextAnnotation[][]> => {
-  const apiKey = process.env.GOOGLE_API_KEY as string;
+  const apiKey = process.env.GOOGLE_API_KEY;
   const apiUrl = `${process.env.GOOGLE_CLOUD_VISION_BASE_URL}key=${apiKey}`;
 
   const requests: VisionRequest[] = imageUrls.map((imageUrl) => ({

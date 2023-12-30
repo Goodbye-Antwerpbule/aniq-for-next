@@ -14,7 +14,7 @@ export const getAnimeImage = async (
     num: "5",
     q: `${keyword.replace(regex, "")}`,
     hl: "jp",
-    orTerms: terms,
+    orTerms: "アニメシーン",
     searchType: "image",
     siteSearch:
       " play.google.com www.facebook.com www.tiktok.com nijigencospa.com blushmedia.ug www.reddit.com www.metaverse-style.com m.startribune.com www.amazon.com",
