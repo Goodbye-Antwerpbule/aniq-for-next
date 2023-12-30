@@ -2,8 +2,14 @@ import { Box, Container, Flex, Heading } from "@chakra-ui/react";
 
 export function Footer() {
   return (
-    <Box bgColor="gray.100" p={{ base: 1, md: 1 }}>
-      <Container maxW={"container.lg"}>
+    <Box
+      bgColor="gray.100"
+      p={{ base: 1, md: 1 }}
+      position="fixed"
+      width="100%"
+      bottom="0%"
+    >
+      <Container>
         <Flex
           as="header"
           py="4"
