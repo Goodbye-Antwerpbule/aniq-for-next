@@ -12,7 +12,7 @@ export function Footer() {
       <Container>
         <Flex
           as="header"
-          py="4"
+          py="3"
           justifyContent="space-between"
           alignItems="left"
         >
