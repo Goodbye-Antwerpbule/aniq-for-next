@@ -1,13 +1,11 @@
 import { ImageSearchResponse } from "@/app/interface/types";
 
 export const getAnimeImage = async (
-  keyword: string,
-  year: number
+  keyword: string
 ): Promise<ImageSearchResponse> => {
   const apiKey = process.env.GOOGLE_API_KEY as string;
   const engineId = process.env.GOOGLE_CUSTOME_SEARCH_ENGINE_ID as string;
   const regex = /[-　]|～[^～]+～/g;
-  const terms = year < 2010 ? "アニメyoutube" : "アニメシーン";
   const params = {
     cx: engineId,
     lr: "lang_ja",
