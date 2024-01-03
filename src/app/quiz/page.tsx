@@ -50,7 +50,7 @@ export default function Home() {
         { animeData: animeTitles[gameCnt * 8], isCorrected: true },
       ]);
       toast({
-        title: " ◯　正解 ",
+        title: " 正解　◯ ",
         position: "top",
         colorScheme: "pink",
       });
@@ -60,7 +60,7 @@ export default function Home() {
         { animeData: animeTitles[gameCnt * 8], isCorrected: false },
       ]);
       toast({
-        title: "✕　不正解 ",
+        title: "不正解　✕ ",
         position: "top",
         colorScheme: "blue",
       });
