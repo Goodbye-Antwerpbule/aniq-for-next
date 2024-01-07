@@ -5,11 +5,11 @@ export class ShuffleArray {
       : [];
   }
   shuffleArray<T>(array: T[]): T[] {
-    return array.slice().toSorted(() => Math.random() - Math.random());
+    return [...array].slice().sort(() => Math.random() - Math.random());
   }
 
   GetRandomArray<T>(array: T[], count: number): T[] {
-    const shuffled = array.toSorted(() => 0.5 - Math.random());
+    const shuffled = [...array].sort(() => 0.5 - Math.random());
     return shuffled.slice(0, count);
   }
 
