@@ -155,7 +155,7 @@ export default function Home() {
         />
         <Center py="3">
           <Heading>
-            {inputText ? `〈問${gameCnt + 1}〉` : "Start Quiz!"}
+            {inputText ? `〈問${gameCnt + 1}〉` : "目指せ100問！"}
           </Heading>
         </Center>
         <h3>anime image</h3>
