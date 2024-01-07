@@ -5,7 +5,7 @@ import {
   Center,
   useMediaQuery,
   useToast,
-  Text,
+  Heading,
 } from "@chakra-ui/react";
 import { AnimeData, TextAnnotation } from "@/app/interface/types";
 import { useEffect, useState } from "react";
@@ -156,7 +156,9 @@ export default function Home() {
           isLoading={isLoading}
           isDesktop={isLargerThan500}
         />
-        <Text>{gameCnt > 0 ? "Q." + gameCnt : "anime Image"}</Text>
+        <Center py="3">
+          <Heading>{gameCnt > 0 ? "Q." + gameCnt : "anime Image"}</Heading>
+        </Center>
         <CanvasArea
           textPositions={textPositions}
           imageUrls={imageUrls}
