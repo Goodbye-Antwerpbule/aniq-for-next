@@ -15,13 +15,13 @@ export class ShuffleArray {
 
   GetRandomSelection<T>(array: T[], count: number, limit: number) {
     const shuffled: T[] = [];
-    shuffled.push(array[count]);
+    const rnd = Math.floor(Math.random() * limit);
 
     while (true) {
-      const remainingArray = this.GetRandomArray(array, limit - 1);
-      if (!remainingArray.includes(shuffled[0])) {
-        remainingArray.forEach((v) => {
-          shuffled.push(v);
+      const remainingArray = this.GetRandomArray(array, limit);
+      if (!remainingArray.includes(array[count])) {
+        remainingArray.forEach((v, i) => {
+          i == rnd ? shuffled.push(array[count]) : shuffled.push(v);
         });
         break;
       }
