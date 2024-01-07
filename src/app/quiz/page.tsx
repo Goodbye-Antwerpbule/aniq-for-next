@@ -157,8 +157,11 @@ export default function Home() {
           isDesktop={isLargerThan500}
         />
         <Center py="3">
-          <Heading>{gameCnt > 0 ? "Q." + gameCnt : "anime Image"}</Heading>
+          <Heading>
+            {inputText ? `〈問${gameCnt + 1}〉` : "Start Quiz!"}
+          </Heading>
         </Center>
+        <h3>anime image</h3>
         <CanvasArea
           textPositions={textPositions}
           imageUrls={imageUrls}
