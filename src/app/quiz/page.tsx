@@ -104,10 +104,7 @@ export default function Home() {
 
   //set result
   useEffect(() => {
-    if (
-      animeTitles.length > 0 &&
-      (gameCnt == animeTitles.length || lifeCnt == 0)
-    ) {
+    if (animeTitles.length > 0 && (gameCnt == 100 || lifeCnt == 0)) {
       localStorage.setItem(
         "paramTitle",
         JSON.stringify(result.map((v) => v.animeData.title))
