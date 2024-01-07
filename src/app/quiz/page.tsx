@@ -5,6 +5,7 @@ import {
   Center,
   useMediaQuery,
   useToast,
+  Text,
 } from "@chakra-ui/react";
 import { AnimeData, TextAnnotation } from "@/app/interface/types";
 import { useEffect, useState } from "react";
@@ -19,6 +20,7 @@ export default function Home() {
   const [animeTitles, setAnimeTitles] = useState<AnimeData[]>([]);
   const [inputText, setInputText] = useState("");
   const [gameCnt, setGameCnt] = useState(0);
+  const [lifeCnt, setLifeCnt] = useState(1);
   const [result, setResult] = useState<
     { animeData: AnimeData; isCorrected: boolean }[]
   >([]);
@@ -47,7 +49,7 @@ export default function Home() {
     if (inputText == title) {
       setResult([
         ...result,
-        { animeData: animeTitles[gameCnt * 8], isCorrected: true },
+        { animeData: animeTitles[gameCnt], isCorrected: true },
       ]);
       toast({
         title: " 正解　◯ ",
@@ -57,13 +59,14 @@ export default function Home() {
     } else {
       setResult([
         ...result,
-        { animeData: animeTitles[gameCnt * 8], isCorrected: false },
+        { animeData: animeTitles[gameCnt], isCorrected: false },
       ]);
       toast({
         title: "不正解　✕ ",
         position: "top",
         colorScheme: "blue",
       });
+      setLifeCnt(lifeCnt - 1);
     }
     setGameCnt(gameCnt + 1);
   };
@@ -94,14 +97,17 @@ export default function Home() {
 
   //set title
   useEffect(() => {
-    if (animeTitles.length > 0 && gameCnt < 10) {
-      setInputText(animeTitles[gameCnt * 8].title);
+    if (animeTitles.length > 0 && gameCnt < animeTitles.length) {
+      setInputText(animeTitles[gameCnt].title);
     }
   }, [animeTitles, gameCnt]);
 
   //set result
   useEffect(() => {
-    if (gameCnt == 10) {
+    if (
+      animeTitles.length > 0 &&
+      (gameCnt == animeTitles.length || lifeCnt == 0)
+    ) {
       localStorage.setItem(
         "paramTitle",
         JSON.stringify(result.map((v) => v.animeData.title))
@@ -120,7 +126,7 @@ export default function Home() {
       );
       router.push(`/quiz/result`);
     }
-  }, [gameCnt, result, router]);
+  }, [gameCnt, result, router, lifeCnt, animeTitles.length]);
   return (
     <>
       <div>
@@ -150,7 +156,7 @@ export default function Home() {
           isLoading={isLoading}
           isDesktop={isLargerThan500}
         />
-        <h3>anime image</h3>
+        <Text>{gameCnt > 0 ? "Q." + gameCnt : "anime Image"}</Text>
         <CanvasArea
           textPositions={textPositions}
           imageUrls={imageUrls}

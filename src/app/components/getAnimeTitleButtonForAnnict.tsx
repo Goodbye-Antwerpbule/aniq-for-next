@@ -1,11 +1,6 @@
 import { AnimeData } from "@/app/interface/types";
 import { Button } from "@chakra-ui/react";
-
-function GetRandomSelection<T>(array: T[], count: number): T[] {
-  const shuffled = array.sort(() => 0.5 - Math.random());
-
-  return shuffled.slice(0, count);
-}
+import { ShuffleArray } from "../interface/shuffleArrayClass";
 
 type AnimeTitleButtonProps = {
   onSubmit: <T extends AnimeData>(list: T[]) => void;
@@ -35,7 +30,8 @@ function getAnimeTitleButtonForAnnict({
 
       const res = await response.json();
       const data: AnimeData[] = JSON.parse(res).animeData;
-      const shuffledData = GetRandomSelection(data, 80);
+      const shuffleArray = new ShuffleArray();
+      const shuffledData = shuffleArray.shuffleArray(data);
       onSubmit(shuffledData);
       onToggleLoading(false);
     };

@@ -1,5 +1,13 @@
 "use client";
-import { Box, Flex, Grid, Heading, Spacer, Text } from "@chakra-ui/react";
+import {
+  Box,
+  Center,
+  Flex,
+  Grid,
+  Heading,
+  Spacer,
+  Text,
+} from "@chakra-ui/react";
 
 export default function Home() {
   const getArrayFromLocalStorage = (key: string) => {
@@ -32,6 +40,13 @@ export default function Home() {
 
   return (
     <>
+      <Center pt="4">
+        <Heading>
+          {paramTitle.length == 1
+            ? "0問正解"
+            : `${paramTitle.length - 1}問正解！`}
+        </Heading>
+      </Center>
       <Flex py={10}>
         <Box w="20%" />
         <Spacer />
@@ -39,7 +54,7 @@ export default function Home() {
           <Grid>
             {paramTitle.map((value, index) => (
               <Box key={index}>
-                <Heading>
+                <Heading size="sm">
                   {index + 1}問： {paramCorrect[index] ? "◯" : "✕"}
                 </Heading>
                 <Text>

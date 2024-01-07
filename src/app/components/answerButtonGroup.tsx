@@ -1,13 +1,6 @@
-import {
-  Box,
-  Button,
-  Collapse,
-  Fade,
-  Grid,
-  useDisclosure,
-  useToast,
-} from "@chakra-ui/react";
+import { Box, Button, Fade, Grid, useDisclosure } from "@chakra-ui/react";
 import { AnimeData } from "../interface/types";
+import { ShuffleArray } from "../interface/shuffleArrayClass";
 
 type AnswerButtonGroupProps = {
   animeList: AnimeData[];
@@ -25,14 +18,13 @@ function AnswerButtonGroup({
   isDesktop,
 }: AnswerButtonGroupProps) {
   const { isOpen, onToggle } = useDisclosure();
-  const toast = useToast();
-  const answerList =
-    animeList.length > 0
-      ? animeList.filter(
-          (_anime, index) => index >= gameCnt * 8 && index < (gameCnt + 1) * 8
-        )
-      : [];
-  const shuffleAnimeList = shuffleArray(answerList);
+
+  const shuffleArray = new ShuffleArray();
+  const shuffleAnimeList = shuffleArray.GetRandomSelection(
+    animeList,
+    gameCnt,
+    8
+  );
 
   const onAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (e.currentTarget.textContent) onSubmit(e.currentTarget.textContent);
@@ -118,10 +110,6 @@ function AnswerButtonGroup({
       )}
     </>
   );
-}
-
-function shuffleArray<T>(array: T[]): T[] {
-  return array.slice().sort(() => Math.random() - Math.random());
 }
 
 export default AnswerButtonGroup;
