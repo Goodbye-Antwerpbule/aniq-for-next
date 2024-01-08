@@ -4,7 +4,6 @@ import { ShuffleArray } from "../interface/shuffleArrayClass";
 
 type AnswerButtonGroupProps = {
   animeList: AnimeData[];
-  gameCnt: number;
   onSubmit: (title: string) => void;
   isLoading: boolean;
   isDesktop: boolean;
@@ -12,19 +11,11 @@ type AnswerButtonGroupProps = {
 
 function AnswerButtonGroup({
   animeList,
-  gameCnt,
   onSubmit,
   isLoading,
   isDesktop,
 }: AnswerButtonGroupProps) {
   const { isOpen, onToggle } = useDisclosure();
-
-  const shuffleArray = new ShuffleArray();
-  const shuffleAnimeList = shuffleArray.GetRandomSelection(
-    animeList,
-    gameCnt,
-    8
-  );
 
   const onAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (e.currentTarget.textContent) onSubmit(e.currentTarget.textContent);
@@ -46,7 +37,7 @@ function AnswerButtonGroup({
             <Box p="40px" color="white" mt="4" bg="transparent" rounded="md">
               <Grid gap={2}>
                 {!isLoading
-                  ? shuffleAnimeList.map((anime) => (
+                  ? animeList.map((anime) => (
                       <Box key={anime.title}>
                         <Button onClick={onAnswer}>{anime.title}</Button>
                       </Box>
@@ -83,7 +74,7 @@ function AnswerButtonGroup({
             <Box p="40px" color="white" mt="4" bg="transparent" rounded="md">
               <Grid gap={2}>
                 {!isLoading
-                  ? shuffleAnimeList.map((anime) => (
+                  ? animeList.map((anime) => (
                       <Box key={anime.title}>
                         <Button size="sm" onClick={onAnswer}>
                           {anime.title}

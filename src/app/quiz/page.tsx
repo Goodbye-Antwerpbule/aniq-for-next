@@ -14,6 +14,7 @@ import AnswerButtonGroup from "@/app/components/answerButtonGroup";
 import CanvasArea from "../components/canvasArea";
 import ProgressCircle from "../components/progressCircle";
 import GetAnimeTitleButtonForAnnict from "../components/getAnimeTitleButtonForAnnict";
+import { ShuffleArray } from "../interface/shuffleArrayClass";
 export default function Home() {
   const [textPositions, setTextPositions] = useState<TextAnnotation[][]>([]);
   const [imageUrls, setImageUrls] = useState<string[]>([]);
@@ -25,7 +26,7 @@ export default function Home() {
     { animeData: AnimeData; isCorrected: boolean }[]
   >([]);
   const selectedYear = [1990, 2000, 2010, 2020];
-
+  const [shuffleAnimeList, setShuffleAnimeList] = useState<AnimeData[]>([]);
   const [isLoading, setIsLoding] = useState(false);
   const [isDisabled, setIsDisabled] = useState(false);
   const [isLargerThan500] = useMediaQuery("(min-width: 500px)");
@@ -99,6 +100,10 @@ export default function Home() {
   useEffect(() => {
     if (animeTitles.length > 0 && gameCnt < animeTitles.length) {
       setInputText(animeTitles[gameCnt].title);
+      const shuffleArray = new ShuffleArray();
+      setShuffleAnimeList(
+        shuffleArray.GetRandomSelection(animeTitles, gameCnt, 8)
+      );
     }
   }, [animeTitles, gameCnt]);
 
@@ -147,14 +152,13 @@ export default function Home() {
         </Box>
 
         <AnswerButtonGroup
-          animeList={animeTitles}
-          gameCnt={gameCnt}
+          animeList={shuffleAnimeList}
           onSubmit={onDoNext}
           isLoading={isLoading}
           isDesktop={isLargerThan500}
         />
         <Center py="3">
-          <Heading>{inputText ? `〈問${gameCnt + 1}〉` : "〈問...〉"}</Heading>
+          <Heading>{inputText ? `〈問${gameCnt + 1}〉` : "〈問#〉"}</Heading>
         </Center>
         <h3>anime image</h3>
         <CanvasArea

@@ -54,7 +54,7 @@ export default function Home() {
           <Grid>
             {paramTitle.map((value, index) => (
               <Box key={index}>
-                <Heading size="sm">
+                <Heading size="md">
                   {index + 1}問： {paramCorrect[index] ? "◯" : "✕"}
                 </Heading>
                 <Text>
