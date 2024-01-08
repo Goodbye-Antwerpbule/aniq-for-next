@@ -154,9 +154,7 @@ export default function Home() {
           isDesktop={isLargerThan500}
         />
         <Center py="3">
-          <Heading>
-            {inputText ? `〈問${gameCnt + 1}〉` : "目指せ100問！"}
-          </Heading>
+          <Heading>{inputText ? `〈問${gameCnt + 1}〉` : "〈問...〉"}</Heading>
         </Center>
         <h3>anime image</h3>
         <CanvasArea
