@@ -8,7 +8,7 @@ function ProgressCircle({ isLoading }: ProgressProps) {
       {isLoading && (
         <Modal isOpen={true} onClose={() => {}}>
           <ModalOverlay>
-            <Box top="45%" left="45%" position="absolute">
+            <Box top="47%" left="47%" position="absolute">
               <Spinner
                 thickness="4px"
                 speed="0.65s"
