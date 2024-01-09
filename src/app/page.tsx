@@ -21,7 +21,7 @@ export default function Home() {
         <Box w="20%" />
       </Flex>
       <Flex>
-        <Box w="30%" />
+        <Box w="25%" />
         <Spacer />
         <Box pb="10">
           <Link href="/quiz">
@@ -37,7 +37,7 @@ export default function Home() {
           </Link>
         </Box>
         <Spacer />
-        <Box w="30%" />
+        <Box w="25%" />
       </Flex>
     </>
   );
