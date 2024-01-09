@@ -1,4 +1,4 @@
-import { Spinner, Stack, ModalOverlay, Modal, Box } from "@chakra-ui/react";
+import { Spinner, ModalOverlay, Modal, Box } from "@chakra-ui/react";
 
 type ProgressProps = { isLoading: boolean };
 
@@ -8,7 +8,7 @@ function ProgressCircle({ isLoading }: ProgressProps) {
       {isLoading && (
         <Modal isOpen={true} onClose={() => {}}>
           <ModalOverlay>
-            <Box top="50%" left="50%" position="absolute">
+            <Box top="45%" left="45%" position="absolute">
               <Spinner
                 thickness="4px"
                 speed="0.65s"
