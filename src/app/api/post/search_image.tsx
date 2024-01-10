@@ -28,7 +28,6 @@ export const getAnimeImage = async (
     method: "GET",
     referrer: "https://aniq.vercel.app",
   });
-  await console.log(url);
   const json: Promise<ImageSearchResponse> = res.json();
   return json;
 };
