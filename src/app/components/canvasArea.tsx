@@ -1,6 +1,6 @@
 import React, { useEffect, memo, useRef } from "react";
 import { RectangleConverter } from "../interface/editImageClass";
-import { EditImageDrawer } from "../interface/testImageClass";
+import { EditImageDrawer } from "../interface/editImageClass";
 import { TextAnnotation } from "../interface/types";
 import { Flex, Spacer, Box } from "@chakra-ui/react";
 

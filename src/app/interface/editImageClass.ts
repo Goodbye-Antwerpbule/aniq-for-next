@@ -1,17 +1,12 @@
 import { Rectangle, TextAnnotation } from "./types";
 
 export class EditImageDrawer {
-  imageUrls: string[]; // 画像の URL が入った string[]
-  rectangles: Rectangle[][];
-  images: HTMLImageElement[];
-
-  constructor(imageUrls: string[], rectangles: Rectangle[][]) {
-    this.imageUrls = imageUrls;
-    this.rectangles = rectangles;
-    this.images = [];
-  }
-
-  draw(canvasContext: CanvasRenderingContext2D | null) {
+  draw(
+    canvasContext: CanvasRenderingContext2D | null,
+    imageUrls: string[], // 画像の URL が入った string[]
+    rectangles: Rectangle[][],
+    inputWidth: number
+  ) {
     if (!canvasContext) {
       console.error("Canvas context is null.");
       return;
@@ -20,25 +15,62 @@ export class EditImageDrawer {
     let sumHeight = 0;
 
     // 各画像と対応する四角形を描画
-    this.imageUrls.slice(0, this.rectangles.length).map((imageUrl, i) => {
+    imageUrls.slice(0, rectangles.length).forEach((imageUrl, i) => {
       const image = new Image();
       image.src = imageUrl;
-      this.images[i] = image;
 
       image.onload = () => {
-        canvasContext.drawImage(image, 0, sumHeight);
+        let scaledWidth = image.naturalWidth;
+        let scaledHeight = image.naturalHeight;
 
-        this.rectangles[i].forEach((rectangle) => {
+        const scaleFactor = Math.min(
+          1,
+          inputWidth / image.naturalWidth,
+          inputWidth / image.naturalHeight
+        );
+        // 画像が700pxを超える場合のみ縮小
+        if (
+          image.naturalWidth > inputWidth ||
+          image.naturalHeight > inputWidth
+        ) {
+          scaledWidth *= scaleFactor;
+          scaledHeight *= scaleFactor;
+          //console.log("scaleChanged :" + image.src);
+        }
+
+        canvasContext.drawImage(image, 0, sumHeight, scaledWidth, scaledHeight);
+
+        rectangles[i].forEach((rectangle) => {
+          let scaledRectWidth = rectangle.width;
+          let scaledRectHeight = rectangle.height;
+
+          // 四角形も700pxを超える場合のみ縮小
+          if (
+            image.naturalWidth > inputWidth ||
+            image.naturalHeight > inputWidth
+          ) {
+            const rectScaleFactorX = scaledWidth / image.naturalWidth;
+            const rectScaleFactorY = scaledHeight / image.naturalHeight;
+            scaledRectWidth *= rectScaleFactorX;
+            scaledRectHeight *= rectScaleFactorY;
+          }
+
+          const scaledX =
+            rectangle.position.x * (scaledWidth / image.naturalWidth);
+          const scaledY =
+            rectangle.position.y * (scaledHeight / image.naturalHeight) +
+            sumHeight;
+
           canvasContext.fillStyle = rectangle.color;
           canvasContext.fillRect(
-            rectangle.position.x,
-            rectangle.position.y + sumHeight,
-            rectangle.width,
-            rectangle.height
+            scaledX,
+            scaledY,
+            scaledRectWidth,
+            scaledRectHeight
           );
         });
 
-        sumHeight += this.images[i].height;
+        sumHeight += scaledHeight;
       };
     });
   }
@@ -75,7 +107,9 @@ export class RectangleConverter {
           width,
           height,
           position: { x: topLeftX, y: topLeftY },
-          color: "gray",
+          color: `rgb(${Math.floor(Math.random() * 256)},${Math.floor(
+            Math.random() * 256
+          )},${Math.floor(Math.random() * 256)})`,
         });
       });
 
