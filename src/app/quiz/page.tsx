@@ -46,7 +46,6 @@ export default function Home() {
   //set next quiz
   const onDoNext = (title: string) => {
     setIsLoding(true);
-
     if (inputText == title) {
       setResult([
         ...result,
