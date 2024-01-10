@@ -7,7 +7,7 @@ import {
   useToast,
   Heading,
 } from "@chakra-ui/react";
-import { AnimeData, TextAnnotation } from "@/app/interface/types";
+import { AnimeData, QuizResult, TextAnnotation } from "@/app/interface/types";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import AnswerButtonGroup from "@/app/components/answerButtonGroup";
@@ -22,9 +22,7 @@ export default function Home() {
   const [inputText, setInputText] = useState("");
   const [gameCnt, setGameCnt] = useState(0);
   const [lifeCnt, setLifeCnt] = useState(1);
-  const [result, setResult] = useState<
-    { animeData: AnimeData; isCorrected: boolean }[]
-  >([]);
+  const [result, setResult] = useState<QuizResult[]>([]);
   const selectedYear = [1990, 2000, 2010, 2020];
   const [shuffleAnimeList, setShuffleAnimeList] = useState<AnimeData[]>([]);
   const [isLoading, setIsLoding] = useState(false);
@@ -71,6 +69,25 @@ export default function Home() {
     setGameCnt(gameCnt + 1);
   };
 
+  const setArrayToALocalStrage = (array: QuizResult[]) => {
+    localStorage.setItem(
+      "paramTitle",
+      JSON.stringify(array.map((v) => v.animeData.title))
+    );
+    localStorage.setItem(
+      "paramYear",
+      JSON.stringify(array.map((v) => v.animeData.year))
+    );
+    localStorage.setItem(
+      "paramSeason",
+      JSON.stringify(array.map((v) => v.animeData.season))
+    );
+    localStorage.setItem(
+      "paramCorrect",
+      JSON.stringify(array.map((v) => v.isCorrected))
+    );
+  };
+
   //get & set images
   useEffect(() => {
     if (inputText) {
@@ -109,22 +126,7 @@ export default function Home() {
   //set result
   useEffect(() => {
     if (animeTitles.length > 0 && (gameCnt == 100 || lifeCnt == 0)) {
-      localStorage.setItem(
-        "paramTitle",
-        JSON.stringify(result.map((v) => v.animeData.title))
-      );
-      localStorage.setItem(
-        "paramYear",
-        JSON.stringify(result.map((v) => v.animeData.year))
-      );
-      localStorage.setItem(
-        "paramSeason",
-        JSON.stringify(result.map((v) => v.animeData.season))
-      );
-      localStorage.setItem(
-        "paramCorrect",
-        JSON.stringify(result.map((v) => v.isCorrected))
-      );
+      setArrayToALocalStrage(result);
       router.push(`/quiz/result`);
     }
   }, [gameCnt, result, router, lifeCnt, animeTitles.length]);

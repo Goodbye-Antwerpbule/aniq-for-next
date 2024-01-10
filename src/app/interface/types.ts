@@ -91,6 +91,11 @@ export interface AnimeData {
   year: number;
 }
 
+export interface QuizResult {
+  animeData: AnimeData;
+  isCorrected: boolean;
+}
+
 export interface Rectangle {
   width: number;
   height: number;
