@@ -23,7 +23,7 @@ export const getTextPositions = async (
     headers: {
       "Content-Type": "application/json",
     },
-    referrer: "/",
+    referrer: "https://aniq.vercel.app",
     body: JSON.stringify({ requests }),
   });
   const result = await response.json();
