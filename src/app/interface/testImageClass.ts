@@ -35,7 +35,7 @@ export class EditImageDrawer {
         ) {
           scaledWidth *= scaleFactor;
           scaledHeight *= scaleFactor;
-          console.log("scaleChanged :" + image.src);
+          //console.log("scaleChanged :" + image.src);
         }
 
         canvasContext.drawImage(image, 0, sumHeight, scaledWidth, scaledHeight);

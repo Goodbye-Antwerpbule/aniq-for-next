@@ -90,7 +90,7 @@ export default function Home() {
         setTextPositions(json.textPositions);
         setImageUrls(json.imageUrls);
         setIsLoding(false);
-        console.log(json);
+        //console.log(json);
       };
       load();
     }
