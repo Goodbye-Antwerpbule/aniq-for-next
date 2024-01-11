@@ -107,9 +107,7 @@ export class RectangleConverter {
           width,
           height,
           position: { x: topLeftX, y: topLeftY },
-          color: `rgb(${Math.floor(Math.random() * 256)},${Math.floor(
-            Math.random() * 256
-          )},${Math.floor(Math.random() * 256)})`,
+          color: "gray",
         });
       });
 
