@@ -4,13 +4,6 @@ import {
   Center,
   Fade,
   Grid,
-  Modal,
-  ModalBody,
-  ModalCloseButton,
-  ModalContent,
-  ModalFooter,
-  ModalHeader,
-  ModalOverlay,
   Slide,
   useDisclosure,
 } from "@chakra-ui/react";
@@ -30,7 +23,7 @@ function AnswerModal({
   isLoading,
   isDesktop,
 }: AnswerButtonGroupProps) {
-  const { isOpen, onClose, onToggle } = useDisclosure();
+  const { isOpen, onToggle } = useDisclosure();
 
   const onAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (e.currentTarget.textContent) onSubmit(e.currentTarget.textContent);
@@ -79,38 +72,36 @@ function AnswerModal({
       ) : (
         <Box>
           <Center>
-            <Modal isOpen={isOpen} onClose={onClose}>
-              <ModalOverlay />
-              <ModalContent>
-                <ModalHeader>選択肢</ModalHeader>
-                <ModalCloseButton />
-                <ModalBody>
-                  <Box
-                    p="10px"
-                    color="white"
-                    mt="3"
-                    bg="transparent"
-                    rounded="md"
-                  >
-                    <Grid gap={2}>
-                      {!isLoading
-                        ? animeList.map((anime) => (
-                            <Box key={anime.title}>
-                              <Button onClick={onAnswer}>{anime.title}</Button>
-                            </Box>
-                          ))
-                        : ""}
-                    </Grid>
-                  </Box>
-                </ModalBody>
-              </ModalContent>
-            </Modal>
+            <Slide
+              direction="bottom"
+              in={isOpen}
+              style={{
+                display: "inline-flex",
+                bottom: "3%",
+                zIndex: 10,
+              }}
+              unmountOnExit={true}
+            >
+              <Box p="40px" color="white" mt="4" bg="teal.100" rounded="md">
+                <Grid gap={2}>
+                  {!isLoading
+                    ? animeList.map((anime) => (
+                        <Box key={anime.title}>
+                          <Button size="sm" onClick={onAnswer}>
+                            {anime.title}
+                          </Button>
+                        </Box>
+                      ))
+                    : ""}
+                </Grid>
+              </Box>
+            </Slide>
           </Center>
           <Center>
             <Box
               style={{
-                paddingBottom: "100px",
-                paddingTop: "100px",
+                paddingBottom: "150px",
+                paddingTop: "180px",
                 display: "inline-block",
                 position: "relative",
                 bottom: "9%",
