@@ -17,6 +17,7 @@ import GetAnimeTitleButtonForAnnict from "../components/getAnimeTitleButtonForAn
 import { ShuffleArray } from "../interface/shuffleArrayClass";
 import SlideShowCanvas from "../components/slideShowCanvas";
 import SwiperSlideShow from "../components/slideshow";
+import AnswerModal from "../components/answerModal";
 export default function Home() {
   const [textPositions, setTextPositions] = useState<TextAnnotation[][]>([]);
   const [imageUrls, setImageUrls] = useState<string[]>([]);
@@ -154,12 +155,6 @@ export default function Home() {
           </Center>
         </Box>
 
-        <AnswerButtonGroup
-          animeList={shuffleAnimeList}
-          onSubmit={onDoNext}
-          isLoading={isLoading}
-          isDesktop={isLargerThan500}
-        />
         <Center py="3">
           <Heading>{inputText ? `〈問${gameCnt + 1}〉` : "〈問#〉"}</Heading>
         </Center>
@@ -167,6 +162,12 @@ export default function Home() {
         <SwiperSlideShow
           textPositions={textPositions}
           imageUrls={imageUrls}
+          isDesktop={isLargerThan500}
+        />
+        <AnswerModal
+          animeList={shuffleAnimeList}
+          onSubmit={onDoNext}
+          isLoading={isLoading}
           isDesktop={isLargerThan500}
         />
       </div>
