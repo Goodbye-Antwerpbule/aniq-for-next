@@ -43,9 +43,9 @@ const CanvasArea = ({
         <Spacer />
         <Box>
           {isDesktop ? (
-            <canvas ref={canvasRef} width={700} height={1500} />
+            <canvas ref={canvasRef} width={700} height={1600} />
           ) : (
-            <canvas ref={canvasRef} width={414} height={1500} />
+            <canvas ref={canvasRef} width={414} height={1600} />
           )}
         </Box>
         <Spacer />
