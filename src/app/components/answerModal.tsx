@@ -72,8 +72,7 @@ function AnswerModal({
       ) : (
         <Box>
           <Center>
-            <Slide
-              direction="bottom"
+            <Fade
               in={isOpen}
               style={{
                 display: "inline-flex",
@@ -82,7 +81,7 @@ function AnswerModal({
               }}
               unmountOnExit={true}
             >
-              <Box p="40px" color="white" mt="4" bg="teal.100" rounded="md">
+              <Box p="40px" color="white" mt="4" bg="white" rounded="md">
                 <Grid gap={2}>
                   {!isLoading
                     ? animeList.map((anime) => (
@@ -95,7 +94,7 @@ function AnswerModal({
                     : ""}
                 </Grid>
               </Box>
-            </Slide>
+            </Fade>
           </Center>
           <Center>
             <Box
