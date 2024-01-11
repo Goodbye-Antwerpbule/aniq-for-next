@@ -9,7 +9,7 @@ type AnswerButtonGroupProps = {
   isDesktop: boolean;
 };
 
-function AnswerButtonGroup({
+function AnswerModal({
   animeList,
   onSubmit,
   isLoading,
@@ -107,4 +107,4 @@ function AnswerButtonGroup({
   );
 }
 
-export default AnswerButtonGroup;
+export default AnswerModal;

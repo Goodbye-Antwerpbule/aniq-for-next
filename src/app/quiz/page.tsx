@@ -15,6 +15,8 @@ import CanvasArea from "../components/canvasArea";
 import ProgressCircle from "../components/progressCircle";
 import GetAnimeTitleButtonForAnnict from "../components/getAnimeTitleButtonForAnnict";
 import { ShuffleArray } from "../interface/shuffleArrayClass";
+import SlideShowCanvas from "../components/slideShowCanvas";
+import SwiperSlideShow from "../components/slideshow";
 export default function Home() {
   const [textPositions, setTextPositions] = useState<TextAnnotation[][]>([]);
   const [imageUrls, setImageUrls] = useState<string[]>([]);
@@ -106,7 +108,7 @@ export default function Home() {
         setTextPositions(json.textPositions);
         setImageUrls(json.imageUrls);
         setIsLoding(false);
-        //console.log(json);
+        console.log(json);
       };
       load();
     }
@@ -162,7 +164,7 @@ export default function Home() {
           <Heading>{inputText ? `〈問${gameCnt + 1}〉` : "〈問#〉"}</Heading>
         </Center>
         <h3>anime image</h3>
-        <CanvasArea
+        <SwiperSlideShow
           textPositions={textPositions}
           imageUrls={imageUrls}
           isDesktop={isLargerThan500}
