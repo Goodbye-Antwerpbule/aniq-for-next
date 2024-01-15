@@ -20,7 +20,7 @@ const SwiperSlideShow = ({
   isDesktop,
 }: EditImageDrawerProps) => {
   const style = isDesktop
-    ? { width: "700px", height: "500px", backgroundColor: "black" }
+    ? { width: "700px", height: "400px", backgroundColor: "black" }
     : { width: "390px", height: "300px", backgroundColor: "black" };
 
   return (

@@ -38,7 +38,7 @@ function AnswerModal({
 
   return (
     <>
-      <Box pt={5} pb={400}>
+      <Box pt={5} pb={150}>
         <Flex>
           <Box width="20%" />
           <Spacer />
