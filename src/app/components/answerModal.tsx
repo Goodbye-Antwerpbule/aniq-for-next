@@ -6,9 +6,12 @@ import {
   Grid,
   Slide,
   useDisclosure,
+  Select,
+  Flex,
+  Spacer,
 } from "@chakra-ui/react";
 import { AnimeData } from "../interface/types";
-import { ShuffleArray } from "../interface/shuffleArrayClass";
+import { SetStateAction, useRef, useState } from "react";
 
 type AnswerButtonGroupProps = {
   animeList: AnimeData[];
@@ -28,6 +31,11 @@ function AnswerModal({
   const onAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (e.currentTarget.textContent) onSubmit(e.currentTarget.textContent);
   };
+
+  const onSelect = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    onSubmit(e.target.value);
+  };
+
   return (
     <>
       {isDesktop ? (
@@ -70,47 +78,22 @@ function AnswerModal({
           </Box>
         </Box>
       ) : (
-        <Box>
-          <Center>
-            <Fade
-              in={isOpen}
-              style={{
-                display: "inline-flex",
-                bottom: "3%",
-                zIndex: 10,
-              }}
-              unmountOnExit={true}
-            >
-              <Box p="40px" color="white" mt="4" bg="white" rounded="md">
-                <Grid gap={2}>
-                  {!isLoading
-                    ? animeList.map((anime) => (
-                        <Box key={anime.title}>
-                          <Button size="sm" onClick={onAnswer}>
-                            {anime.title}
-                          </Button>
-                        </Box>
-                      ))
-                    : ""}
-                </Grid>
-              </Box>
-            </Fade>
-          </Center>
-          <Center>
-            <Box
-              style={{
-                paddingBottom: "150px",
-                paddingTop: "180px",
-                display: "inline-block",
-                position: "relative",
-                bottom: "9%",
-              }}
-            >
-              <Button onClick={onToggle} size="lg" colorScheme="green">
-                回答する
-              </Button>
-            </Box>
-          </Center>
+        <Box pt={5} pb={400}>
+          <Flex>
+            <Box width="5%" />
+            <Spacer />
+            <Select placeholder="回答する" onChange={onSelect}>
+              {!isLoading
+                ? animeList.map((anime) => (
+                    <option key={anime.title} value={anime.title}>
+                      {anime.title}
+                    </option>
+                  ))
+                : ""}
+            </Select>
+            <Spacer />
+            <Box width="5%" />
+          </Flex>
         </Box>
       )}
     </>
