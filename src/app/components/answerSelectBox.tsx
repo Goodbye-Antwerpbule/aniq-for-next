@@ -17,17 +17,13 @@ type AnswerButtonGroupProps = {
   animeList: AnimeData[];
   onSubmit: (title: string) => void;
   isLoading: boolean;
-  isDesktop: boolean;
 };
 
-function AnswerModal({
+function AnswerSelectBox({
   animeList,
   onSubmit,
   isLoading,
-  isDesktop,
 }: AnswerButtonGroupProps) {
-  const { isOpen, onToggle } = useDisclosure();
-
   const onAnswer = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (e.currentTarget.textContent) onSubmit(e.currentTarget.textContent);
   };
@@ -59,4 +55,4 @@ function AnswerModal({
   );
 }
 
-export default AnswerModal;
+export default AnswerSelectBox;

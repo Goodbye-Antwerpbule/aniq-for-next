@@ -10,14 +10,11 @@ import {
 import { AnimeData, QuizResult, TextAnnotation } from "@/app/interface/types";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import AnswerButtonGroup from "@/app/components/answerButtonGroup";
-import CanvasArea from "../components/canvasArea";
 import ProgressCircle from "../components/progressCircle";
 import GetAnimeTitleButtonForAnnict from "../components/getAnimeTitleButtonForAnnict";
 import { ShuffleArray } from "../interface/shuffleArrayClass";
-import SlideShowCanvas from "../components/slideShowCanvas";
 import SwiperSlideShow from "../components/slideshow";
-import AnswerModal from "../components/answerModal";
+import AnswerSelectBox from "../components/answerSelectBox";
 export default function Home() {
   const [textPositions, setTextPositions] = useState<TextAnnotation[][]>([]);
   const [imageUrls, setImageUrls] = useState<string[]>([]);
@@ -101,7 +98,7 @@ export default function Home() {
           },
           method: "POST",
           body: JSON.stringify({
-            keyword: "ぱすてるメモリーズ",
+            keyword: "キノの旅 the Beautiful World",
           }),
         });
         const json: { textPositions: TextAnnotation[][]; imageUrls: string[] } =
@@ -164,11 +161,10 @@ export default function Home() {
           imageUrls={imageUrls}
           isDesktop={isLargerThan500}
         />
-        <AnswerModal
+        <AnswerSelectBox
           animeList={shuffleAnimeList}
           onSubmit={onDoNext}
           isLoading={isLoading}
-          isDesktop={isLargerThan500}
         />
       </div>
     </>
