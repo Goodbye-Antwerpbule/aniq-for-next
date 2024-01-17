@@ -10,7 +10,7 @@ export const getAnimeImage = async (
     cx: engineId,
     lr: "lang_ja",
     num: "5",
-    q: `${keyword.replace(regex, "")}`,
+    q: `ぱすてるメモリーズ`,
     hl: "jp",
     orTerms: "アニメシーン",
     searchType: "image",
