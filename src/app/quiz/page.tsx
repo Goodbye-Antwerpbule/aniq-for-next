@@ -98,7 +98,7 @@ export default function Home() {
           },
           method: "POST",
           body: JSON.stringify({
-            keyword: "キノの旅 the Beautiful World",
+            keyword: inputText,
           }),
         });
         const json: { textPositions: TextAnnotation[][]; imageUrls: string[] } =
