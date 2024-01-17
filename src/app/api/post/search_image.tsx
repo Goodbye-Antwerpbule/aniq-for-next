@@ -10,7 +10,7 @@ export const getAnimeImage = async (
     cx: engineId,
     lr: "lang_ja",
     num: "5",
-    q: `ぱすてるメモリーズ`,
+    q: `${keyword.replace(regex, "")}`,
     hl: "jp",
     orTerms: "アニメシーン",
     searchType: "image",
@@ -20,7 +20,6 @@ export const getAnimeImage = async (
     key: apiKey,
   };
   const urlSearchParam = new URLSearchParams(params).toString();
-
   const url = process.env.GOOGLE_CUSTOME_SEARCH_BASE_URL + urlSearchParam;
 
   const res = await fetch(url, {

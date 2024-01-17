@@ -101,7 +101,7 @@ export default function Home() {
           },
           method: "POST",
           body: JSON.stringify({
-            keyword: inputText,
+            keyword: "ぱすてるメモリーズ",
           }),
         });
         const json: { textPositions: TextAnnotation[][]; imageUrls: string[] } =
