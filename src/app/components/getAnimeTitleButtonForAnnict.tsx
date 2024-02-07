@@ -3,7 +3,7 @@ import { Button } from "@chakra-ui/react";
 import { ShuffleArray } from "../interface/shuffleArrayClass";
 
 type AnimeTitleButtonProps = {
-  onSubmit: <T extends AnimeData>(list: T[]) => void;
+  onSubmit: (list: AnimeData[]) => void;
   onToggleLoading: (value: boolean) => void;
 
   isDisabled: boolean;

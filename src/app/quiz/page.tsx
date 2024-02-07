@@ -15,7 +15,9 @@ import GetAnimeTitleButtonForAnnict from "../components/getAnimeTitleButtonForAn
 import { ShuffleArray } from "../interface/shuffleArrayClass";
 import SwiperSlideShow from "../components/slideshow";
 import AnswerSelectBox from "../components/answerSelectBox";
+
 export default function Home() {
+  const quizType = "animeTitle";
   const [textPositions, setTextPositions] = useState<TextAnnotation[][]>([]);
   const [imageUrls, setImageUrls] = useState<string[]>([]);
   const [animeTitles, setAnimeTitles] = useState<AnimeData[]>([]);
@@ -36,7 +38,7 @@ export default function Home() {
   };
 
   //set init quiz
-  const onSetAnime = <T extends AnimeData>(list: T[]): void => {
+  const onSetAnime = (list: AnimeData[]): void => {
     setAnimeTitles(list);
     setIsDisabled(true);
   };
@@ -99,6 +101,7 @@ export default function Home() {
           method: "POST",
           body: JSON.stringify({
             keyword: "キノの旅 the Beautiful World",
+            quizType: quizType,
           }),
         });
         const json: { textPositions: TextAnnotation[][]; imageUrls: string[] } =

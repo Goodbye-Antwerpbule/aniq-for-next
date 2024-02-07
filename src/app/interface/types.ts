@@ -91,6 +91,31 @@ export interface AnimeData {
   year: number;
 }
 
+export interface Work {
+  id: number;
+  title: string;
+}
+
+export interface Character {
+  id: number;
+  name: string;
+}
+
+export interface Person {
+  id: number;
+  name: string;
+}
+
+export interface Cast {
+  id: number;
+  name: string;
+  name_en: string;
+  sort_number: number;
+  work: Work;
+  character: Character;
+  person: Person;
+}
+
 export interface QuizResult {
   animeData: AnimeData;
   isCorrected: boolean;
@@ -102,3 +127,10 @@ export interface Rectangle {
   position: { x: number; y: number };
   color: string;
 }
+
+export type QuizType =
+  | "TitleFromAnimeImages"
+  | "TitleFromCasts"
+  | "TitleFromCharacters"
+  | "TitleFromCharacterImages"
+  | "CharacterFromCharacterImages";

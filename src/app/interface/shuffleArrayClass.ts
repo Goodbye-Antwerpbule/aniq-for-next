@@ -5,7 +5,9 @@ export class ShuffleArray {
       : [];
   }
   shuffleArray<T>(array: T[]): T[] {
-    return [...array].slice().sort(() => Math.random() - Math.random());
+    if (array.length > 0)
+      return [...array].slice().sort(() => Math.random() - Math.random());
+    return [];
   }
 
   GetRandomArray<T>(array: T[], count: number): T[] {
